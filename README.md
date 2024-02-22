@@ -1,6 +1,6 @@
 # Is Your Learned Query Optimizer Behaving As You Expect? - A Machine Learning Perspective
 
-This repository includes the code base used in the paper "Is Your Learned Query Optimizer Behaving As You Expect? A Machine Learning Perspective", submitted for review at VLDB 2024.
+This repository includes the code base used in the paper "Is Your Learned Query Optimizer Behaving As You Expect? A Machine Learning Perspective", accepted at VLDB2024, the 50th International Conference on Very Large Databases and available as a preprint on [arXiv](https://arxiv.org/abs/2309.01551).
 
 
 ## Authors

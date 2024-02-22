@@ -1,0 +1,1744 @@
+Using connection:	 dbname=imdbload user=postgres password=postgres host=pg_bao
+Read 94 queries.
+Using Bao: True
+Executing queries using PG optimizer for initial training
+x x 0 2023-06-28 15:02:55.672567 queries/job_rand_base_split__train/29a.sql 130.775 PG
+x x 1 2023-06-28 15:03:03.475056 queries/job_rand_base_split__train/29a.sql 133.23 PG
+x x 2 2023-06-28 15:03:28.243718 queries/job_rand_base_split__train/29a.sql 134.472 PG
+x x 0 2023-06-28 15:03:36.309289 queries/job_rand_base_split__train/10c.sql 3511.151 PG
+x x 1 2023-06-28 15:03:43.267616 queries/job_rand_base_split__train/10c.sql 3425.044 PG
+x x 2 2023-06-28 15:03:50.516167 queries/job_rand_base_split__train/10c.sql 3411.636 PG
+x x 0 2023-06-28 15:04:12.629213 queries/job_rand_base_split__train/17e.sql 10649.495 PG
+x x 1 2023-06-28 15:04:32.723240 queries/job_rand_base_split__train/17e.sql 10276.03 PG
+x x 2 2023-06-28 15:04:53.225627 queries/job_rand_base_split__train/17e.sql 10324.95 PG
+x x 0 2023-06-28 15:04:55.967162 queries/job_rand_base_split__train/16d.sql 1210.653 PG
+x x 1 2023-06-28 15:04:58.603559 queries/job_rand_base_split__train/16d.sql 1259.392 PG
+x x 2 2023-06-28 15:05:01.648207 queries/job_rand_base_split__train/16d.sql 1204.347 PG
+x x 0 2023-06-28 15:05:02.474547 queries/job_rand_base_split__train/33b.sql 27.322 PG
+x x 1 2023-06-28 15:05:03.266923 queries/job_rand_base_split__train/33b.sql 26.759 PG
+x x 2 2023-06-28 15:05:06.149853 queries/job_rand_base_split__train/33b.sql 26.523 PG
+x x 0 2023-06-28 15:05:11.182515 queries/job_rand_base_split__train/30a.sql 1910.825 PG
+x x 1 2023-06-28 15:05:15.349796 queries/job_rand_base_split__train/30a.sql 1939.156 PG
+x x 2 2023-06-28 15:05:20.340208 queries/job_rand_base_split__train/30a.sql 1879.245 PG
+x x 0 2023-06-28 15:05:29.335120 queries/job_rand_base_split__train/6d.sql 4441.792 PG
+x x 1 2023-06-28 15:05:39.334760 queries/job_rand_base_split__train/6d.sql 4919.845 PG
+x x 2 2023-06-28 15:05:48.902810 queries/job_rand_base_split__train/6d.sql 4170.366 PG
+x x 0 2023-06-28 15:05:49.120955 queries/job_rand_base_split__train/12b.sql 99.831 PG
+x x 1 2023-06-28 15:05:49.319194 queries/job_rand_base_split__train/12b.sql 92.93 PG
+x x 2 2023-06-28 15:05:50.028170 queries/job_rand_base_split__train/12b.sql 102.065 PG
+x x 0 2023-06-28 15:05:53.565293 queries/job_rand_base_split__train/20b.sql 1649.352 PG
+x x 1 2023-06-28 15:05:57.054707 queries/job_rand_base_split__train/20b.sql 1632.833 PG
+x x 2 2023-06-28 15:06:01.396124 queries/job_rand_base_split__train/20b.sql 1927.94 PG
+x x 0 2023-06-28 15:06:08.461952 queries/job_rand_base_split__train/10c.sql 3639.608 PG
+x x 1 2023-06-28 15:06:15.373210 queries/job_rand_base_split__train/10c.sql 3408.693 PG
+x x 2 2023-06-28 15:06:22.629380 queries/job_rand_base_split__train/10c.sql 3453.532 PG
+x x 0 2023-06-28 15:06:25.197350 queries/job_rand_base_split__train/16d.sql 1223.65 PG
+x x 1 2023-06-28 15:06:27.921269 queries/job_rand_base_split__train/16d.sql 1358.531 PG
+x x 2 2023-06-28 15:06:30.924881 queries/job_rand_base_split__train/16d.sql 1190.358 PG
+x x 0 2023-06-28 15:06:32.919680 queries/job_rand_base_split__train/22d.sql 755.581 PG
+x x 1 2023-06-28 15:06:34.552823 queries/job_rand_base_split__train/22d.sql 740.481 PG
+x x 2 2023-06-28 15:06:36.841910 queries/job_rand_base_split__train/22d.sql 740.305 PG
+x x 0 2023-06-28 15:06:43.740580 queries/job_rand_base_split__train/10c.sql 3443.721 PG
+x x 1 2023-06-28 15:06:50.507097 queries/job_rand_base_split__train/10c.sql 3417.054 PG
+x x 2 2023-06-28 15:06:57.693582 queries/job_rand_base_split__train/10c.sql 3415.338 PG
+x x 0 2023-06-28 15:07:35.318851 queries/job_rand_base_split__train/16b.sql 19352.948 PG
+x x 1 2023-06-28 15:08:11.563493 queries/job_rand_base_split__train/16b.sql 18975.038 PG
+x x 2 2023-06-28 15:08:51.338604 queries/job_rand_base_split__train/16b.sql 20493.079 PG
+x x 0 2023-06-28 15:08:59.188329 queries/job_rand_base_split__train/29b.sql 41.209 PG
+x x 1 2023-06-28 15:09:06.946506 queries/job_rand_base_split__train/29b.sql 29.365 PG
+x x 2 2023-06-28 15:09:31.120994 queries/job_rand_base_split__train/29b.sql 29.307 PG
+x x 0 2023-06-28 15:09:34.248956 queries/job_rand_base_split__train/26a.sql 1310.043 PG
+x x 1 2023-06-28 15:09:37.245522 queries/job_rand_base_split__train/26a.sql 1372.467 PG
+x x 2 2023-06-28 15:09:40.817411 queries/job_rand_base_split__train/26a.sql 1276.596 PG
+x x 0 2023-06-28 15:09:43.491102 queries/job_rand_base_split__train/16d.sql 1251.041 PG
+x x 1 2023-06-28 15:09:46.037787 queries/job_rand_base_split__train/16d.sql 1182.323 PG
+x x 2 2023-06-28 15:09:49.208733 queries/job_rand_base_split__train/16d.sql 1272.473 PG
+x x 0 2023-06-28 15:09:49.449911 queries/job_rand_base_split__train/27b.sql 11.304 PG
+x x 1 2023-06-28 15:09:49.683222 queries/job_rand_base_split__train/27b.sql 11.06 PG
+x x 2 2023-06-28 15:09:50.793700 queries/job_rand_base_split__train/27b.sql 11.437 PG
+x x 0 2023-06-28 15:09:51.057376 queries/job_rand_base_split__train/4c.sql 96.126 PG
+x x 1 2023-06-28 15:09:51.304044 queries/job_rand_base_split__train/4c.sql 94.871 PG
+x x 2 2023-06-28 15:09:52.148812 queries/job_rand_base_split__train/4c.sql 103.589 PG
+x x 0 2023-06-28 15:09:53.078876 queries/job_rand_base_split__train/10a.sql 449.323 PG
+x x 1 2023-06-28 15:09:54.029431 queries/job_rand_base_split__train/10a.sql 451.869 PG
+x x 2 2023-06-28 15:09:55.515433 queries/job_rand_base_split__train/10a.sql 477.397 PG
+x x 0 2023-06-28 15:09:55.703025 queries/job_rand_base_split__train/4b.sql 76.161 PG
+x x 1 2023-06-28 15:09:55.898909 queries/job_rand_base_split__train/4b.sql 82.66 PG
+x x 2 2023-06-28 15:09:56.607249 queries/job_rand_base_split__train/4b.sql 91.305 PG
+x x 0 2023-06-28 15:10:02.326290 queries/job_rand_base_split__train/30c.sql 2193.6 PG
+x x 1 2023-06-28 15:10:07.157653 queries/job_rand_base_split__train/30c.sql 2197.647 PG
+x x 2 2023-06-28 15:10:12.770595 queries/job_rand_base_split__train/30c.sql 2182.346 PG
+x x 0 2023-06-28 15:10:13.151659 queries/job_rand_base_split__train/19b.sql 149.09 PG
+x x 1 2023-06-28 15:10:13.533675 queries/job_rand_base_split__train/19b.sql 151.393 PG
+x x 2 2023-06-28 15:10:14.495715 queries/job_rand_base_split__train/19b.sql 164.329 PG
+x x 0 2023-06-28 15:10:15.152084 queries/job_rand_base_split__train/14a.sql 251.503 PG
+x x 1 2023-06-28 15:10:15.759689 queries/job_rand_base_split__train/14a.sql 243.598 PG
+x x 2 2023-06-28 15:10:16.860213 queries/job_rand_base_split__train/14a.sql 241.506 PG
+x x 0 2023-06-28 15:10:21.312927 queries/job_rand_base_split__train/8d.sql 2324.668 PG
+x x 1 2023-06-28 15:10:25.555524 queries/job_rand_base_split__train/8d.sql 2242.421 PG
+x x 2 2023-06-28 15:10:30.629272 queries/job_rand_base_split__train/8d.sql 2424.776 PG
+==========================================================================================
+Iteration over chunk 1/19...
+[2023-06-28 15:10:30.629402]	[1/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.45429638400673866
+Epoch 15 training loss: 0.04098000377416611
+Epoch 30 training loss: 0.02496581431478262
+Epoch 45 training loss: 0.014577468391507864
+Epoch 60 training loss: 0.010641194880008698
+Stopped training from convergence condition at epoch 60
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-28 15:10:33.983471]	[1/19]	Retraining done.
+0 0 0 2023-06-28 15:10:35.232970 queries/job_rand_base_split__train/19b.sql 173.346
+0 0 1 2023-06-28 15:10:36.394848 queries/job_rand_base_split__train/19b.sql 202.327
+0 0 2 2023-06-28 15:10:37.556181 queries/job_rand_base_split__train/19b.sql 186.342
+0 1 0 2023-06-28 15:10:38.432619 queries/job_rand_base_split__train/12b.sql 127.175
+0 1 1 2023-06-28 15:10:39.240593 queries/job_rand_base_split__train/12b.sql 103.466
+0 1 2 2023-06-28 15:10:40.176941 queries/job_rand_base_split__train/12b.sql 158.572
+0 2 0 2023-06-28 15:10:42.328643 queries/job_rand_base_split__train/12c.sql 689.102
+0 2 1 2023-06-28 15:10:44.388741 queries/job_rand_base_split__train/12c.sql 679.904
+0 2 2 2023-06-28 15:10:46.452130 queries/job_rand_base_split__train/12c.sql 686.416
+0 3 0 2023-06-28 15:10:47.509669 queries/job_rand_base_split__train/5c.sql 211.09
+0 3 1 2023-06-28 15:10:48.510281 queries/job_rand_base_split__train/5c.sql 200.884
+0 3 2 2023-06-28 15:10:49.554414 queries/job_rand_base_split__train/5c.sql 215.183
+0 4 0 2023-06-28 15:10:51.434249 queries/job_rand_base_split__train/27c.sql 31.743
+0 4 1 2023-06-28 15:10:53.242464 queries/job_rand_base_split__train/27c.sql 31.32
+0 4 2 2023-06-28 15:10:55.034947 queries/job_rand_base_split__train/27c.sql 31.357
+0 5 0 2023-06-28 15:10:55.852431 queries/job_rand_base_split__train/4b.sql 78.48
+0 5 1 2023-06-28 15:10:56.601593 queries/job_rand_base_split__train/4b.sql 77.138
+0 5 2 2023-06-28 15:10:57.345523 queries/job_rand_base_split__train/4b.sql 76.582
+0 6 0 2023-06-28 15:11:02.647121 queries/job_rand_base_split__train/33a.sql 31.095
+0 6 1 2023-06-28 15:11:08.097657 queries/job_rand_base_split__train/33a.sql 36.717
+0 6 2 2023-06-28 15:11:13.137874 queries/job_rand_base_split__train/33a.sql 30.409
+0 7 0 2023-06-28 15:11:14.997766 queries/job_rand_base_split__train/23c.sql 398.165
+0 7 1 2023-06-28 15:11:16.903347 queries/job_rand_base_split__train/23c.sql 419.051
+0 7 2 2023-06-28 15:11:18.700383 queries/job_rand_base_split__train/23c.sql 400.313
+0 8 0 2023-06-28 15:11:20.072854 queries/job_rand_base_split__train/9b.sql 343.249
+0 8 1 2023-06-28 15:11:21.412861 queries/job_rand_base_split__train/9b.sql 347.592
+0 8 2 2023-06-28 15:11:22.854257 queries/job_rand_base_split__train/9b.sql 351.258
+0 9 0 2023-06-28 15:11:23.632298 queries/job_rand_base_split__train/1b.sql 112.542
+0 9 1 2023-06-28 15:11:24.482413 queries/job_rand_base_split__train/1b.sql 103.004
+0 9 2 2023-06-28 15:11:25.312173 queries/job_rand_base_split__train/1b.sql 138.972
+0 10 0 2023-06-28 15:11:28.648422 queries/job_rand_base_split__train/26a.sql 866.425
+0 10 1 2023-06-28 15:11:32.156975 queries/job_rand_base_split__train/26a.sql 962.891
+0 10 2 2023-06-28 15:11:35.364818 queries/job_rand_base_split__train/26a.sql 849.014
+0 11 0 2023-06-28 15:11:36.305553 queries/job_rand_base_split__train/5a.sql 154.286
+0 11 1 2023-06-28 15:11:37.208797 queries/job_rand_base_split__train/5a.sql 162.272
+0 11 2 2023-06-28 15:11:38.114830 queries/job_rand_base_split__train/5a.sql 161.037
+0 12 0 2023-06-28 15:11:43.118292 queries/job_rand_base_split__train/28b.sql 443.807
+0 12 1 2023-06-28 15:11:48.490902 queries/job_rand_base_split__train/28b.sql 454.433
+0 12 2 2023-06-28 15:11:53.601718 queries/job_rand_base_split__train/28b.sql 479.471
+0 13 0 2023-06-28 15:11:54.692127 queries/job_rand_base_split__train/6b.sql 224.901
+0 13 1 2023-06-28 15:11:55.835033 queries/job_rand_base_split__train/6b.sql 222.454
+0 13 2 2023-06-28 15:11:56.966351 queries/job_rand_base_split__train/6b.sql 211.618
+0 14 0 2023-06-28 15:11:58.789789 queries/job_rand_base_split__train/27a.sql 21.754
+0 14 1 2023-06-28 15:12:00.688836 queries/job_rand_base_split__train/27a.sql 22.566
+0 14 2 2023-06-28 15:12:02.489892 queries/job_rand_base_split__train/27a.sql 21.53
+0 15 0 2023-06-28 15:12:03.766560 queries/job_rand_base_split__train/32a.sql 228.117
+0 15 1 2023-06-28 15:12:04.730669 queries/job_rand_base_split__train/32a.sql 199.332
+0 15 2 2023-06-28 15:12:05.781164 queries/job_rand_base_split__train/32a.sql 235.447
+0 16 0 2023-06-28 15:12:07.634511 queries/job_rand_base_split__train/11b.sql 421.464
+0 16 1 2023-06-28 15:12:08.960514 queries/job_rand_base_split__train/11b.sql 367.665
+0 16 2 2023-06-28 15:12:10.348549 queries/job_rand_base_split__train/11b.sql 481.72
+0 17 0 2023-06-28 15:12:39.046264 queries/job_rand_base_split__train/17a.sql 13943.673
+0 17 1 2023-06-28 15:13:06.389445 queries/job_rand_base_split__train/17a.sql 13659.822
+0 17 2 2023-06-28 15:13:34.796680 queries/job_rand_base_split__train/17a.sql 13803.849
+0 18 0 2023-06-28 15:13:42.460672 queries/job_rand_base_split__train/18a.sql 3297.045
+0 18 1 2023-06-28 15:13:49.197789 queries/job_rand_base_split__train/18a.sql 3145.654
+0 18 2 2023-06-28 15:13:55.994592 queries/job_rand_base_split__train/18a.sql 3145.728
+0 19 0 2023-06-28 15:13:57.260841 queries/job_rand_base_split__train/12a.sql 229.973
+0 19 1 2023-06-28 15:13:58.458370 queries/job_rand_base_split__train/12a.sql 226.601
+0 19 2 2023-06-28 15:13:59.610956 queries/job_rand_base_split__train/12a.sql 222.758
+0 20 0 2023-06-28 15:14:27.052505 queries/job_rand_base_split__train/17a.sql 13884.248
+0 20 1 2023-06-28 15:14:54.694454 queries/job_rand_base_split__train/17a.sql 13810.766
+0 20 2 2023-06-28 15:15:22.361877 queries/job_rand_base_split__train/17a.sql 13940.393
+0 21 0 2023-06-28 15:15:24.402456 queries/job_rand_base_split__train/12c.sql 676.818
+0 21 1 2023-06-28 15:15:26.495124 queries/job_rand_base_split__train/12c.sql 623.195
+0 21 2 2023-06-28 15:15:28.452953 queries/job_rand_base_split__train/12c.sql 635.455
+0 22 0 2023-06-28 15:15:50.609647 queries/job_rand_base_split__train/17f.sql 10856.428
+0 22 1 2023-06-28 15:16:12.109779 queries/job_rand_base_split__train/17f.sql 10584.899
+0 22 2 2023-06-28 15:16:33.525735 queries/job_rand_base_split__train/17f.sql 10651.991
+0 23 0 2023-06-28 15:16:39.982710 queries/job_rand_base_split__train/28c.sql 1092.563
+0 23 1 2023-06-28 15:16:46.219926 queries/job_rand_base_split__train/28c.sql 1007.788
+0 23 2 2023-06-28 15:16:52.446756 queries/job_rand_base_split__train/28c.sql 1036.346
+0 24 0 2023-06-28 15:16:53.285292 queries/job_rand_base_split__train/1a.sql 103.362
+0 24 1 2023-06-28 15:16:54.135821 queries/job_rand_base_split__train/1a.sql 118.797
+0 24 2 2023-06-28 15:16:55.045645 queries/job_rand_base_split__train/1a.sql 113.63
+==========================================================================================
+Iteration over chunk 2/19...
+[2023-06-28 15:16:55.045804]	[2/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.38341210782527924
+Epoch 15 training loss: 0.03236398519948125
+Stopped training from convergence condition at epoch 29
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-28 15:16:58.031078]	[2/19]	Retraining done.
+1 0 0 2023-06-28 15:16:58.958527 queries/job_rand_base_split__train/1a.sql 110.694
+1 0 1 2023-06-28 15:16:59.828693 queries/job_rand_base_split__train/1a.sql 111.944
+1 0 2 2023-06-28 15:17:00.724993 queries/job_rand_base_split__train/1a.sql 135.181
+1 1 0 2023-06-28 15:17:12.240289 queries/job_rand_base_split__train/16c.sql 4408.475
+1 1 1 2023-06-28 15:17:20.888418 queries/job_rand_base_split__train/16c.sql 4509.283
+1 1 2 2023-06-28 15:17:29.473612 queries/job_rand_base_split__train/16c.sql 4460.09
+1 2 0 2023-06-28 15:17:39.268484 queries/job_rand_base_split__train/17e.sql 4985.599
+1 2 1 2023-06-28 15:17:48.873188 queries/job_rand_base_split__train/17e.sql 4980.285
+1 2 2 2023-06-28 15:17:58.422045 queries/job_rand_base_split__train/17e.sql 5002.182
+1 3 0 2023-06-28 15:18:09.151251 queries/job_rand_base_split__train/8c.sql 5683.79
+1 3 1 2023-06-28 15:18:19.949797 queries/job_rand_base_split__train/8c.sql 5672.557
+1 3 2 2023-06-28 15:18:30.790538 queries/job_rand_base_split__train/8c.sql 5335.902
+1 4 0 2023-06-28 15:19:53.145134 queries/job_rand_base_split__train/29a.sql 7120.306
+1 4 1 2023-06-28 15:20:54.377509 queries/job_rand_base_split__train/29a.sql 7069.977
+1 4 2 2023-06-28 15:21:56.544314 queries/job_rand_base_split__train/29a.sql 7274.457
+1 5 0 2023-06-28 15:22:07.552654 queries/job_rand_base_split__train/28a.sql 3428.635
+1 5 1 2023-06-28 15:22:18.625517 queries/job_rand_base_split__train/28a.sql 3494.133
+1 5 2 2023-06-28 15:22:29.917488 queries/job_rand_base_split__train/28a.sql 3632.967
+1 6 0 2023-06-28 15:22:35.201428 queries/job_rand_base_split__train/14c.sql 2320.539
+1 6 1 2023-06-28 15:22:40.492355 queries/job_rand_base_split__train/14c.sql 2280.309
+1 6 2 2023-06-28 15:22:45.872114 queries/job_rand_base_split__train/14c.sql 2327.813
+1 7 0 2023-06-28 15:22:50.909035 queries/job_rand_base_split__train/33a.sql 30.477
+1 7 1 2023-06-28 15:22:56.022179 queries/job_rand_base_split__train/33a.sql 28.43
+1 7 2 2023-06-28 15:23:01.343172 queries/job_rand_base_split__train/33a.sql 36.408
+1 8 0 2023-06-28 15:23:06.124725 queries/job_rand_base_split__train/14b.sql 1988.141
+1 8 1 2023-06-28 15:23:10.774335 queries/job_rand_base_split__train/14b.sql 1953.069
+1 8 2 2023-06-28 15:23:15.603538 queries/job_rand_base_split__train/14b.sql 2045.377
+1 9 0 2023-06-28 15:23:16.500145 queries/job_rand_base_split__train/1b.sql 110.368
+1 9 1 2023-06-28 15:23:17.415347 queries/job_rand_base_split__train/1b.sql 132.475
+1 9 2 2023-06-28 15:23:18.335909 queries/job_rand_base_split__train/1b.sql 113.647
+1 10 0 2023-06-28 15:23:25.505903 queries/job_rand_base_split__train/9d.sql 3264.803
+1 10 1 2023-06-28 15:23:32.427054 queries/job_rand_base_split__train/9d.sql 3222.464
+1 10 2 2023-06-28 15:23:38.993686 queries/job_rand_base_split__train/9d.sql 2903.738
+1 11 0 2023-06-28 15:24:39.942767 queries/job_rand_base_split__train/29a.sql 7146.36
+1 11 1 2023-06-28 15:25:41.059202 queries/job_rand_base_split__train/29a.sql 7283.69
+1 11 2 2023-06-28 15:26:42.781784 queries/job_rand_base_split__train/29a.sql 7092.866
+1 12 0 2023-06-28 15:26:52.259154 queries/job_rand_base_split__train/26b.sql 4428.76
+1 12 1 2023-06-28 15:27:01.470622 queries/job_rand_base_split__train/26b.sql 4252.581
+1 12 2 2023-06-28 15:27:10.667591 queries/job_rand_base_split__train/26b.sql 4303.555
+1 13 0 2023-06-28 15:27:20.485668 queries/job_rand_base_split__train/30b.sql 4017.748
+1 13 1 2023-06-28 15:27:30.504362 queries/job_rand_base_split__train/30b.sql 4081.767
+1 13 2 2023-06-28 15:27:40.179507 queries/job_rand_base_split__train/30b.sql 3944.613
+1 14 0 2023-06-28 15:27:41.351887 queries/job_rand_base_split__train/5c.sql 220.041
+1 14 1 2023-06-28 15:27:42.524601 queries/job_rand_base_split__train/5c.sql 201.267
+1 14 2 2023-06-28 15:27:43.666444 queries/job_rand_base_split__train/5c.sql 226.88
+1 15 0 2023-06-28 15:27:46.975601 queries/job_rand_base_split__train/3b.sql 1270.556
+1 15 1 2023-06-28 15:27:50.251041 queries/job_rand_base_split__train/3b.sql 1305.693
+1 15 2 2023-06-28 15:27:53.543380 queries/job_rand_base_split__train/3b.sql 1317.416
+1 16 0 2023-06-28 15:28:01.939619 queries/job_rand_base_split__train/17a.sql 4260.455
+1 16 1 2023-06-28 15:28:10.032055 queries/job_rand_base_split__train/17a.sql 4111.499
+1 16 2 2023-06-28 15:28:18.499663 queries/job_rand_base_split__train/17a.sql 4243.121
+1 17 0 2023-06-28 15:28:19.616664 queries/job_rand_base_split__train/11a.sql 180.842
+1 17 1 2023-06-28 15:28:20.773349 queries/job_rand_base_split__train/11a.sql 178.144
+1 17 2 2023-06-28 15:28:21.931073 queries/job_rand_base_split__train/11a.sql 187.897
+1 18 0 2023-06-28 15:28:30.152971 queries/job_rand_base_split__train/18c.sql 3746.029
+1 18 1 2023-06-28 15:28:38.369088 queries/job_rand_base_split__train/18c.sql 3648.367
+1 18 2 2023-06-28 15:28:46.707912 queries/job_rand_base_split__train/18c.sql 3754.488
+1 19 0 2023-06-28 15:28:56.386866 queries/job_rand_base_split__train/17e.sql 4846.348
+1 19 1 2023-06-28 15:29:05.946712 queries/job_rand_base_split__train/17e.sql 4991.583
+1 19 2 2023-06-28 15:29:15.862819 queries/job_rand_base_split__train/17e.sql 5180.027
+1 20 0 2023-06-28 15:29:24.715824 queries/job_rand_base_split__train/16c.sql 4582.482
+1 20 1 2023-06-28 15:29:33.641571 queries/job_rand_base_split__train/16c.sql 4479.291
+1 20 2 2023-06-28 15:29:42.452549 queries/job_rand_base_split__train/16c.sql 4563.543
+1 21 0 2023-06-28 15:29:53.339840 queries/job_rand_base_split__train/8c.sql 5638.085
+1 21 1 2023-06-28 15:30:04.310774 queries/job_rand_base_split__train/8c.sql 5598.23
+1 21 2 2023-06-28 15:30:15.451732 queries/job_rand_base_split__train/8c.sql 5726.827
+1 22 0 2023-06-28 15:30:21.911095 queries/job_rand_base_split__train/6c.sql 3144.069
+1 22 1 2023-06-28 15:30:28.377678 queries/job_rand_base_split__train/6c.sql 3188.782
+1 22 2 2023-06-28 15:30:34.806590 queries/job_rand_base_split__train/6c.sql 3183.407
+1 23 0 2023-06-28 15:30:43.068375 queries/job_rand_base_split__train/18c.sql 3832.046
+1 23 1 2023-06-28 15:30:51.534046 queries/job_rand_base_split__train/18c.sql 3815.036
+1 23 2 2023-06-28 15:30:59.544137 queries/job_rand_base_split__train/18c.sql 3701.927
+1 24 0 2023-06-28 15:31:58.059539 queries/job_rand_base_split__train/29b.sql 5959.017
+1 24 1 2023-06-28 15:32:56.419872 queries/job_rand_base_split__train/29b.sql 5778.676
+1 24 2 2023-06-28 15:33:53.873750 queries/job_rand_base_split__train/29b.sql 5667.155
+==========================================================================================
+Iteration over chunk 3/19...
+[2023-06-28 15:33:53.873879]	[3/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.40450806468725203
+Epoch 15 training loss: 0.02871261555701494
+Epoch 30 training loss: 0.017647800222039222
+Stopped training from convergence condition at epoch 37
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-28 15:33:58.269406]	[3/19]	Retraining done.
+2 0 0 2023-06-28 15:33:59.170108 queries/job_rand_base_split__train/1d.sql 102.908
+2 0 1 2023-06-28 15:34:00.060852 queries/job_rand_base_split__train/1d.sql 106.875
+2 0 2 2023-06-28 15:34:00.973324 queries/job_rand_base_split__train/1d.sql 104.175
+2 1 0 2023-06-28 15:34:09.407227 queries/job_rand_base_split__train/6f.sql 4356.008
+2 1 1 2023-06-28 15:34:17.935450 queries/job_rand_base_split__train/6f.sql 4352.294
+2 1 2 2023-06-28 15:34:26.511965 queries/job_rand_base_split__train/6f.sql 4305.864
+2 2 0 2023-06-28 15:34:28.120842 queries/job_rand_base_split__train/21c.sql 424.061
+2 2 1 2023-06-28 15:34:29.725249 queries/job_rand_base_split__train/21c.sql 360.023
+2 2 2 2023-06-28 15:34:31.379853 queries/job_rand_base_split__train/21c.sql 404.29
+2 3 0 2023-06-28 15:34:39.742185 queries/job_rand_base_split__train/17d.sql 4322.125
+2 3 1 2023-06-28 15:34:48.007797 queries/job_rand_base_split__train/17d.sql 4321.021
+2 3 2 2023-06-28 15:34:56.629917 queries/job_rand_base_split__train/17d.sql 4495.489
+2 4 0 2023-06-28 15:35:03.950724 queries/job_rand_base_split__train/17c.sql 3683.061
+2 4 1 2023-06-28 15:35:10.948398 queries/job_rand_base_split__train/17c.sql 3521.397
+2 4 2 2023-06-28 15:35:18.076944 queries/job_rand_base_split__train/17c.sql 3635.189
+2 5 0 2023-06-28 15:35:19.818154 queries/job_rand_base_split__train/26b.sql 113.573
+2 5 1 2023-06-28 15:35:21.556737 queries/job_rand_base_split__train/26b.sql 117.847
+2 5 2 2023-06-28 15:35:23.322360 queries/job_rand_base_split__train/26b.sql 112.923
+2 6 0 2023-06-28 15:35:31.529274 queries/job_rand_base_split__train/17d.sql 4228.564
+2 6 1 2023-06-28 15:35:40.010995 queries/job_rand_base_split__train/17d.sql 4377.608
+2 6 2 2023-06-28 15:35:48.496594 queries/job_rand_base_split__train/17d.sql 4529.4
+2 7 0 2023-06-28 15:35:50.374255 queries/job_rand_base_split__train/27a.sql 22.405
+2 7 1 2023-06-28 15:35:52.273194 queries/job_rand_base_split__train/27a.sql 21.651
+2 7 2 2023-06-28 15:35:54.245662 queries/job_rand_base_split__train/27a.sql 22.242
+2 8 0 2023-06-28 15:36:00.567497 queries/job_rand_base_split__train/6e.sql 3066.391
+2 8 1 2023-06-28 15:36:06.925952 queries/job_rand_base_split__train/6e.sql 3163.038
+2 8 2 2023-06-28 15:36:13.155295 queries/job_rand_base_split__train/6e.sql 3135.653
+2 9 0 2023-06-28 15:36:14.085433 queries/job_rand_base_split__train/1d.sql 127.17
+2 9 1 2023-06-28 15:36:15.029114 queries/job_rand_base_split__train/1d.sql 136.172
+2 9 2 2023-06-28 15:36:15.996243 queries/job_rand_base_split__train/1d.sql 98.259
+2 10 0 2023-06-28 15:36:19.348792 queries/job_rand_base_split__train/16d.sql 1220.412
+2 10 1 2023-06-28 15:36:22.542820 queries/job_rand_base_split__train/16d.sql 1156.376
+2 10 2 2023-06-28 15:36:25.675474 queries/job_rand_base_split__train/16d.sql 1167.124
+2 11 0 2023-06-28 15:36:32.460708 queries/job_rand_base_split__train/9d.sql 2947.966
+2 11 1 2023-06-28 15:36:38.980667 queries/job_rand_base_split__train/9d.sql 2901.66
+2 11 2 2023-06-28 15:36:45.647369 queries/job_rand_base_split__train/9d.sql 2931.844
+2 12 0 2023-06-28 15:36:48.738896 queries/job_rand_base_split__train/22d.sql 972.9
+2 12 1 2023-06-28 15:36:51.782848 queries/job_rand_base_split__train/22d.sql 955.467
+2 12 2 2023-06-28 15:36:54.862171 queries/job_rand_base_split__train/22d.sql 981.438
+2 13 0 2023-06-28 15:36:55.785250 queries/job_rand_base_split__train/12b.sql 96.436
+2 13 1 2023-06-28 15:36:56.759292 queries/job_rand_base_split__train/12b.sql 102.608
+2 13 2 2023-06-28 15:36:57.711239 queries/job_rand_base_split__train/12b.sql 124.609
+2 14 0 2023-06-28 15:36:59.023679 queries/job_rand_base_split__train/11b.sql 267.361
+2 14 1 2023-06-28 15:37:00.423298 queries/job_rand_base_split__train/11b.sql 251.182
+2 14 2 2023-06-28 15:37:01.906839 queries/job_rand_base_split__train/11b.sql 314.322
+2 15 0 2023-06-28 15:37:13.314343 queries/job_rand_base_split__train/13a.sql 5592.332
+2 15 1 2023-06-28 15:37:24.677642 queries/job_rand_base_split__train/13a.sql 5638.428
+2 15 2 2023-06-28 15:37:36.676236 queries/job_rand_base_split__train/13a.sql 5915.499
+2 16 0 2023-06-28 15:37:41.999218 queries/job_rand_base_split__train/28b.sql 445.165
+2 16 1 2023-06-28 15:37:47.183885 queries/job_rand_base_split__train/28b.sql 445.754
+2 16 2 2023-06-28 15:37:52.468157 queries/job_rand_base_split__train/28b.sql 459.285
+2 17 0 2023-06-28 15:37:53.442638 queries/job_rand_base_split__train/4a.sql 95.063
+2 17 1 2023-06-28 15:37:54.347070 queries/job_rand_base_split__train/4a.sql 86.221
+2 17 2 2023-06-28 15:37:55.267727 queries/job_rand_base_split__train/4a.sql 86.706
+2 18 0 2023-06-28 15:38:00.447187 queries/job_rand_base_split__train/20b.sql 2058.464
+2 18 1 2023-06-28 15:38:05.447767 queries/job_rand_base_split__train/20b.sql 1985.377
+2 18 2 2023-06-28 15:38:10.512969 queries/job_rand_base_split__train/20b.sql 1996.514
+2 19 0 2023-06-28 15:38:11.992333 queries/job_rand_base_split__train/11c.sql 431.225
+2 19 1 2023-06-28 15:38:13.398724 queries/job_rand_base_split__train/11c.sql 362.021
+2 19 2 2023-06-28 15:38:14.867556 queries/job_rand_base_split__train/11c.sql 355.482
+2 20 0 2023-06-28 15:38:15.773674 queries/job_rand_base_split__train/1b.sql 117.376
+2 20 1 2023-06-28 15:38:16.657448 queries/job_rand_base_split__train/1b.sql 108.246
+2 20 2 2023-06-28 15:38:17.719194 queries/job_rand_base_split__train/1b.sql 117.81
+2 21 0 2023-06-28 15:38:24.446137 queries/job_rand_base_split__train/9d.sql 3048.44
+2 21 1 2023-06-28 15:38:31.148172 queries/job_rand_base_split__train/9d.sql 3015.046
+2 21 2 2023-06-28 15:38:37.793394 queries/job_rand_base_split__train/9d.sql 2894.456
+2 22 0 2023-06-28 15:38:39.075805 queries/job_rand_base_split__train/23b.sql 53.208
+2 22 1 2023-06-28 15:38:40.301240 queries/job_rand_base_split__train/23b.sql 43.453
+2 22 2 2023-06-28 15:38:41.577224 queries/job_rand_base_split__train/23b.sql 45.172
+2 23 0 2023-06-28 15:38:43.045589 queries/job_rand_base_split__train/9b.sql 333.616
+2 23 1 2023-06-28 15:38:44.508204 queries/job_rand_base_split__train/9b.sql 331.854
+2 23 2 2023-06-28 15:38:45.973848 queries/job_rand_base_split__train/9b.sql 340.238
+2 24 0 2023-06-28 15:38:52.318919 queries/job_rand_base_split__train/6a.sql 3061.456
+2 24 1 2023-06-28 15:38:58.547273 queries/job_rand_base_split__train/6a.sql 3054.051
+2 24 2 2023-06-28 15:39:05.036898 queries/job_rand_base_split__train/6a.sql 3200.562
+==========================================================================================
+Iteration over chunk 4/19...
+[2023-06-28 15:39:05.037110]	[4/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.396305112434285
+Epoch 15 training loss: 0.023330677832875932
+Epoch 30 training loss: 0.0070082695373067895
+Stopped training from convergence condition at epoch 41
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-28 15:39:10.275650]	[4/19]	Retraining done.
+3 0 0 2023-06-28 15:39:11.641994 queries/job_rand_base_split__train/10b.sql 302.793
+3 0 1 2023-06-28 15:39:13.003404 queries/job_rand_base_split__train/10b.sql 320.544
+3 0 2 2023-06-28 15:39:14.361153 queries/job_rand_base_split__train/10b.sql 313.374
+3 1 0 2023-06-28 15:39:15.917259 queries/job_rand_base_split__train/32b.sql 467.861
+3 1 1 2023-06-28 15:39:17.482293 queries/job_rand_base_split__train/32b.sql 466.732
+3 1 2 2023-06-28 15:39:19.114746 queries/job_rand_base_split__train/32b.sql 498.438
+3 2 0 2023-06-28 15:39:22.013680 queries/job_rand_base_split__train/30b.sql 475.284
+3 2 1 2023-06-28 15:39:24.707701 queries/job_rand_base_split__train/30b.sql 428.129
+3 2 2 2023-06-28 15:39:27.373524 queries/job_rand_base_split__train/30b.sql 422.947
+3 3 0 2023-06-28 15:39:29.248117 queries/job_rand_base_split__train/23c.sql 396.987
+3 3 1 2023-06-28 15:39:31.143397 queries/job_rand_base_split__train/23c.sql 412.341
+3 3 2 2023-06-28 15:39:33.044284 queries/job_rand_base_split__train/23c.sql 412.833
+3 4 0 2023-06-28 15:39:42.548184 queries/job_rand_base_split__train/17e.sql 4919.693
+3 4 1 2023-06-28 15:39:52.100126 queries/job_rand_base_split__train/17e.sql 5043.8
+3 4 2 2023-06-28 15:40:02.147592 queries/job_rand_base_split__train/17e.sql 4970.438
+3 5 0 2023-06-28 15:40:49.983676 queries/job_rand_base_split__train/29a.sql 142.106
+3 5 1 2023-06-28 15:41:38.497187 queries/job_rand_base_split__train/29a.sql 134.303
+3 5 2 2023-06-28 15:42:25.473386 queries/job_rand_base_split__train/29a.sql 132.365
+3 6 0 2023-06-28 15:42:28.851759 queries/job_rand_base_split__train/13a.sql 1310.491
+3 6 1 2023-06-28 15:42:32.200623 queries/job_rand_base_split__train/13a.sql 1361.877
+3 6 2 2023-06-28 15:42:35.480778 queries/job_rand_base_split__train/13a.sql 1310.116
+3 7 0 2023-06-28 15:42:38.344852 queries/job_rand_base_split__train/20c.sql 874.637
+3 7 1 2023-06-28 15:42:41.178919 queries/job_rand_base_split__train/20c.sql 919.077
+3 7 2 2023-06-28 15:42:43.997989 queries/job_rand_base_split__train/20c.sql 885.577
+3 8 0 2023-06-28 15:42:45.476229 queries/job_rand_base_split__train/21b.sql 319.972
+3 8 1 2023-06-28 15:42:46.919066 queries/job_rand_base_split__train/21b.sql 294.951
+3 8 2 2023-06-28 15:42:48.347742 queries/job_rand_base_split__train/21b.sql 297.678
+3 9 0 2023-06-28 15:42:53.421964 queries/job_rand_base_split__train/8d.sql 2260.331
+3 9 1 2023-06-28 15:42:58.277571 queries/job_rand_base_split__train/8d.sql 2259.074
+3 9 2 2023-06-28 15:43:03.254724 queries/job_rand_base_split__train/8d.sql 2318.521
+3 10 0 2023-06-28 15:43:03.979895 queries/job_rand_base_split__train/6c.sql 11.843
+3 10 1 2023-06-28 15:43:04.686104 queries/job_rand_base_split__train/6c.sql 10.969
+3 10 2 2023-06-28 15:43:05.574842 queries/job_rand_base_split__train/6c.sql 11.211
+3 11 0 2023-06-28 15:43:17.058109 queries/job_rand_base_split__train/17d.sql 5279.154
+3 11 1 2023-06-28 15:43:28.748823 queries/job_rand_base_split__train/17d.sql 5423.457
+3 11 2 2023-06-28 15:43:40.448749 queries/job_rand_base_split__train/17d.sql 5498.881
+3 12 0 2023-06-28 15:43:43.649371 queries/job_rand_base_split__train/22d.sql 1002.591
+3 12 1 2023-06-28 15:43:46.749895 queries/job_rand_base_split__train/22d.sql 984.008
+3 12 2 2023-06-28 15:43:50.054311 queries/job_rand_base_split__train/22d.sql 974.926
+3 13 0 2023-06-28 15:43:52.219301 queries/job_rand_base_split__train/14c.sql 654.529
+3 13 1 2023-06-28 15:43:54.309204 queries/job_rand_base_split__train/14c.sql 639.718
+3 13 2 2023-06-28 15:43:56.411080 queries/job_rand_base_split__train/14c.sql 642.847
+3 14 0 2023-06-28 15:44:04.889507 queries/job_rand_base_split__train/6f.sql 4332.204
+3 14 1 2023-06-28 15:44:13.423052 queries/job_rand_base_split__train/6f.sql 4334.537
+3 14 2 2023-06-28 15:44:22.919985 queries/job_rand_base_split__train/6f.sql 4335.237
+3 15 0 2023-06-28 15:44:24.214484 queries/job_rand_base_split__train/6b.sql 245.805
+3 15 1 2023-06-28 15:44:25.414157 queries/job_rand_base_split__train/6b.sql 210.561
+3 15 2 2023-06-28 15:44:26.747927 queries/job_rand_base_split__train/6b.sql 231.727
+3 16 0 2023-06-28 15:44:27.961023 queries/job_rand_base_split__train/18b.sql 202.872
+3 16 1 2023-06-28 15:44:29.204644 queries/job_rand_base_split__train/18b.sql 223.201
+3 16 2 2023-06-28 15:44:30.386315 queries/job_rand_base_split__train/18b.sql 234.748
+3 17 0 2023-06-28 15:45:17.285762 queries/job_rand_base_split__train/29a.sql 134.936
+3 17 1 2023-06-28 15:46:03.454042 queries/job_rand_base_split__train/29a.sql 129.748
+3 17 2 2023-06-28 15:46:50.370541 queries/job_rand_base_split__train/29a.sql 135.373
+3 18 0 2023-06-28 15:46:56.345173 queries/job_rand_base_split__train/28a.sql 836.432
+3 18 1 2023-06-28 15:47:02.266031 queries/job_rand_base_split__train/28a.sql 835.989
+3 18 2 2023-06-28 15:47:08.394883 queries/job_rand_base_split__train/28a.sql 927.947
+3 19 0 2023-06-28 15:47:09.895430 queries/job_rand_base_split__train/14a.sql 311.58
+3 19 1 2023-06-28 15:47:11.385918 queries/job_rand_base_split__train/14a.sql 309.294
+3 19 2 2023-06-28 15:47:13.687274 queries/job_rand_base_split__train/14a.sql 295.488
+3 20 0 2023-06-28 15:47:18.089703 queries/job_rand_base_split__train/3a.sql 1812.338
+3 20 1 2023-06-28 15:47:22.469148 queries/job_rand_base_split__train/3a.sql 1839.272
+3 20 2 2023-06-28 15:47:26.916046 queries/job_rand_base_split__train/3a.sql 1915.225
+3 21 0 2023-06-28 15:47:28.828243 queries/job_rand_base_split__train/23c.sql 404.618
+3 21 1 2023-06-28 15:47:30.724525 queries/job_rand_base_split__train/23c.sql 424.506
+3 21 2 2023-06-28 15:47:32.587155 queries/job_rand_base_split__train/23c.sql 380.85
+3 22 0 2023-06-28 15:47:37.880976 queries/job_rand_base_split__train/3c.sql 2471.52
+3 22 1 2023-06-28 15:47:43.283402 queries/job_rand_base_split__train/3c.sql 2561.504
+3 22 2 2023-06-28 15:47:49.057320 queries/job_rand_base_split__train/3c.sql 2548.111
+3 23 0 2023-06-28 15:47:50.249902 queries/job_rand_base_split__train/23b.sql 42.116
+3 23 1 2023-06-28 15:47:51.472359 queries/job_rand_base_split__train/23b.sql 43.349
+3 23 2 2023-06-28 15:47:52.662929 queries/job_rand_base_split__train/23b.sql 43.288
+3 24 0 2023-06-28 15:47:54.320253 queries/job_rand_base_split__train/10a.sql 430.879
+3 24 1 2023-06-28 15:47:55.907312 queries/job_rand_base_split__train/10a.sql 418.143
+3 24 2 2023-06-28 15:47:57.574577 queries/job_rand_base_split__train/10a.sql 461.845
+==========================================================================================
+Iteration over chunk 5/19...
+[2023-06-28 15:47:57.574736]	[5/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.44220554642379284
+Epoch 15 training loss: 0.026746859773993492
+Epoch 30 training loss: 0.01113066854304634
+Epoch 45 training loss: 0.0071592157473787665
+Stopped training from convergence condition at epoch 48
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-28 15:48:04.134641]	[5/19]	Retraining done.
+4 0 0 2023-06-28 15:48:05.873077 queries/job_rand_base_split__train/19a.sql 374.148
+4 0 1 2023-06-28 15:48:07.592660 queries/job_rand_base_split__train/19a.sql 362.169
+4 0 2 2023-06-28 15:48:09.349537 queries/job_rand_base_split__train/19a.sql 371.853
+4 1 0 2023-06-28 15:48:10.672825 queries/job_rand_base_split__train/10b.sql 289.295
+4 1 1 2023-06-28 15:48:12.027500 queries/job_rand_base_split__train/10b.sql 308.428
+4 1 2 2023-06-28 15:48:13.340044 queries/job_rand_base_split__train/10b.sql 320.615
+4 2 0 2023-06-28 15:48:14.472062 queries/job_rand_base_split__train/8b.sql 184.246
+4 2 1 2023-06-28 15:48:15.557588 queries/job_rand_base_split__train/8b.sql 173.352
+4 2 2 2023-06-28 15:48:16.683864 queries/job_rand_base_split__train/8b.sql 187.117
+4 3 0 2023-06-28 15:48:17.411335 queries/job_rand_base_split__train/6c.sql 11.318
+4 3 1 2023-06-28 15:48:18.171635 queries/job_rand_base_split__train/6c.sql 20.668
+4 3 2 2023-06-28 15:48:18.900026 queries/job_rand_base_split__train/6c.sql 11.162
+4 4 0 2023-06-28 15:48:19.937797 queries/job_rand_base_split__train/5b.sql 166.469
+4 4 1 2023-06-28 15:48:20.956290 queries/job_rand_base_split__train/5b.sql 139.879
+4 4 2 2023-06-28 15:48:21.933358 queries/job_rand_base_split__train/5b.sql 139.04
+4 5 0 2023-06-28 15:48:23.109544 queries/job_rand_base_split__train/18b.sql 192.385
+4 5 1 2023-06-28 15:48:24.316157 queries/job_rand_base_split__train/18b.sql 206.566
+4 5 2 2023-06-28 15:48:25.597491 queries/job_rand_base_split__train/18b.sql 239.792
+4 6 0 2023-06-28 15:48:27.105440 queries/job_rand_base_split__train/11c.sql 394.582
+4 6 1 2023-06-28 15:48:28.551401 queries/job_rand_base_split__train/11c.sql 365.517
+4 6 2 2023-06-28 15:48:30.028446 queries/job_rand_base_split__train/11c.sql 387.54
+4 7 0 2023-06-28 15:48:30.824929 queries/job_rand_base_split__train/6c.sql 11.173
+4 7 1 2023-06-28 15:48:31.544988 queries/job_rand_base_split__train/6c.sql 11.368
+4 7 2 2023-06-28 15:48:32.409322 queries/job_rand_base_split__train/6c.sql 11.551
+4 8 0 2023-06-28 15:48:38.230998 queries/job_rand_base_split__train/8d.sql 2641.116
+4 8 1 2023-06-28 15:48:43.745215 queries/job_rand_base_split__train/8d.sql 2556.58
+4 8 2 2023-06-28 15:48:49.593140 queries/job_rand_base_split__train/8d.sql 2576.967
+4 9 0 2023-06-28 15:48:50.635604 queries/job_rand_base_split__train/12b.sql 108.494
+4 9 1 2023-06-28 15:48:51.609552 queries/job_rand_base_split__train/12b.sql 107.784
+4 9 2 2023-06-28 15:48:52.562261 queries/job_rand_base_split__train/12b.sql 104.391
+4 10 0 2023-06-28 15:48:54.580515 queries/job_rand_base_split__train/22b.sql 399.481
+4 10 1 2023-06-28 15:48:56.539460 queries/job_rand_base_split__train/22b.sql 383.161
+4 10 2 2023-06-28 15:48:58.467662 queries/job_rand_base_split__train/22b.sql 373.196
+4 11 0 2023-06-28 15:48:59.660379 queries/job_rand_base_split__train/11d.sql 223.178
+4 11 1 2023-06-28 15:49:00.830553 queries/job_rand_base_split__train/11d.sql 216.213
+4 11 2 2023-06-28 15:49:02.032099 queries/job_rand_base_split__train/11d.sql 224.985
+4 12 0 2023-06-28 15:49:06.555152 queries/job_rand_base_split__train/3a.sql 1858.94
+4 12 1 2023-06-28 15:49:11.066769 queries/job_rand_base_split__train/3a.sql 1917.612
+4 12 2 2023-06-28 15:49:15.461222 queries/job_rand_base_split__train/3a.sql 1893.752
+4 13 0 2023-06-28 15:49:20.076299 queries/job_rand_base_split__train/3a.sql 1940.358
+4 13 1 2023-06-28 15:49:24.631452 queries/job_rand_base_split__train/3a.sql 1896.871
+4 13 2 2023-06-28 15:49:29.180273 queries/job_rand_base_split__train/3a.sql 1917.093
+4 14 0 2023-06-28 15:49:31.362510 queries/job_rand_base_split__train/13c.sql 685.209
+4 14 1 2023-06-28 15:49:33.545549 queries/job_rand_base_split__train/13c.sql 676.775
+4 14 2 2023-06-28 15:49:35.595411 queries/job_rand_base_split__train/13c.sql 596.412
+4 15 0 2023-06-28 15:49:37.953630 queries/job_rand_base_split__train/22a.sql 549.577
+4 15 1 2023-06-28 15:49:40.178824 queries/job_rand_base_split__train/22a.sql 528.928
+4 15 2 2023-06-28 15:49:42.460805 queries/job_rand_base_split__train/22a.sql 540.555
+4 16 0 2023-06-28 15:49:45.851481 queries/job_rand_base_split__train/26a.sql 854.436
+4 16 1 2023-06-28 15:49:49.128663 queries/job_rand_base_split__train/26a.sql 827.456
+4 16 2 2023-06-28 15:49:52.513679 queries/job_rand_base_split__train/26a.sql 902.004
+4 17 0 2023-06-28 15:50:04.626781 queries/job_rand_base_split__train/17d.sql 5531.849
+4 17 1 2023-06-28 15:50:17.554499 queries/job_rand_base_split__train/17d.sql 5916.143
+4 17 2 2023-06-28 15:50:30.215930 queries/job_rand_base_split__train/17d.sql 6157.081
+4 18 0 2023-06-28 15:50:30.954086 queries/job_rand_base_split__train/6c.sql 11.563
+4 18 1 2023-06-28 15:50:31.687677 queries/job_rand_base_split__train/6c.sql 11.163
+4 18 2 2023-06-28 15:50:32.464437 queries/job_rand_base_split__train/6c.sql 11.733
+4 19 0 2023-06-28 15:50:36.766733 queries/job_rand_base_split__train/20b.sql 1618.007
+4 19 1 2023-06-28 15:50:41.435444 queries/job_rand_base_split__train/20b.sql 1670.19
+4 19 2 2023-06-28 15:50:45.706450 queries/job_rand_base_split__train/20b.sql 1636.584
+4 20 0 2023-06-28 15:50:49.447807 queries/job_rand_base_split__train/16c.sql 1446.473
+4 20 1 2023-06-28 15:50:53.340882 queries/job_rand_base_split__train/16c.sql 1500.574
+4 20 2 2023-06-28 15:50:57.325176 queries/job_rand_base_split__train/16c.sql 1557.119
+4 21 0 2023-06-28 15:50:59.224197 queries/job_rand_base_split__train/23c.sql 420.646
+4 21 1 2023-06-28 15:51:01.132235 queries/job_rand_base_split__train/23c.sql 419.506
+4 21 2 2023-06-28 15:51:03.010428 queries/job_rand_base_split__train/23c.sql 403.276
+4 22 0 2023-06-28 15:51:08.175226 queries/job_rand_base_split__train/33a.sql 29.039
+4 22 1 2023-06-28 15:51:13.403593 queries/job_rand_base_split__train/33a.sql 29.299
+4 22 2 2023-06-28 15:51:18.852190 queries/job_rand_base_split__train/33a.sql 30.215
+4 23 0 2023-06-28 15:51:56.729059 queries/job_rand_base_split__train/16b.sql 19176.948
+4 23 1 2023-06-28 15:52:34.218692 queries/job_rand_base_split__train/16b.sql 19232.037
+4 23 2 2023-06-28 15:53:10.819405 queries/job_rand_base_split__train/16b.sql 18212.368
+4 24 0 2023-06-28 15:53:20.873193 queries/job_rand_base_split__train/18c.sql 4585.218
+4 24 1 2023-06-28 15:53:30.798794 queries/job_rand_base_split__train/18c.sql 4540.581
+4 24 2 2023-06-28 15:53:40.949931 queries/job_rand_base_split__train/18c.sql 4681.916
+==========================================================================================
+Iteration over chunk 6/19...
+[2023-06-28 15:53:40.950129]	[6/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.21137965209782122
+Epoch 15 training loss: 0.02476607300341129
+Epoch 30 training loss: 0.012058483203873038
+Epoch 45 training loss: 0.005395579943433404
+Stopped training from convergence condition at epoch 59
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-28 15:53:49.608270]	[6/19]	Retraining done.
+5 0 0 2023-06-28 15:53:55.959340 queries/job_rand_base_split__train/9d.sql 2918.825
+5 0 1 2023-06-28 15:54:02.411208 queries/job_rand_base_split__train/9d.sql 2639.9
+5 0 2 2023-06-28 15:54:08.722488 queries/job_rand_base_split__train/9d.sql 2983.887
+5 1 0 2023-06-28 15:54:56.004182 queries/job_rand_base_split__train/29b.sql 29.586
+5 1 1 2023-06-28 15:55:43.131264 queries/job_rand_base_split__train/29b.sql 29.115
+5 1 2 2023-06-28 15:56:29.852638 queries/job_rand_base_split__train/29b.sql 27.813
+5 2 0 2023-06-28 15:56:31.377991 queries/job_rand_base_split__train/21a.sql 344.437
+5 2 1 2023-06-28 15:56:33.043411 queries/job_rand_base_split__train/21a.sql 398.637
+5 2 2 2023-06-28 15:56:34.582437 queries/job_rand_base_split__train/21a.sql 358.103
+5 3 0 2023-06-28 15:56:36.304621 queries/job_rand_base_split__train/23a.sql 302.035
+5 3 1 2023-06-28 15:56:38.085242 queries/job_rand_base_split__train/23a.sql 322.298
+5 3 2 2023-06-28 15:56:39.919109 queries/job_rand_base_split__train/23a.sql 298.061
+5 4 0 2023-06-28 15:56:41.952465 queries/job_rand_base_split__train/13b.sql 680.835
+5 4 1 2023-06-28 15:56:44.076290 queries/job_rand_base_split__train/13b.sql 673.561
+5 4 2 2023-06-28 15:56:46.237963 queries/job_rand_base_split__train/13b.sql 680.154
+5 5 0 2023-06-28 15:56:54.990617 queries/job_rand_base_split__train/17a.sql 4423.148
+5 5 1 2023-06-28 15:57:03.529882 queries/job_rand_base_split__train/17a.sql 4309.158
+5 5 2 2023-06-28 15:57:12.019518 queries/job_rand_base_split__train/17a.sql 4302.284
+5 6 0 2023-06-28 15:57:13.327517 queries/job_rand_base_split__train/19b.sql 157.704
+5 6 1 2023-06-28 15:57:14.651415 queries/job_rand_base_split__train/19b.sql 156.658
+5 6 2 2023-06-28 15:57:15.960673 queries/job_rand_base_split__train/19b.sql 167.432
+5 7 0 2023-06-28 15:57:17.917782 queries/job_rand_base_split__train/27b.sql 11.443
+5 7 1 2023-06-28 15:57:20.016040 queries/job_rand_base_split__train/27b.sql 11.83
+5 7 2 2023-06-28 15:57:22.004042 queries/job_rand_base_split__train/27b.sql 11.809
+5 8 0 2023-06-28 15:57:30.621747 queries/job_rand_base_split__train/17a.sql 4324.11
+5 8 1 2023-06-28 15:57:39.156897 queries/job_rand_base_split__train/17a.sql 4434.605
+5 8 2 2023-06-28 15:57:47.647465 queries/job_rand_base_split__train/17a.sql 4308.432
+5 9 0 2023-06-28 15:57:50.956908 queries/job_rand_base_split__train/16d.sql 1205.678
+5 9 1 2023-06-28 15:57:54.331379 queries/job_rand_base_split__train/16d.sql 1176.628
+5 9 2 2023-06-28 15:57:57.746857 queries/job_rand_base_split__train/16d.sql 1235.51
+5 10 0 2023-06-28 15:57:58.920798 queries/job_rand_base_split__train/11d.sql 225.794
+5 10 1 2023-06-28 15:58:00.120681 queries/job_rand_base_split__train/11d.sql 230.483
+5 10 2 2023-06-28 15:58:01.335018 queries/job_rand_base_split__train/11d.sql 231.525
+5 11 0 2023-06-28 15:58:07.993475 queries/job_rand_base_split__train/28c.sql 1081.706
+5 11 1 2023-06-28 15:58:14.392862 queries/job_rand_base_split__train/28c.sql 1061.53
+5 11 2 2023-06-28 15:58:20.822376 queries/job_rand_base_split__train/28c.sql 1089.172
+5 12 0 2023-06-28 15:58:29.476343 queries/job_rand_base_split__train/17a.sql 4343.435
+5 12 1 2023-06-28 15:58:37.996471 queries/job_rand_base_split__train/17a.sql 4287.792
+5 12 2 2023-06-28 15:58:46.129832 queries/job_rand_base_split__train/17a.sql 4101.545
+5 13 0 2023-06-28 15:58:54.896688 queries/job_rand_base_split__train/6f.sql 4414.923
+5 13 1 2023-06-28 15:59:03.548754 queries/job_rand_base_split__train/6f.sql 4420.73
+5 13 2 2023-06-28 15:59:12.089111 queries/job_rand_base_split__train/6f.sql 4224.421
+5 14 0 2023-06-28 15:59:12.939078 queries/job_rand_base_split__train/6a.sql 18.825
+5 14 1 2023-06-28 15:59:13.708287 queries/job_rand_base_split__train/6a.sql 18.173
+5 14 2 2023-06-28 15:59:14.476300 queries/job_rand_base_split__train/6a.sql 18.721
+5 15 0 2023-06-28 15:59:15.620166 queries/job_rand_base_split__train/11d.sql 207.521
+5 15 1 2023-06-28 15:59:16.784073 queries/job_rand_base_split__train/11d.sql 222.554
+5 15 2 2023-06-28 15:59:17.972728 queries/job_rand_base_split__train/11d.sql 222.387
+5 16 0 2023-06-28 15:59:30.041360 queries/job_rand_base_split__train/17b.sql 5597.551
+5 16 1 2023-06-28 15:59:43.286708 queries/job_rand_base_split__train/17b.sql 6138.72
+5 16 2 2023-06-28 15:59:55.742947 queries/job_rand_base_split__train/17b.sql 6038.024
+5 17 0 2023-06-28 16:00:47.724754 queries/job_rand_base_split__train/29c.sql 514.788
+5 17 1 2023-06-28 16:01:35.626026 queries/job_rand_base_split__train/29c.sql 528.131
+5 17 2 2023-06-28 16:02:23.506700 queries/job_rand_base_split__train/29c.sql 521.057
+5 18 0 2023-06-28 16:02:26.869788 queries/job_rand_base_split__train/16d.sql 1242.572
+5 18 1 2023-06-28 16:02:30.034952 queries/job_rand_base_split__train/16d.sql 1174.603
+5 18 2 2023-06-28 16:02:33.173286 queries/job_rand_base_split__train/16d.sql 1153.95
+5 19 0 2023-06-28 16:02:35.118487 queries/job_rand_base_split__train/13c.sql 560.636
+5 19 1 2023-06-28 16:02:37.028936 queries/job_rand_base_split__train/13c.sql 559.389
+5 19 2 2023-06-28 16:02:38.946371 queries/job_rand_base_split__train/13c.sql 605.933
+5 20 0 2023-06-28 16:02:40.035710 queries/job_rand_base_split__train/8b.sql 179.824
+5 20 1 2023-06-28 16:02:41.143182 queries/job_rand_base_split__train/8b.sql 189.127
+5 20 2 2023-06-28 16:02:42.318983 queries/job_rand_base_split__train/8b.sql 177.216
+5 21 0 2023-06-28 16:02:46.213713 queries/job_rand_base_split__train/26c.sql 1086.656
+5 21 1 2023-06-28 16:02:49.989970 queries/job_rand_base_split__train/26c.sql 1094.323
+5 21 2 2023-06-28 16:02:53.765855 queries/job_rand_base_split__train/26c.sql 1105.38
+5 22 0 2023-06-28 16:02:55.983856 queries/job_rand_base_split__train/22a.sql 538.948
+5 22 1 2023-06-28 16:02:58.169903 queries/job_rand_base_split__train/22a.sql 531.18
+5 22 2 2023-06-28 16:03:00.484099 queries/job_rand_base_split__train/22a.sql 549.089
+5 23 0 2023-06-28 16:03:01.788017 queries/job_rand_base_split__train/3c.sql 235.811
+5 23 1 2023-06-28 16:03:03.147572 queries/job_rand_base_split__train/3c.sql 264.629
+5 23 2 2023-06-28 16:03:04.438931 queries/job_rand_base_split__train/3c.sql 247.904
+5 24 0 2023-06-28 16:03:05.309875 queries/job_rand_base_split__train/4b.sql 74.965
+5 24 1 2023-06-28 16:03:06.183405 queries/job_rand_base_split__train/4b.sql 87.961
+5 24 2 2023-06-28 16:03:07.039822 queries/job_rand_base_split__train/4b.sql 75.452
+==========================================================================================
+Iteration over chunk 7/19...
+[2023-06-28 16:03:07.040008]	[7/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.16504193740812215
+Epoch 15 training loss: 0.02871481752531095
+Epoch 30 training loss: 0.007207531608979811
+Epoch 45 training loss: 0.0032456467795947738
+Epoch 60 training loss: 0.0016733093943912536
+Epoch 75 training loss: 0.0017538050147281451
+Stopped training from convergence condition at epoch 75
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-28 16:03:19.035900]	[7/19]	Retraining done.
+6 0 0 2023-06-28 16:03:20.192583 queries/job_rand_base_split__train/16a.sql 164.264
+6 0 1 2023-06-28 16:03:21.289994 queries/job_rand_base_split__train/16a.sql 145.796
+6 0 2 2023-06-28 16:03:22.418910 queries/job_rand_base_split__train/16a.sql 150.998
+6 1 0 2023-06-28 16:03:24.596334 queries/job_rand_base_split__train/12c.sql 647.934
+6 1 1 2023-06-28 16:03:26.684606 queries/job_rand_base_split__train/12c.sql 632.101
+6 1 2 2023-06-28 16:03:28.874939 queries/job_rand_base_split__train/12c.sql 696.456
+6 2 0 2023-06-28 16:03:32.083906 queries/job_rand_base_split__train/20c.sql 981.827
+6 2 1 2023-06-28 16:03:34.966395 queries/job_rand_base_split__train/20c.sql 898.443
+6 2 2 2023-06-28 16:03:37.785781 queries/job_rand_base_split__train/20c.sql 877.81
+6 3 0 2023-06-28 16:03:42.144886 queries/job_rand_base_split__train/20b.sql 1626.416
+6 3 1 2023-06-28 16:03:46.727886 queries/job_rand_base_split__train/20b.sql 1650.867
+6 3 2 2023-06-28 16:03:51.490307 queries/job_rand_base_split__train/20b.sql 1856.356
+6 4 0 2023-06-28 16:03:52.590978 queries/job_rand_base_split__train/21c.sql 101.284
+6 4 1 2023-06-28 16:03:53.668278 queries/job_rand_base_split__train/21c.sql 91.008
+6 4 2 2023-06-28 16:03:54.783931 queries/job_rand_base_split__train/21c.sql 91.153
+6 5 0 2023-06-28 16:04:00.170468 queries/job_rand_base_split__train/33a.sql 31.123
+6 5 1 2023-06-28 16:04:05.481331 queries/job_rand_base_split__train/33a.sql 30.361
+6 5 2 2023-06-28 16:04:10.638487 queries/job_rand_base_split__train/33a.sql 30.123
+6 6 0 2023-06-28 16:04:19.414393 queries/job_rand_base_split__train/30a.sql 3416.225
+6 6 1 2023-06-28 16:04:27.653816 queries/job_rand_base_split__train/30a.sql 3277.661
+6 6 2 2023-06-28 16:04:36.281528 queries/job_rand_base_split__train/30a.sql 3347.647
+6 7 0 2023-06-28 16:04:38.441648 queries/job_rand_base_split__train/9c.sql 618.882
+6 7 1 2023-06-28 16:04:40.534868 queries/job_rand_base_split__train/9c.sql 596.172
+6 7 2 2023-06-28 16:04:42.596495 queries/job_rand_base_split__train/9c.sql 623.263
+6 8 0 2023-06-28 16:04:44.833091 queries/job_rand_base_split__train/12c.sql 698.635
+6 8 1 2023-06-28 16:04:47.039788 queries/job_rand_base_split__train/12c.sql 671.866
+6 8 2 2023-06-28 16:04:49.156292 queries/job_rand_base_split__train/12c.sql 667.61
+6 9 0 2023-06-28 16:04:50.084639 queries/job_rand_base_split__train/1d.sql 125.567
+6 9 1 2023-06-28 16:04:50.979534 queries/job_rand_base_split__train/1d.sql 111.136
+6 9 2 2023-06-28 16:04:51.894005 queries/job_rand_base_split__train/1d.sql 111.406
+6 10 0 2023-06-28 16:04:53.220132 queries/job_rand_base_split__train/19b.sql 153.259
+6 10 1 2023-06-28 16:04:54.557507 queries/job_rand_base_split__train/19b.sql 170.454
+6 10 2 2023-06-28 16:04:55.897237 queries/job_rand_base_split__train/19b.sql 171.345
+6 11 0 2023-06-28 16:04:56.686800 queries/job_rand_base_split__train/6a.sql 21.562
+6 11 1 2023-06-28 16:04:57.472132 queries/job_rand_base_split__train/6a.sql 19.617
+6 11 2 2023-06-28 16:04:58.267512 queries/job_rand_base_split__train/6a.sql 19.33
+6 12 0 2023-06-28 16:05:10.663394 queries/job_rand_base_split__train/17c.sql 5891.33
+6 12 1 2023-06-28 16:05:23.518493 queries/job_rand_base_split__train/17c.sql 5950.318
+6 12 2 2023-06-28 16:05:36.202671 queries/job_rand_base_split__train/17c.sql 5901.086
+6 13 0 2023-06-28 16:05:37.323434 queries/job_rand_base_split__train/16a.sql 142.967
+6 13 1 2023-06-28 16:05:38.436501 queries/job_rand_base_split__train/16a.sql 146.849
+6 13 2 2023-06-28 16:05:39.568505 queries/job_rand_base_split__train/16a.sql 147.92
+6 14 0 2023-06-28 16:05:40.608544 queries/job_rand_base_split__train/21b.sql 86.735
+6 14 1 2023-06-28 16:05:41.672379 queries/job_rand_base_split__train/21b.sql 89.842
+6 14 2 2023-06-28 16:05:42.726013 queries/job_rand_base_split__train/21b.sql 88.869
+6 15 0 2023-06-28 16:05:47.388945 queries/job_rand_base_split__train/20b.sql 1716.638
+6 15 1 2023-06-28 16:05:51.714402 queries/job_rand_base_split__train/20b.sql 1611.954
+6 15 2 2023-06-28 16:05:55.948956 queries/job_rand_base_split__train/20b.sql 1595.954
+6 16 0 2023-06-28 16:06:05.305630 queries/job_rand_base_split__train/17f.sql 4665.663
+6 16 1 2023-06-28 16:06:14.376845 queries/job_rand_base_split__train/17f.sql 4547.84
+6 16 2 2023-06-28 16:06:23.381418 queries/job_rand_base_split__train/17f.sql 4587.311
+6 17 0 2023-06-28 16:06:35.002350 queries/job_rand_base_split__train/17c.sql 5395.568
+6 17 1 2023-06-28 16:06:47.627512 queries/job_rand_base_split__train/17c.sql 5909.146
+6 17 2 2023-06-28 16:06:59.376729 queries/job_rand_base_split__train/17c.sql 5524.554
+6 18 0 2023-06-28 16:07:02.750711 queries/job_rand_base_split__train/8a.sql 1236.863
+6 18 1 2023-06-28 16:07:05.963631 queries/job_rand_base_split__train/8a.sql 1180.143
+6 18 2 2023-06-28 16:07:09.087259 queries/job_rand_base_split__train/8a.sql 1235.124
+6 19 0 2023-06-28 16:07:10.648325 queries/job_rand_base_split__train/21a.sql 374.106
+6 19 1 2023-06-28 16:07:12.260539 queries/job_rand_base_split__train/21a.sql 388.961
+6 19 2 2023-06-28 16:07:13.821776 queries/job_rand_base_split__train/21a.sql 338.435
+6 20 0 2023-06-28 16:07:14.613011 queries/job_rand_base_split__train/6a.sql 18.515
+6 20 1 2023-06-28 16:07:15.389612 queries/job_rand_base_split__train/6a.sql 18.736
+6 20 2 2023-06-28 16:07:16.127234 queries/job_rand_base_split__train/6a.sql 17.555
+6 21 0 2023-06-28 16:07:19.526804 queries/job_rand_base_split__train/26a.sql 844.108
+6 21 1 2023-06-28 16:07:22.775134 queries/job_rand_base_split__train/26a.sql 814.204
+6 21 2 2023-06-28 16:07:26.388810 queries/job_rand_base_split__train/26a.sql 883.588
+6 22 0 2023-06-28 16:07:27.251626 queries/job_rand_base_split__train/11b.sql 40.866
+6 22 1 2023-06-28 16:07:28.143822 queries/job_rand_base_split__train/11b.sql 46.084
+6 22 2 2023-06-28 16:07:28.998350 queries/job_rand_base_split__train/11b.sql 40.77
+6 23 0 2023-06-28 16:07:35.327684 queries/job_rand_base_split__train/9d.sql 2817.698
+6 23 1 2023-06-28 16:07:41.998968 queries/job_rand_base_split__train/9d.sql 3024.737
+6 23 2 2023-06-28 16:07:48.071362 queries/job_rand_base_split__train/9d.sql 2721.5
+6 24 0 2023-06-28 16:07:49.083642 queries/job_rand_base_split__train/5b.sql 138.036
+6 24 1 2023-06-28 16:07:50.133458 queries/job_rand_base_split__train/5b.sql 145.549
+6 24 2 2023-06-28 16:07:51.199328 queries/job_rand_base_split__train/5b.sql 152.996
+==========================================================================================
+Iteration over chunk 8/19...
+[2023-06-28 16:07:51.199426]	[8/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.22666237216729385
+Epoch 15 training loss: 0.02860249378360235
+Epoch 30 training loss: 0.007606373204348179
+Epoch 45 training loss: 0.004303124464618472
+Stopped training from convergence condition at epoch 46
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-28 16:08:00.115194]	[8/19]	Retraining done.
+7 0 0 2023-06-28 16:08:01.664873 queries/job_rand_base_split__train/9b.sql 344.583
+7 0 1 2023-06-28 16:08:03.163987 queries/job_rand_base_split__train/9b.sql 338.104
+7 0 2 2023-06-28 16:08:04.662973 queries/job_rand_base_split__train/9b.sql 351.026
+7 1 0 2023-06-28 16:08:05.829514 queries/job_rand_base_split__train/8b.sql 217.17
+7 1 1 2023-06-28 16:08:07.013915 queries/job_rand_base_split__train/8b.sql 188.55
+7 1 2 2023-06-28 16:08:08.124085 queries/job_rand_base_split__train/8b.sql 189.09
+7 2 0 2023-06-28 16:08:09.228034 queries/job_rand_base_split__train/5c.sql 200.009
+7 2 1 2023-06-28 16:08:10.363377 queries/job_rand_base_split__train/5c.sql 202.49
+7 2 2 2023-06-28 16:08:11.492336 queries/job_rand_base_split__train/5c.sql 197.6
+7 3 0 2023-06-28 16:08:12.526853 queries/job_rand_base_split__train/14b.sql 92.663
+7 3 1 2023-06-28 16:08:13.564965 queries/job_rand_base_split__train/14b.sql 96.063
+7 3 2 2023-06-28 16:08:14.573537 queries/job_rand_base_split__train/14b.sql 93.618
+7 4 0 2023-06-28 16:08:16.307281 queries/job_rand_base_split__train/22b.sql 231.024
+7 4 1 2023-06-28 16:08:17.973981 queries/job_rand_base_split__train/22b.sql 220.88
+7 4 2 2023-06-28 16:08:19.612555 queries/job_rand_base_split__train/22b.sql 240.676
+7 5 0 2023-06-28 16:08:22.892667 queries/job_rand_base_split__train/16d.sql 1172.715
+7 5 1 2023-06-28 16:08:26.052740 queries/job_rand_base_split__train/16d.sql 1176.006
+7 5 2 2023-06-28 16:08:29.399325 queries/job_rand_base_split__train/16d.sql 1260.478
+7 6 0 2023-06-28 16:08:30.342103 queries/job_rand_base_split__train/1d.sql 107.37
+7 6 1 2023-06-28 16:08:31.253224 queries/job_rand_base_split__train/1d.sql 107.891
+7 6 2 2023-06-28 16:08:32.182233 queries/job_rand_base_split__train/1d.sql 126.247
+7 7 0 2023-06-28 16:08:33.565108 queries/job_rand_base_split__train/11c.sql 364.816
+7 7 1 2023-06-28 16:08:35.013728 queries/job_rand_base_split__train/11c.sql 360.488
+7 7 2 2023-06-28 16:08:36.542088 queries/job_rand_base_split__train/11c.sql 430.609
+7 8 0 2023-06-28 16:08:37.418572 queries/job_rand_base_split__train/1b.sql 97.114
+7 8 1 2023-06-28 16:08:38.310493 queries/job_rand_base_split__train/1b.sql 99.972
+7 8 2 2023-06-28 16:08:39.216897 queries/job_rand_base_split__train/1b.sql 99.155
+7 9 0 2023-06-28 16:08:41.281544 queries/job_rand_base_split__train/9c.sql 576.861
+7 9 1 2023-06-28 16:08:43.302969 queries/job_rand_base_split__train/9c.sql 592.494
+7 9 2 2023-06-28 16:08:45.293804 queries/job_rand_base_split__train/9c.sql 592.905
+7 10 0 2023-06-28 16:08:53.720292 queries/job_rand_base_split__train/17d.sql 4293.207
+7 10 1 2023-06-28 16:09:01.652924 queries/job_rand_base_split__train/17d.sql 4102.102
+7 10 2 2023-06-28 16:09:09.992947 queries/job_rand_base_split__train/17d.sql 4319.063
+7 11 0 2023-06-28 16:09:11.278668 queries/job_rand_base_split__train/3c.sql 231.753
+7 11 1 2023-06-28 16:09:12.534393 queries/job_rand_base_split__train/3c.sql 237.876
+7 11 2 2023-06-28 16:09:13.823282 queries/job_rand_base_split__train/3c.sql 237.508
+7 12 0 2023-06-28 16:09:14.812101 queries/job_rand_base_split__train/21b.sql 69.492
+7 12 1 2023-06-28 16:09:15.809793 queries/job_rand_base_split__train/21b.sql 69.799
+7 12 2 2023-06-28 16:09:16.820465 queries/job_rand_base_split__train/21b.sql 68.825
+7 13 0 2023-06-28 16:09:21.140614 queries/job_rand_base_split__train/20b.sql 1568.872
+7 13 1 2023-06-28 16:09:25.470251 queries/job_rand_base_split__train/20b.sql 1651.656
+7 13 2 2023-06-28 16:09:29.776953 queries/job_rand_base_split__train/20b.sql 1598.93
+7 14 0 2023-06-28 16:09:35.383114 queries/job_rand_base_split__train/8d.sql 2485.069
+7 14 1 2023-06-28 16:09:40.854477 queries/job_rand_base_split__train/8d.sql 2480.134
+7 14 2 2023-06-28 16:09:46.301690 queries/job_rand_base_split__train/8d.sql 2539.499
+7 15 0 2023-06-28 16:09:52.659714 queries/job_rand_base_split__train/9d.sql 2712.443
+7 15 1 2023-06-28 16:09:58.683426 queries/job_rand_base_split__train/9d.sql 2675.01
+7 15 2 2023-06-28 16:10:05.095688 queries/job_rand_base_split__train/9d.sql 2701.641
+7 16 0 2023-06-28 16:10:06.852039 queries/job_rand_base_split__train/26b.sql 121.903
+7 16 1 2023-06-28 16:10:08.631131 queries/job_rand_base_split__train/26b.sql 136.775
+7 16 2 2023-06-28 16:10:10.426182 queries/job_rand_base_split__train/26b.sql 122.116
+7 17 0 2023-06-28 16:10:11.434830 queries/job_rand_base_split__train/32b.sql 103.687
+7 17 1 2023-06-28 16:10:12.439446 queries/job_rand_base_split__train/32b.sql 111.319
+7 17 2 2023-06-28 16:10:13.444725 queries/job_rand_base_split__train/32b.sql 104.76
+7 18 0 2023-06-28 16:10:14.822594 queries/job_rand_base_split__train/14a.sql 242.832
+7 18 1 2023-06-28 16:10:16.205854 queries/job_rand_base_split__train/14a.sql 240.865
+7 18 2 2023-06-28 16:10:17.621353 queries/job_rand_base_split__train/14a.sql 281.403
+7 19 0 2023-06-28 16:10:25.303676 queries/job_rand_base_split__train/18a.sql 3565.568
+7 19 1 2023-06-28 16:10:33.056876 queries/job_rand_base_split__train/18a.sql 3614.844
+7 19 2 2023-06-28 16:10:40.747427 queries/job_rand_base_split__train/18a.sql 3600.514
+7 20 0 2023-06-28 16:10:42.280706 queries/job_rand_base_split__train/9b.sql 351.829
+7 20 1 2023-06-28 16:10:43.810130 queries/job_rand_base_split__train/9b.sql 362.124
+7 20 2 2023-06-28 16:10:45.300044 queries/job_rand_base_split__train/9b.sql 320.674
+7 21 0 2023-06-28 16:10:47.260621 queries/job_rand_base_split__train/27a.sql 24.654
+7 21 1 2023-06-28 16:10:49.305428 queries/job_rand_base_split__train/27a.sql 26.539
+7 21 2 2023-06-28 16:10:51.317789 queries/job_rand_base_split__train/27a.sql 21.402
+7 22 0 2023-06-28 16:10:53.304242 queries/job_rand_base_split__train/23c.sql 418.974
+7 22 1 2023-06-28 16:10:55.195546 queries/job_rand_base_split__train/23c.sql 405.782
+7 22 2 2023-06-28 16:10:57.022860 queries/job_rand_base_split__train/23c.sql 370.305
+7 23 0 2023-06-28 16:11:00.633267 queries/job_rand_base_split__train/33c.sql 32.105
+7 23 1 2023-06-28 16:11:04.459485 queries/job_rand_base_split__train/33c.sql 34.124
+7 23 2 2023-06-28 16:11:08.094823 queries/job_rand_base_split__train/33c.sql 32.047
+7 24 0 2023-06-28 16:11:09.545929 queries/job_rand_base_split__train/11c.sql 370.019
+7 24 1 2023-06-28 16:11:11.048293 queries/job_rand_base_split__train/11c.sql 415.123
+7 24 2 2023-06-28 16:11:12.495742 queries/job_rand_base_split__train/11c.sql 362.761
+==========================================================================================
+Iteration over chunk 9/19...
+[2023-06-28 16:11:12.495900]	[9/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.3097807541489601
+Epoch 15 training loss: 0.02465395306547483
+Epoch 30 training loss: 0.010376772920911511
+Epoch 45 training loss: 0.007355611852835864
+Stopped training from convergence condition at epoch 45
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-28 16:11:21.340219]	[9/19]	Retraining done.
+8 0 0 2023-06-28 16:11:23.358912 queries/job_rand_base_split__train/27a.sql 20.549
+8 0 1 2023-06-28 16:11:25.287864 queries/job_rand_base_split__train/27a.sql 21.439
+8 0 2 2023-06-28 16:11:27.127898 queries/job_rand_base_split__train/27a.sql 21.824
+8 1 0 2023-06-28 16:11:29.982051 queries/job_rand_base_split__train/22d.sql 792.809
+8 1 1 2023-06-28 16:11:32.625582 queries/job_rand_base_split__train/22d.sql 724.031
+8 1 2 2023-06-28 16:11:35.406675 queries/job_rand_base_split__train/22d.sql 802.794
+8 2 0 2023-06-28 16:11:36.185407 queries/job_rand_base_split__train/6a.sql 17.875
+8 2 1 2023-06-28 16:11:36.951353 queries/job_rand_base_split__train/6a.sql 19.021
+8 2 2 2023-06-28 16:11:37.751677 queries/job_rand_base_split__train/6a.sql 19.29
+8 3 0 2023-06-28 16:11:39.076794 queries/job_rand_base_split__train/14a.sql 244.162
+8 3 1 2023-06-28 16:11:40.426816 queries/job_rand_base_split__train/14a.sql 271.074
+8 3 2 2023-06-28 16:11:41.718212 queries/job_rand_base_split__train/14a.sql 228.796
+8 4 0 2023-06-28 16:11:43.223743 queries/job_rand_base_split__train/9a.sql 344.715
+8 4 1 2023-06-28 16:11:44.732211 queries/job_rand_base_split__train/9a.sql 349.566
+8 4 2 2023-06-28 16:11:46.241974 queries/job_rand_base_split__train/9a.sql 347.349
+8 5 0 2023-06-28 16:11:47.435666 queries/job_rand_base_split__train/12a.sql 208.369
+8 5 1 2023-06-28 16:11:48.637157 queries/job_rand_base_split__train/12a.sql 179.642
+8 5 2 2023-06-28 16:11:49.872165 queries/job_rand_base_split__train/12a.sql 209.947
+8 6 0 2023-06-28 16:11:51.071680 queries/job_rand_base_split__train/16a.sql 158.023
+8 6 1 2023-06-28 16:11:52.186472 queries/job_rand_base_split__train/16a.sql 146.573
+8 6 2 2023-06-28 16:11:53.378737 queries/job_rand_base_split__train/16a.sql 158.425
+8 7 0 2023-06-28 16:11:55.395874 queries/job_rand_base_split__train/27b.sql 11.846
+8 7 1 2023-06-28 16:11:57.314168 queries/job_rand_base_split__train/27b.sql 11.31
+8 7 2 2023-06-28 16:11:59.199976 queries/job_rand_base_split__train/27b.sql 11.096
+8 8 0 2023-06-28 16:12:04.730227 queries/job_rand_base_split__train/30a.sql 1795.795
+8 8 1 2023-06-28 16:12:10.625849 queries/job_rand_base_split__train/30a.sql 1826.009
+8 8 2 2023-06-28 16:12:16.159381 queries/job_rand_base_split__train/30a.sql 1835.477
+8 9 0 2023-06-28 16:12:26.057288 queries/job_rand_base_split__train/17b.sql 5126.999
+8 9 1 2023-06-28 16:12:35.663633 queries/job_rand_base_split__train/17b.sql 5094.159
+8 9 2 2023-06-28 16:12:45.131036 queries/job_rand_base_split__train/17b.sql 5027.379
+8 10 0 2023-06-28 16:12:47.645262 queries/job_rand_base_split__train/13b.sql 837.641
+8 10 1 2023-06-28 16:12:49.951290 queries/job_rand_base_split__train/13b.sql 715.249
+8 10 2 2023-06-28 16:12:52.157810 queries/job_rand_base_split__train/13b.sql 728.205
+8 11 0 2023-06-28 16:13:01.324755 queries/job_rand_base_split__train/6d.sql 4171.504
+8 11 1 2023-06-28 16:13:10.294536 queries/job_rand_base_split__train/6d.sql 4069.532
+8 11 2 2023-06-28 16:13:20.570595 queries/job_rand_base_split__train/6d.sql 4557.408
+8 12 0 2023-06-28 16:13:35.063672 queries/job_rand_base_split__train/17c.sql 6832.783
+8 12 1 2023-06-28 16:13:49.265944 queries/job_rand_base_split__train/17c.sql 6584.699
+8 12 2 2023-06-28 16:14:03.349746 queries/job_rand_base_split__train/17c.sql 6844.017
+8 13 0 2023-06-28 16:14:05.269132 queries/job_rand_base_split__train/27b.sql 12.316
+8 13 1 2023-06-28 16:14:07.160829 queries/job_rand_base_split__train/27b.sql 11.323
+8 13 2 2023-06-28 16:14:09.087759 queries/job_rand_base_split__train/27b.sql 11.639
+8 14 0 2023-06-28 16:14:15.553964 queries/job_rand_base_split__train/28b.sql 1075.707
+8 14 1 2023-06-28 16:14:22.252910 queries/job_rand_base_split__train/28b.sql 1085.392
+8 14 2 2023-06-28 16:14:28.802829 queries/job_rand_base_split__train/28b.sql 1071.725
+8 15 0 2023-06-28 16:14:33.084680 queries/job_rand_base_split__train/20b.sql 1622.123
+8 15 1 2023-06-28 16:14:37.771458 queries/job_rand_base_split__train/20b.sql 1802.553
+8 15 2 2023-06-28 16:14:42.063201 queries/job_rand_base_split__train/20b.sql 1610.492
+8 16 0 2023-06-28 16:14:44.072834 queries/job_rand_base_split__train/27a.sql 23.727
+8 16 1 2023-06-28 16:14:46.032493 queries/job_rand_base_split__train/27a.sql 21.54
+8 16 2 2023-06-28 16:14:47.945561 queries/job_rand_base_split__train/27a.sql 21.365
+8 17 0 2023-06-28 16:14:49.178701 queries/job_rand_base_split__train/23b.sql 43.283
+8 17 1 2023-06-28 16:14:50.394737 queries/job_rand_base_split__train/23b.sql 44.083
+8 17 2 2023-06-28 16:14:51.661259 queries/job_rand_base_split__train/23b.sql 45.787
+8 18 0 2023-06-28 16:14:52.790390 queries/job_rand_base_split__train/8b.sql 175.355
+8 18 1 2023-06-28 16:14:53.949074 queries/job_rand_base_split__train/8b.sql 183.94
+8 18 2 2023-06-28 16:14:55.082620 queries/job_rand_base_split__train/8b.sql 193.344
+8 19 0 2023-06-28 16:14:58.972210 queries/job_rand_base_split__train/16c.sql 1519.322
+8 19 1 2023-06-28 16:15:02.908167 queries/job_rand_base_split__train/16c.sql 1505.445
+8 19 2 2023-06-28 16:15:06.970633 queries/job_rand_base_split__train/16c.sql 1628.529
+8 20 0 2023-06-28 16:15:08.603031 queries/job_rand_base_split__train/32b.sql 518.726
+8 20 1 2023-06-28 16:15:10.343628 queries/job_rand_base_split__train/32b.sql 533.734
+8 20 2 2023-06-28 16:15:11.916021 queries/job_rand_base_split__train/32b.sql 503.866
+8 21 0 2023-06-28 16:15:21.704518 queries/job_rand_base_split__train/17b.sql 5188.438
+8 21 1 2023-06-28 16:15:31.124743 queries/job_rand_base_split__train/17b.sql 4884.278
+8 21 2 2023-06-28 16:15:40.557479 queries/job_rand_base_split__train/17b.sql 5034.184
+8 22 0 2023-06-28 16:15:41.460394 queries/job_rand_base_split__train/1d.sql 113.441
+8 22 1 2023-06-28 16:15:42.393553 queries/job_rand_base_split__train/1d.sql 108.075
+8 22 2 2023-06-28 16:15:43.288692 queries/job_rand_base_split__train/1d.sql 97.596
+8 23 0 2023-06-28 16:15:48.970722 queries/job_rand_base_split__train/30a.sql 1829.936
+8 23 1 2023-06-28 16:15:54.661751 queries/job_rand_base_split__train/30a.sql 1831.641
+8 23 2 2023-06-28 16:16:00.581406 queries/job_rand_base_split__train/30a.sql 1997.978
+8 24 0 2023-06-28 16:16:01.804493 queries/job_rand_base_split__train/18b.sql 195.255
+8 24 1 2023-06-28 16:16:03.014644 queries/job_rand_base_split__train/18b.sql 219.523
+8 24 2 2023-06-28 16:16:04.303562 queries/job_rand_base_split__train/18b.sql 231.48
+==========================================================================================
+Iteration over chunk 10/19...
+[2023-06-28 16:16:04.303667]	[10/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.06936805971781723
+Epoch 15 training loss: 0.014079147324082442
+Epoch 30 training loss: 0.00324633700074628
+Epoch 45 training loss: 0.0010910361588685191
+Stopped training from convergence condition at epoch 48
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-28 16:16:15.588302]	[10/19]	Retraining done.
+9 0 0 2023-06-28 16:16:24.198321 queries/job_rand_base_split__train/18c.sql 3834.597
+9 0 1 2023-06-28 16:16:32.245920 queries/job_rand_base_split__train/18c.sql 3546.569
+9 0 2 2023-06-28 16:16:40.809395 queries/job_rand_base_split__train/18c.sql 3877.868
+9 1 0 2023-06-28 16:16:44.500568 queries/job_rand_base_split__train/33c.sql 32.339
+9 1 1 2023-06-28 16:16:48.247804 queries/job_rand_base_split__train/33c.sql 33.16
+9 1 2 2023-06-28 16:16:51.851846 queries/job_rand_base_split__train/33c.sql 31.789
+9 2 0 2023-06-28 16:16:53.105402 queries/job_rand_base_split__train/11d.sql 243.445
+9 2 1 2023-06-28 16:16:54.298371 queries/job_rand_base_split__train/11d.sql 238.834
+9 2 2 2023-06-28 16:16:55.444661 queries/job_rand_base_split__train/11d.sql 210.734
+9 3 0 2023-06-28 16:16:56.480875 queries/job_rand_base_split__train/21c.sql 91.567
+9 3 1 2023-06-28 16:16:57.577729 queries/job_rand_base_split__train/21c.sql 94.729
+9 3 2 2023-06-28 16:16:58.612466 queries/job_rand_base_split__train/21c.sql 91.398
+9 4 0 2023-06-28 16:17:04.862474 queries/job_rand_base_split__train/9d.sql 2749.916
+9 4 1 2023-06-28 16:17:11.127019 queries/job_rand_base_split__train/9d.sql 2703.489
+9 4 2 2023-06-28 16:17:17.557941 queries/job_rand_base_split__train/9d.sql 2610.794
+9 5 0 2023-06-28 16:17:23.520725 queries/job_rand_base_split__train/9d.sql 2636.273
+9 5 1 2023-06-28 16:17:30.310156 queries/job_rand_base_split__train/9d.sql 2992.007
+9 5 2 2023-06-28 16:17:36.461111 queries/job_rand_base_split__train/9d.sql 2784.161
+9 6 0 2023-06-28 16:17:37.667004 queries/job_rand_base_split__train/11d.sql 236.955
+9 6 1 2023-06-28 16:17:38.884201 queries/job_rand_base_split__train/11d.sql 227.195
+9 6 2 2023-06-28 16:17:40.122803 queries/job_rand_base_split__train/11d.sql 234.092
+9 7 0 2023-06-28 16:17:43.564397 queries/job_rand_base_split__train/16d.sql 1218.026
+9 7 1 2023-06-28 16:17:46.893590 queries/job_rand_base_split__train/16d.sql 1224.786
+9 7 2 2023-06-28 16:17:50.281768 queries/job_rand_base_split__train/16d.sql 1234.099
+9 8 0 2023-06-28 16:18:02.247759 queries/job_rand_base_split__train/17d.sql 5525.992
+9 8 1 2023-06-28 16:18:14.205362 queries/job_rand_base_split__train/17d.sql 5676.889
+9 8 2 2023-06-28 16:18:26.234527 queries/job_rand_base_split__train/17d.sql 5515.012
+9 9 0 2023-06-28 16:18:27.401522 queries/job_rand_base_split__train/8b.sql 181.773
+9 9 1 2023-06-28 16:18:28.562346 queries/job_rand_base_split__train/8b.sql 206.246
+9 9 2 2023-06-28 16:18:30.180498 queries/job_rand_base_split__train/8b.sql 204.724
+9 10 0 2023-06-28 16:18:30.898996 queries/job_rand_base_split__train/6c.sql 10.87
+9 10 1 2023-06-28 16:18:31.636172 queries/job_rand_base_split__train/6c.sql 12.096
+9 10 2 2023-06-28 16:18:32.386377 queries/job_rand_base_split__train/6c.sql 11.199
+9 11 0 2023-06-28 16:18:33.150352 queries/job_rand_base_split__train/6c.sql 11.3
+9 11 1 2023-06-28 16:18:33.905625 queries/job_rand_base_split__train/6c.sql 20.371
+9 11 2 2023-06-28 16:18:34.632541 queries/job_rand_base_split__train/6c.sql 11.026
+9 12 0 2023-06-28 16:18:35.570661 queries/job_rand_base_split__train/1a.sql 119.518
+9 12 1 2023-06-28 16:18:36.509614 queries/job_rand_base_split__train/1a.sql 123.895
+9 12 2 2023-06-28 16:18:37.433478 queries/job_rand_base_split__train/1a.sql 121.587
+9 13 0 2023-06-28 16:18:38.828879 queries/job_rand_base_split__train/14a.sql 253.376
+9 13 1 2023-06-28 16:18:40.160515 queries/job_rand_base_split__train/14a.sql 239.973
+9 13 2 2023-06-28 16:18:41.445680 queries/job_rand_base_split__train/14a.sql 229.196
+9 14 0 2023-06-28 16:18:42.490333 queries/job_rand_base_split__train/5b.sql 150.737
+9 14 1 2023-06-28 16:18:43.537111 queries/job_rand_base_split__train/5b.sql 162.138
+9 14 2 2023-06-28 16:18:44.593772 queries/job_rand_base_split__train/5b.sql 145.048
+9 15 0 2023-06-28 16:18:45.360190 queries/job_rand_base_split__train/32a.sql 11.029
+9 15 1 2023-06-28 16:18:46.178760 queries/job_rand_base_split__train/32a.sql 11.29
+9 15 2 2023-06-28 16:18:46.921243 queries/job_rand_base_split__train/32a.sql 10.855
+9 16 0 2023-06-28 16:18:52.964523 queries/job_rand_base_split__train/28a.sql 835.685
+9 16 1 2023-06-28 16:18:59.071693 queries/job_rand_base_split__train/28a.sql 861.649
+9 16 2 2023-06-28 16:19:05.222508 queries/job_rand_base_split__train/28a.sql 886.094
+9 17 0 2023-06-28 16:19:07.303696 queries/job_rand_base_split__train/9c.sql 610.631
+9 17 1 2023-06-28 16:19:09.359087 queries/job_rand_base_split__train/9c.sql 594.11
+9 17 2 2023-06-28 16:19:11.385938 queries/job_rand_base_split__train/9c.sql 579.395
+9 18 0 2023-06-28 16:20:00.018292 queries/job_rand_base_split__train/29b.sql 30.882
+9 18 1 2023-06-28 16:20:46.458988 queries/job_rand_base_split__train/29b.sql 28.438
+9 18 2 2023-06-28 16:21:34.109705 queries/job_rand_base_split__train/29b.sql 44.551
+9 19 0 2023-06-28 16:21:35.816785 queries/job_rand_base_split__train/10a.sql 455.696
+9 19 1 2023-06-28 16:21:37.548655 queries/job_rand_base_split__train/10a.sql 472.717
+9 19 2 2023-06-28 16:21:39.206748 queries/job_rand_base_split__train/10a.sql 446.905
+9 20 0 2023-06-28 16:21:40.194613 queries/job_rand_base_split__train/4c.sql 100.964
+9 20 1 2023-06-28 16:21:41.145085 queries/job_rand_base_split__train/4c.sql 96.206
+9 20 2 2023-06-28 16:21:42.115126 queries/job_rand_base_split__train/4c.sql 95.892
+9 21 0 2023-06-28 16:21:43.390399 queries/job_rand_base_split__train/18b.sql 216.228
+9 21 1 2023-06-28 16:21:44.546317 queries/job_rand_base_split__train/18b.sql 194.584
+9 21 2 2023-06-28 16:21:45.708624 queries/job_rand_base_split__train/18b.sql 193.867
+9 22 0 2023-06-28 16:22:33.694522 queries/job_rand_base_split__train/29c.sql 520.205
+9 22 1 2023-06-28 16:23:21.010253 queries/job_rand_base_split__train/29c.sql 508.275
+9 22 2 2023-06-28 16:24:08.033345 queries/job_rand_base_split__train/29c.sql 511.5
+9 23 0 2023-06-28 16:24:17.415648 queries/job_rand_base_split__train/8c.sql 4563.932
+9 23 1 2023-06-28 16:24:26.770452 queries/job_rand_base_split__train/8c.sql 4586.849
+9 23 2 2023-06-28 16:24:35.964825 queries/job_rand_base_split__train/8c.sql 4485.603
+9 24 0 2023-06-28 16:24:38.290343 queries/job_rand_base_split__train/13c.sql 735.798
+9 24 1 2023-06-28 16:24:40.441858 queries/job_rand_base_split__train/13c.sql 702.478
+9 24 2 2023-06-28 16:24:42.721212 queries/job_rand_base_split__train/13c.sql 701.432
+==========================================================================================
+Iteration over chunk 11/19...
+[2023-06-28 16:24:42.721370]	[11/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.11509423692607218
+Epoch 15 training loss: 0.023704317294889025
+Epoch 30 training loss: 0.004210332111041579
+Stopped training from convergence condition at epoch 37
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-28 16:24:52.958242]	[11/19]	Retraining done.
+10 0 0 2023-06-28 16:24:56.250717 queries/job_rand_base_split__train/13a.sql 1273.785
+10 0 1 2023-06-28 16:24:59.720876 queries/job_rand_base_split__train/13a.sql 1439.186
+10 0 2 2023-06-28 16:25:03.171363 queries/job_rand_base_split__train/13a.sql 1299.361
+10 1 0 2023-06-28 16:25:06.740581 queries/job_rand_base_split__train/13a.sql 1352.369
+10 1 1 2023-06-28 16:25:09.994799 queries/job_rand_base_split__train/13a.sql 1274.611
+10 1 2 2023-06-28 16:25:13.421385 queries/job_rand_base_split__train/13a.sql 1446.531
+10 2 0 2023-06-28 16:25:15.243469 queries/job_rand_base_split__train/26b.sql 118.592
+10 2 1 2023-06-28 16:25:16.986251 queries/job_rand_base_split__train/26b.sql 119.244
+10 2 2 2023-06-28 16:25:18.752856 queries/job_rand_base_split__train/26b.sql 118.166
+10 3 0 2023-06-28 16:25:28.613396 queries/job_rand_base_split__train/17e.sql 4922.296
+10 3 1 2023-06-28 16:25:38.407560 queries/job_rand_base_split__train/17e.sql 5037.792
+10 3 2 2023-06-28 16:25:48.174169 queries/job_rand_base_split__train/17e.sql 5208.221
+10 4 0 2023-06-28 16:25:50.115967 queries/job_rand_base_split__train/27c.sql 31.813
+10 4 1 2023-06-28 16:25:52.021576 queries/job_rand_base_split__train/27c.sql 31.343
+10 4 2 2023-06-28 16:25:53.926515 queries/job_rand_base_split__train/27c.sql 31.224
+10 5 0 2023-06-28 16:25:54.900103 queries/job_rand_base_split__train/32b.sql 104.42
+10 5 1 2023-06-28 16:25:55.872149 queries/job_rand_base_split__train/32b.sql 109.026
+10 5 2 2023-06-28 16:25:56.859472 queries/job_rand_base_split__train/32b.sql 99.185
+10 6 0 2023-06-28 16:26:00.704749 queries/job_rand_base_split__train/16c.sql 1481.927
+10 6 1 2023-06-28 16:26:04.705154 queries/job_rand_base_split__train/16c.sql 1510.103
+10 6 2 2023-06-28 16:26:08.615745 queries/job_rand_base_split__train/16c.sql 1508.478
+10 7 0 2023-06-28 16:26:14.985143 queries/job_rand_base_split__train/28c.sql 1051.939
+10 7 1 2023-06-28 16:26:21.462779 queries/job_rand_base_split__train/28c.sql 1060.885
+10 7 2 2023-06-28 16:26:28.346018 queries/job_rand_base_split__train/28c.sql 1129.877
+10 8 0 2023-06-28 16:26:40.167202 queries/job_rand_base_split__train/17d.sql 5468.874
+10 8 1 2023-06-28 16:26:51.810072 queries/job_rand_base_split__train/17d.sql 5392.604
+10 8 2 2023-06-28 16:27:03.564293 queries/job_rand_base_split__train/17d.sql 5454.133
+10 9 0 2023-06-28 16:27:05.300923 queries/job_rand_base_split__train/22b.sql 235.17
+10 9 1 2023-06-28 16:27:06.910610 queries/job_rand_base_split__train/22b.sql 210.919
+10 9 2 2023-06-28 16:27:08.506160 queries/job_rand_base_split__train/22b.sql 211.981
+10 10 0 2023-06-28 16:27:17.174798 queries/job_rand_base_split__train/6f.sql 4355.917
+10 10 1 2023-06-28 16:27:25.770873 queries/job_rand_base_split__train/6f.sql 4333.641
+10 10 2 2023-06-28 16:27:34.178997 queries/job_rand_base_split__train/6f.sql 4155.901
+10 11 0 2023-06-28 16:27:35.268394 queries/job_rand_base_split__train/5c.sql 192.405
+10 11 1 2023-06-28 16:27:36.362457 queries/job_rand_base_split__train/5c.sql 188.607
+10 11 2 2023-06-28 16:27:37.544590 queries/job_rand_base_split__train/5c.sql 202.539
+10 12 0 2023-06-28 16:27:38.528312 queries/job_rand_base_split__train/12b.sql 124.972
+10 12 1 2023-06-28 16:27:39.461114 queries/job_rand_base_split__train/12b.sql 97.407
+10 12 2 2023-06-28 16:27:40.408039 queries/job_rand_base_split__train/12b.sql 104.767
+10 13 0 2023-06-28 16:27:45.312006 queries/job_rand_base_split__train/20b.sql 1916.723
+10 13 1 2023-06-28 16:27:49.713435 queries/job_rand_base_split__train/20b.sql 1616.743
+10 13 2 2023-06-28 16:27:54.094057 queries/job_rand_base_split__train/20b.sql 1662.44
+10 14 0 2023-06-28 16:28:03.015429 queries/job_rand_base_split__train/17f.sql 4467.935
+10 14 1 2023-06-28 16:28:12.136263 queries/job_rand_base_split__train/17f.sql 4604.895
+10 14 2 2023-06-28 16:28:21.535728 queries/job_rand_base_split__train/17f.sql 4784.966
+10 15 0 2023-06-28 16:28:23.182945 queries/job_rand_base_split__train/10a.sql 443.906
+10 15 1 2023-06-28 16:28:24.797802 queries/job_rand_base_split__train/10a.sql 455.947
+10 15 2 2023-06-28 16:28:26.532134 queries/job_rand_base_split__train/10a.sql 476.227
+10 16 0 2023-06-28 16:28:27.472097 queries/job_rand_base_split__train/3b.sql 77.988
+10 16 1 2023-06-28 16:28:28.428115 queries/job_rand_base_split__train/3b.sql 84.787
+10 16 2 2023-06-28 16:28:29.352367 queries/job_rand_base_split__train/3b.sql 79.53
+10 17 0 2023-06-28 16:28:36.027530 queries/job_rand_base_split__train/28c.sql 1068.389
+10 17 1 2023-06-28 16:28:42.406797 queries/job_rand_base_split__train/28c.sql 1031.312
+10 17 2 2023-06-28 16:28:48.876319 queries/job_rand_base_split__train/28c.sql 1121.923
+10 18 0 2023-06-28 16:29:00.703937 queries/job_rand_base_split__train/17d.sql 5462.704
+10 18 1 2023-06-28 16:29:13.759514 queries/job_rand_base_split__train/17d.sql 5807.943
+10 18 2 2023-06-28 16:29:25.735040 queries/job_rand_base_split__train/17d.sql 5495.476
+10 19 0 2023-06-28 16:29:30.959614 queries/job_rand_base_split__train/33b.sql 27.814
+10 19 1 2023-06-28 16:29:36.146016 queries/job_rand_base_split__train/33b.sql 27.462
+10 19 2 2023-06-28 16:29:41.198344 queries/job_rand_base_split__train/33b.sql 26.163
+10 20 0 2023-06-28 16:29:45.321316 queries/job_rand_base_split__train/26a.sql 1278.061
+10 20 1 2023-06-28 16:29:49.485439 queries/job_rand_base_split__train/26a.sql 1319.084
+10 20 2 2023-06-28 16:29:53.569035 queries/job_rand_base_split__train/26a.sql 1249.901
+10 21 0 2023-06-28 16:29:56.741157 queries/job_rand_base_split__train/20c.sql 993.396
+10 21 1 2023-06-28 16:29:59.712554 queries/job_rand_base_split__train/20c.sql 958.636
+10 21 2 2023-06-28 16:30:02.914980 queries/job_rand_base_split__train/20c.sql 1023.016
+10 22 0 2023-06-28 16:30:04.689782 queries/job_rand_base_split__train/10a.sql 469.983
+10 22 1 2023-06-28 16:30:06.383958 queries/job_rand_base_split__train/10a.sql 469.719
+10 22 2 2023-06-28 16:30:08.018987 queries/job_rand_base_split__train/10a.sql 479.059
+10 23 0 2023-06-28 16:30:09.287197 queries/job_rand_base_split__train/12a.sql 205.42
+10 23 1 2023-06-28 16:30:10.491200 queries/job_rand_base_split__train/12a.sql 207.992
+10 23 2 2023-06-28 16:30:11.804930 queries/job_rand_base_split__train/12a.sql 206.733
+10 24 0 2023-06-28 16:30:21.034674 queries/job_rand_base_split__train/6d.sql 4154.023
+10 24 1 2023-06-28 16:30:30.435889 queries/job_rand_base_split__train/6d.sql 4226.576
+10 24 2 2023-06-28 16:30:39.696264 queries/job_rand_base_split__train/6d.sql 4282.125
+==========================================================================================
+Iteration over chunk 12/19...
+[2023-06-28 16:30:39.696609]	[12/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.2142444099054525
+Epoch 15 training loss: 0.01934309374835146
+Epoch 30 training loss: 0.004512579805266701
+Stopped training from convergence condition at epoch 42
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-28 16:30:51.054966]	[12/19]	Retraining done.
+11 0 0 2023-06-28 16:30:51.896460 queries/job_rand_base_split__train/6e.sql 19.256
+11 0 1 2023-06-28 16:30:52.684706 queries/job_rand_base_split__train/6e.sql 19.086
+11 0 2 2023-06-28 16:30:53.483043 queries/job_rand_base_split__train/6e.sql 19.817
+11 1 0 2023-06-28 16:30:56.946581 queries/job_rand_base_split__train/26a.sql 936.243
+11 1 1 2023-06-28 16:31:00.294752 queries/job_rand_base_split__train/26a.sql 857.941
+11 1 2 2023-06-28 16:31:03.794625 queries/job_rand_base_split__train/26a.sql 877.963
+11 2 0 2023-06-28 16:31:04.868198 queries/job_rand_base_split__train/5b.sql 151.646
+11 2 1 2023-06-28 16:31:05.966291 queries/job_rand_base_split__train/5b.sql 158.427
+11 2 2 2023-06-28 16:31:07.002349 queries/job_rand_base_split__train/5b.sql 149.804
+11 3 0 2023-06-28 16:31:08.968388 queries/job_rand_base_split__train/27a.sql 21.858
+11 3 1 2023-06-28 16:31:11.019953 queries/job_rand_base_split__train/27a.sql 31.766
+11 3 2 2023-06-28 16:31:12.976361 queries/job_rand_base_split__train/27a.sql 21.401
+11 4 0 2023-06-28 16:31:17.835459 queries/job_rand_base_split__train/13d.sql 2045.707
+11 4 1 2023-06-28 16:31:22.749990 queries/job_rand_base_split__train/13d.sql 2145.027
+11 4 2 2023-06-28 16:31:27.519068 queries/job_rand_base_split__train/13d.sql 2184.273
+11 5 0 2023-06-28 16:31:29.626170 queries/job_rand_base_split__train/13b.sql 684.172
+11 5 1 2023-06-28 16:31:31.700894 queries/job_rand_base_split__train/13b.sql 673.086
+11 5 2 2023-06-28 16:31:33.788126 queries/job_rand_base_split__train/13b.sql 616.013
+11 6 0 2023-06-28 16:31:34.992282 queries/job_rand_base_split__train/18b.sql 205.834
+11 6 1 2023-06-28 16:31:36.189142 queries/job_rand_base_split__train/18b.sql 193.289
+11 6 2 2023-06-28 16:31:37.398471 queries/job_rand_base_split__train/18b.sql 206.112
+11 7 0 2023-06-28 16:31:38.164875 queries/job_rand_base_split__train/6e.sql 18.056
+11 7 1 2023-06-28 16:31:38.936670 queries/job_rand_base_split__train/6e.sql 18.664
+11 7 2 2023-06-28 16:31:39.717718 queries/job_rand_base_split__train/6e.sql 17.969
+11 8 0 2023-06-28 16:31:40.648590 queries/job_rand_base_split__train/4a.sql 89.694
+11 8 1 2023-06-28 16:31:41.581557 queries/job_rand_base_split__train/4a.sql 88.077
+11 8 2 2023-06-28 16:31:42.577991 queries/job_rand_base_split__train/4a.sql 97.754
+11 9 0 2023-06-28 16:31:43.470212 queries/job_rand_base_split__train/6a.sql 18.001
+11 9 1 2023-06-28 16:31:44.322105 queries/job_rand_base_split__train/6a.sql 18.573
+11 9 2 2023-06-28 16:31:45.143037 queries/job_rand_base_split__train/6a.sql 17.82
+11 10 0 2023-06-28 16:31:46.034179 queries/job_rand_base_split__train/6e.sql 19.476
+11 10 1 2023-06-28 16:31:46.821547 queries/job_rand_base_split__train/6e.sql 18.526
+11 10 2 2023-06-28 16:31:47.589117 queries/job_rand_base_split__train/6e.sql 18.306
+11 11 0 2023-06-28 16:31:51.600215 queries/job_rand_base_split__train/16c.sql 1536.94
+11 11 1 2023-06-28 16:31:55.506140 queries/job_rand_base_split__train/16c.sql 1506.005
+11 11 2 2023-06-28 16:31:59.458627 queries/job_rand_base_split__train/16c.sql 1536.181
+11 12 0 2023-06-28 16:32:06.801983 queries/job_rand_base_split__train/17c.sql 3626.563
+11 12 1 2023-06-28 16:32:13.923510 queries/job_rand_base_split__train/17c.sql 3565.994
+11 12 2 2023-06-28 16:32:21.317777 queries/job_rand_base_split__train/17c.sql 3628.968
+11 13 0 2023-06-28 16:32:23.510652 queries/job_rand_base_split__train/12c.sql 691.506
+11 13 1 2023-06-28 16:32:25.689778 queries/job_rand_base_split__train/12c.sql 706.444
+11 13 2 2023-06-28 16:32:27.901734 queries/job_rand_base_split__train/12c.sql 681.605
+11 14 0 2023-06-28 16:32:29.275400 queries/job_rand_base_split__train/3c.sql 275.094
+11 14 1 2023-06-28 16:32:30.602637 queries/job_rand_base_split__train/3c.sql 238.545
+11 14 2 2023-06-28 16:32:31.927004 queries/job_rand_base_split__train/3c.sql 248.317
+11 15 0 2023-06-28 16:32:38.550393 queries/job_rand_base_split__train/6d.sql 3224.632
+11 15 1 2023-06-28 16:32:45.320939 queries/job_rand_base_split__train/6d.sql 3294.425
+11 15 2 2023-06-28 16:32:51.804510 queries/job_rand_base_split__train/6d.sql 3121.453
+11 16 0 2023-06-28 16:32:56.985022 queries/job_rand_base_split__train/20a.sql 2029.282
+11 16 1 2023-06-28 16:33:02.552454 queries/job_rand_base_split__train/20a.sql 2240.874
+11 16 2 2023-06-28 16:33:08.197485 queries/job_rand_base_split__train/20a.sql 2195.758
+11 17 0 2023-06-28 16:33:13.491321 queries/job_rand_base_split__train/28b.sql 467.938
+11 17 1 2023-06-28 16:33:18.804149 queries/job_rand_base_split__train/28b.sql 467.227
+11 17 2 2023-06-28 16:33:24.011204 queries/job_rand_base_split__train/28b.sql 469.834
+11 18 0 2023-06-28 16:33:25.482501 queries/job_rand_base_split__train/14a.sql 256.934
+11 18 1 2023-06-28 16:33:26.799600 queries/job_rand_base_split__train/14a.sql 236.477
+11 18 2 2023-06-28 16:33:28.194733 queries/job_rand_base_split__train/14a.sql 243.191
+11 19 0 2023-06-28 16:33:29.325316 queries/job_rand_base_split__train/8b.sql 185.416
+11 19 1 2023-06-28 16:33:30.477336 queries/job_rand_base_split__train/8b.sql 185.008
+11 19 2 2023-06-28 16:33:31.667017 queries/job_rand_base_split__train/8b.sql 208.824
+11 20 0 2023-06-28 16:33:32.861380 queries/job_rand_base_split__train/6b.sql 189.977
+11 20 1 2023-06-28 16:33:33.996447 queries/job_rand_base_split__train/6b.sql 172.074
+11 20 2 2023-06-28 16:33:35.229806 queries/job_rand_base_split__train/6b.sql 183.263
+11 21 0 2023-06-28 16:33:36.795918 queries/job_rand_base_split__train/9b.sql 376.976
+11 21 1 2023-06-28 16:33:38.280619 queries/job_rand_base_split__train/9b.sql 358.886
+11 21 2 2023-06-28 16:33:39.803253 queries/job_rand_base_split__train/9b.sql 347.477
+11 22 0 2023-06-28 16:33:40.768633 queries/job_rand_base_split__train/4c.sql 98.944
+11 22 1 2023-06-28 16:33:41.773091 queries/job_rand_base_split__train/4c.sql 95.917
+11 22 2 2023-06-28 16:33:42.723537 queries/job_rand_base_split__train/4c.sql 97.931
+11 23 0 2023-06-28 16:33:43.509362 queries/job_rand_base_split__train/6c.sql 11.76
+11 23 1 2023-06-28 16:33:44.263119 queries/job_rand_base_split__train/6c.sql 11.33
+11 23 2 2023-06-28 16:33:45.024982 queries/job_rand_base_split__train/6c.sql 11.154
+11 24 0 2023-06-28 16:33:52.901561 queries/job_rand_base_split__train/10c.sql 3560.592
+11 24 1 2023-06-28 16:34:00.819212 queries/job_rand_base_split__train/10c.sql 3586.575
+11 24 2 2023-06-28 16:34:08.672991 queries/job_rand_base_split__train/10c.sql 3569.191
+==========================================================================================
+Iteration over chunk 13/19...
+[2023-06-28 16:34:08.673121]	[13/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.14006828073234784
+Epoch 15 training loss: 0.014738418106433181
+Epoch 30 training loss: 0.004860944641266195
+Stopped training from convergence condition at epoch 42
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-28 16:34:21.377613]	[13/19]	Retraining done.
+12 0 0 2023-06-28 16:34:26.674836 queries/job_rand_base_split__train/33b.sql 29.554
+12 0 1 2023-06-28 16:34:31.915112 queries/job_rand_base_split__train/33b.sql 27.757
+12 0 2 2023-06-28 16:34:36.868793 queries/job_rand_base_split__train/33b.sql 28.084
+12 1 0 2023-06-28 16:34:38.203395 queries/job_rand_base_split__train/19b.sql 158.868
+12 1 1 2023-06-28 16:34:39.532720 queries/job_rand_base_split__train/19b.sql 171.132
+12 1 2 2023-06-28 16:34:40.842018 queries/job_rand_base_split__train/19b.sql 159.735
+12 2 0 2023-06-28 16:34:42.061789 queries/job_rand_base_split__train/8b.sql 188.256
+12 2 1 2023-06-28 16:34:43.264822 queries/job_rand_base_split__train/8b.sql 194.128
+12 2 2 2023-06-28 16:34:44.414755 queries/job_rand_base_split__train/8b.sql 177.616
+12 3 0 2023-06-28 16:34:45.333902 queries/job_rand_base_split__train/4b.sql 91.451
+12 3 1 2023-06-28 16:34:46.217517 queries/job_rand_base_split__train/4b.sql 86.619
+12 3 2 2023-06-28 16:34:47.125775 queries/job_rand_base_split__train/4b.sql 83.665
+12 4 0 2023-06-28 16:34:48.309339 queries/job_rand_base_split__train/6b.sql 189.482
+12 4 1 2023-06-28 16:34:49.473175 queries/job_rand_base_split__train/6b.sql 169.49
+12 4 2 2023-06-28 16:34:50.591886 queries/job_rand_base_split__train/6b.sql 168.95
+12 5 0 2023-06-28 16:34:51.527697 queries/job_rand_base_split__train/4c.sql 95.721
+12 5 1 2023-06-28 16:34:52.540984 queries/job_rand_base_split__train/4c.sql 105.988
+12 5 2 2023-06-28 16:34:53.559390 queries/job_rand_base_split__train/4c.sql 113.313
+12 6 0 2023-06-28 16:35:03.576642 queries/job_rand_base_split__train/17e.sql 5106.539
+12 6 1 2023-06-28 16:35:13.487334 queries/job_rand_base_split__train/17e.sql 5006.849
+12 6 2 2023-06-28 16:35:23.198034 queries/job_rand_base_split__train/17e.sql 5012.269
+12 7 0 2023-06-28 16:35:24.175565 queries/job_rand_base_split__train/4a.sql 99.579
+12 7 1 2023-06-28 16:35:25.147705 queries/job_rand_base_split__train/4a.sql 98.675
+12 7 2 2023-06-28 16:35:26.061550 queries/job_rand_base_split__train/4a.sql 86.528
+12 8 0 2023-06-28 16:35:29.543894 queries/job_rand_base_split__train/13a.sql 1292.342
+12 8 1 2023-06-28 16:35:33.195597 queries/job_rand_base_split__train/13a.sql 1452.411
+12 8 2 2023-06-28 16:35:36.830879 queries/job_rand_base_split__train/13a.sql 1476.875
+12 9 0 2023-06-28 16:35:38.012557 queries/job_rand_base_split__train/6b.sql 183.942
+12 9 1 2023-06-28 16:35:39.221999 queries/job_rand_base_split__train/6b.sql 195.741
+12 9 2 2023-06-28 16:35:40.411635 queries/job_rand_base_split__train/6b.sql 195.582
+12 10 0 2023-06-28 16:35:41.231572 queries/job_rand_base_split__train/6a.sql 20.767
+12 10 1 2023-06-28 16:35:42.055837 queries/job_rand_base_split__train/6a.sql 20.152
+12 10 2 2023-06-28 16:35:42.854827 queries/job_rand_base_split__train/6a.sql 18.861
+12 11 0 2023-06-28 16:35:46.266140 queries/job_rand_base_split__train/16d.sql 1196.357
+12 11 1 2023-06-28 16:35:49.496919 queries/job_rand_base_split__train/16d.sql 1167.482
+12 11 2 2023-06-28 16:35:52.852524 queries/job_rand_base_split__train/16d.sql 1220.729
+12 12 0 2023-06-28 16:35:53.843078 queries/job_rand_base_split__train/4c.sql 99.304
+12 12 1 2023-06-28 16:35:54.848159 queries/job_rand_base_split__train/4c.sql 101.176
+12 12 2 2023-06-28 16:35:55.841259 queries/job_rand_base_split__train/4c.sql 105.992
+12 13 0 2023-06-28 16:35:56.918443 queries/job_rand_base_split__train/21c.sql 94.625
+12 13 1 2023-06-28 16:35:58.009239 queries/job_rand_base_split__train/21c.sql 92.423
+12 13 2 2023-06-28 16:35:59.138259 queries/job_rand_base_split__train/21c.sql 101.312
+12 14 0 2023-06-28 16:36:00.395113 queries/job_rand_base_split__train/18b.sql 209.618
+12 14 1 2023-06-28 16:36:01.621541 queries/job_rand_base_split__train/18b.sql 207.619
+12 14 2 2023-06-28 16:36:02.802221 queries/job_rand_base_split__train/18b.sql 184.595
+12 15 0 2023-06-28 16:36:03.785464 queries/job_rand_base_split__train/4a.sql 95.125
+12 15 1 2023-06-28 16:36:04.739567 queries/job_rand_base_split__train/4a.sql 89.264
+12 15 2 2023-06-28 16:36:05.663577 queries/job_rand_base_split__train/4a.sql 86.981
+12 16 0 2023-06-28 16:36:14.380649 queries/job_rand_base_split__train/17a.sql 4346.333
+12 16 1 2023-06-28 16:36:22.853711 queries/job_rand_base_split__train/17a.sql 4264.141
+12 16 2 2023-06-28 16:36:31.139599 queries/job_rand_base_split__train/17a.sql 4105.328
+12 17 0 2023-06-28 16:36:38.608626 queries/job_rand_base_split__train/10c.sql 3511.785
+12 17 1 2023-06-28 16:36:46.224159 queries/job_rand_base_split__train/10c.sql 3583.807
+12 17 2 2023-06-28 16:36:53.976362 queries/job_rand_base_split__train/10c.sql 3541.214
+12 18 0 2023-06-28 16:37:06.212773 queries/job_rand_base_split__train/16b.sql 6398.203
+12 18 1 2023-06-28 16:37:18.584370 queries/job_rand_base_split__train/16b.sql 6387.904
+12 18 2 2023-06-28 16:37:30.735226 queries/job_rand_base_split__train/16b.sql 6121.978
+12 19 0 2023-06-28 16:37:32.422034 queries/job_rand_base_split__train/19a.sql 323.505
+12 19 1 2023-06-28 16:37:34.108260 queries/job_rand_base_split__train/19a.sql 336.181
+12 19 2 2023-06-28 16:37:35.760543 queries/job_rand_base_split__train/19a.sql 318.207
+12 20 0 2023-06-28 16:37:36.932714 queries/job_rand_base_split__train/6b.sql 192.203
+12 20 1 2023-06-28 16:37:38.068126 queries/job_rand_base_split__train/6b.sql 181.943
+12 20 2 2023-06-28 16:37:39.280792 queries/job_rand_base_split__train/6b.sql 196.86
+12 21 0 2023-06-28 16:37:40.704428 queries/job_rand_base_split__train/9a.sql 320.221
+12 21 1 2023-06-28 16:37:42.158793 queries/job_rand_base_split__train/9a.sql 340.789
+12 21 2 2023-06-28 16:37:43.656706 queries/job_rand_base_split__train/9a.sql 378.187
+12 22 0 2023-06-28 16:37:52.461588 queries/job_rand_base_split__train/17f.sql 4512.67
+12 22 1 2023-06-28 16:38:01.321691 queries/job_rand_base_split__train/17f.sql 4550.426
+12 22 2 2023-06-28 16:38:10.019678 queries/job_rand_base_split__train/17f.sql 4388.755
+12 23 0 2023-06-28 16:38:57.243540 queries/job_rand_base_split__train/29a.sql 144.517
+12 23 1 2023-06-28 16:39:43.555526 queries/job_rand_base_split__train/29a.sql 141.558
+12 23 2 2023-06-28 16:40:31.254040 queries/job_rand_base_split__train/29a.sql 131.756
+12 24 0 2023-06-28 16:40:32.162360 queries/job_rand_base_split__train/1d.sql 104.565
+12 24 1 2023-06-28 16:40:33.084209 queries/job_rand_base_split__train/1d.sql 138.98
+12 24 2 2023-06-28 16:40:33.981427 queries/job_rand_base_split__train/1d.sql 131.616
+==========================================================================================
+Iteration over chunk 14/19...
+[2023-06-28 16:40:33.981623]	[14/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.11558807065541093
+Epoch 15 training loss: 0.010470451617782766
+Epoch 30 training loss: 0.0035281127466904845
+Stopped training from convergence condition at epoch 34
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-28 16:40:45.213947]	[14/19]	Retraining done.
+13 0 0 2023-06-28 16:40:47.226571 queries/job_rand_base_split__train/9c.sql 581.354
+13 0 1 2023-06-28 16:40:49.284851 queries/job_rand_base_split__train/9c.sql 626.313
+13 0 2 2023-06-28 16:40:51.310593 queries/job_rand_base_split__train/9c.sql 629.783
+13 1 0 2023-06-28 16:40:53.256926 queries/job_rand_base_split__train/23c.sql 423.483
+13 1 1 2023-06-28 16:40:55.246734 queries/job_rand_base_split__train/23c.sql 406.389
+13 1 2 2023-06-28 16:40:57.167667 queries/job_rand_base_split__train/23c.sql 397.709
+13 2 0 2023-06-28 16:41:06.058081 queries/job_rand_base_split__train/8c.sql 4370.819
+13 2 1 2023-06-28 16:41:14.798349 queries/job_rand_base_split__train/8c.sql 4237.42
+13 2 2 2023-06-28 16:41:23.955511 queries/job_rand_base_split__train/8c.sql 4585.028
+13 3 0 2023-06-28 16:41:27.435932 queries/job_rand_base_split__train/13a.sql 1275.689
+13 3 1 2023-06-28 16:41:30.869852 queries/job_rand_base_split__train/13a.sql 1466.124
+13 3 2 2023-06-28 16:41:34.376368 queries/job_rand_base_split__train/13a.sql 1290.482
+13 4 0 2023-06-28 16:41:35.833697 queries/job_rand_base_split__train/9b.sql 340.695
+13 4 1 2023-06-28 16:41:37.281953 queries/job_rand_base_split__train/9b.sql 317.265
+13 4 2 2023-06-28 16:41:38.759042 queries/job_rand_base_split__train/9b.sql 317.854
+13 5 0 2023-06-28 16:41:40.521900 queries/job_rand_base_split__train/14c.sql 457.923
+13 5 1 2023-06-28 16:41:42.328843 queries/job_rand_base_split__train/14c.sql 465.994
+13 5 2 2023-06-28 16:41:44.088987 queries/job_rand_base_split__train/14c.sql 458.496
+13 6 0 2023-06-28 16:41:45.580493 queries/job_rand_base_split__train/9a.sql 350.661
+13 6 1 2023-06-28 16:41:47.044834 queries/job_rand_base_split__train/9a.sql 349.575
+13 6 2 2023-06-28 16:41:48.532911 queries/job_rand_base_split__train/9a.sql 334.952
+13 7 0 2023-06-28 16:41:56.792738 queries/job_rand_base_split__train/17d.sql 4251.491
+13 7 1 2023-06-28 16:42:05.347746 queries/job_rand_base_split__train/17d.sql 4334.382
+13 7 2 2023-06-28 16:42:13.564338 queries/job_rand_base_split__train/17d.sql 4306.996
+13 8 0 2023-06-28 16:42:17.001120 queries/job_rand_base_split__train/13a.sql 1391.397
+13 8 1 2023-06-28 16:42:20.613531 queries/job_rand_base_split__train/13a.sql 1433.753
+13 8 2 2023-06-28 16:42:24.077051 queries/job_rand_base_split__train/13a.sql 1351.653
+13 9 0 2023-06-28 16:42:26.960159 queries/job_rand_base_split__train/20c.sql 893.858
+13 9 1 2023-06-28 16:42:30.163124 queries/job_rand_base_split__train/20c.sql 1054.257
+13 9 2 2023-06-28 16:42:33.300387 queries/job_rand_base_split__train/20c.sql 985.121
+13 10 0 2023-06-28 16:42:38.273257 queries/job_rand_base_split__train/33a.sql 29.943
+13 10 1 2023-06-28 16:42:43.294242 queries/job_rand_base_split__train/33a.sql 28.895
+13 10 2 2023-06-28 16:42:48.356143 queries/job_rand_base_split__train/33a.sql 29.748
+13 11 0 2023-06-28 16:42:56.627600 queries/job_rand_base_split__train/18c.sql 3588.097
+13 11 1 2023-06-28 16:43:04.682418 queries/job_rand_base_split__train/18c.sql 3759.102
+13 11 2 2023-06-28 16:43:13.000977 queries/job_rand_base_split__train/18c.sql 3722.679
+13 12 0 2023-06-28 16:43:14.963077 queries/job_rand_base_split__train/27c.sql 31.38
+13 12 1 2023-06-28 16:43:16.916341 queries/job_rand_base_split__train/27c.sql 31.45
+13 12 2 2023-06-28 16:43:19.034638 queries/job_rand_base_split__train/27c.sql 33.479
+13 13 0 2023-06-28 16:43:20.793392 queries/job_rand_base_split__train/23a.sql 310.758
+13 13 1 2023-06-28 16:43:22.456370 queries/job_rand_base_split__train/23a.sql 272.794
+13 13 2 2023-06-28 16:43:24.180938 queries/job_rand_base_split__train/23a.sql 298.25
+13 14 0 2023-06-28 16:43:25.090676 queries/job_rand_base_split__train/1c.sql 115.426
+13 14 1 2023-06-28 16:43:25.994810 queries/job_rand_base_split__train/1c.sql 104.769
+13 14 2 2023-06-28 16:43:26.887766 queries/job_rand_base_split__train/1c.sql 104.158
+13 15 0 2023-06-28 16:43:28.775886 queries/job_rand_base_split__train/27a.sql 22.233
+13 15 1 2023-06-28 16:43:30.653467 queries/job_rand_base_split__train/27a.sql 21.196
+13 15 2 2023-06-28 16:43:32.571147 queries/job_rand_base_split__train/27a.sql 21.69
+13 16 0 2023-06-28 16:43:39.877570 queries/job_rand_base_split__train/17c.sql 3603.489
+13 16 1 2023-06-28 16:43:47.066715 queries/job_rand_base_split__train/17c.sql 3557.471
+13 16 2 2023-06-28 16:43:54.186177 queries/job_rand_base_split__train/17c.sql 3527.424
+13 17 0 2023-06-28 16:43:54.920735 queries/job_rand_base_split__train/32a.sql 10.776
+13 17 1 2023-06-28 16:43:55.653520 queries/job_rand_base_split__train/32a.sql 10.963
+13 17 2 2023-06-28 16:43:56.373002 queries/job_rand_base_split__train/32a.sql 11.022
+13 18 0 2023-06-28 16:43:57.968748 queries/job_rand_base_split__train/10a.sql 434.137
+13 18 1 2023-06-28 16:43:59.556981 queries/job_rand_base_split__train/10a.sql 434.503
+13 18 2 2023-06-28 16:44:01.189787 queries/job_rand_base_split__train/10a.sql 426.167
+13 19 0 2023-06-28 16:44:02.373311 queries/job_rand_base_split__train/8b.sql 190.814
+13 19 1 2023-06-28 16:44:03.576677 queries/job_rand_base_split__train/8b.sql 202.508
+13 19 2 2023-06-28 16:44:04.730492 queries/job_rand_base_split__train/8b.sql 200.862
+13 20 0 2023-06-28 16:44:06.747778 queries/job_rand_base_split__train/23c.sql 419.99
+13 20 1 2023-06-28 16:44:08.673967 queries/job_rand_base_split__train/23c.sql 406.912
+13 20 2 2023-06-28 16:44:10.713532 queries/job_rand_base_split__train/23c.sql 426.787
+13 21 0 2023-06-28 16:44:11.785906 queries/job_rand_base_split__train/32b.sql 162.408
+13 21 1 2023-06-28 16:44:12.755539 queries/job_rand_base_split__train/32b.sql 104.492
+13 21 2 2023-06-28 16:44:13.797453 queries/job_rand_base_split__train/32b.sql 107.87
+13 22 0 2023-06-28 16:44:18.777699 queries/job_rand_base_split__train/33b.sql 26.542
+13 22 1 2023-06-28 16:44:23.775104 queries/job_rand_base_split__train/33b.sql 27.808
+13 22 2 2023-06-28 16:44:29.020682 queries/job_rand_base_split__train/33b.sql 28.907
+13 23 0 2023-06-28 16:44:34.518321 queries/job_rand_base_split__train/30a.sql 1788.031
+13 23 1 2023-06-28 16:44:40.102322 queries/job_rand_base_split__train/30a.sql 1835.089
+13 23 2 2023-06-28 16:44:45.713964 queries/job_rand_base_split__train/30a.sql 1825.832
+13 24 0 2023-06-28 16:44:46.657443 queries/job_rand_base_split__train/1a.sql 116.082
+13 24 1 2023-06-28 16:44:47.630533 queries/job_rand_base_split__train/1a.sql 108.564
+13 24 2 2023-06-28 16:44:48.579135 queries/job_rand_base_split__train/1a.sql 111.943
+==========================================================================================
+Iteration over chunk 15/19...
+[2023-06-28 16:44:48.579289]	[15/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.11291540677969654
+Epoch 15 training loss: 0.017841648174605023
+Epoch 30 training loss: 0.004718490337836556
+Epoch 45 training loss: 0.0027115323221854246
+Stopped training from convergence condition at epoch 47
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-28 16:45:03.646391]	[15/19]	Retraining done.
+14 0 0 2023-06-28 16:45:04.822260 queries/job_rand_base_split__train/11d.sql 154.358
+14 0 1 2023-06-28 16:45:05.990697 queries/job_rand_base_split__train/11d.sql 164.328
+14 0 2 2023-06-28 16:45:07.142387 queries/job_rand_base_split__train/11d.sql 148.557
+14 1 0 2023-06-28 16:46:06.696414 queries/job_rand_base_split__train/29c.sql 6059.509
+14 1 1 2023-06-28 16:47:04.417490 queries/job_rand_base_split__train/29c.sql 6031.909
+14 1 2 2023-06-28 16:48:01.846745 queries/job_rand_base_split__train/29c.sql 5945.001
+14 2 0 2023-06-28 16:48:03.235563 queries/job_rand_base_split__train/19b.sql 170.854
+14 2 1 2023-06-28 16:48:04.525772 queries/job_rand_base_split__train/19b.sql 163.465
+14 2 2 2023-06-28 16:48:05.826368 queries/job_rand_base_split__train/19b.sql 154.369
+14 3 0 2023-06-28 16:48:14.392453 queries/job_rand_base_split__train/18c.sql 3782.952
+14 3 1 2023-06-28 16:48:22.780859 queries/job_rand_base_split__train/18c.sql 3786.874
+14 3 2 2023-06-28 16:48:31.209515 queries/job_rand_base_split__train/18c.sql 3738.227
+14 4 0 2023-06-28 16:48:32.369002 queries/job_rand_base_split__train/5c.sql 235.926
+14 4 1 2023-06-28 16:48:33.519896 queries/job_rand_base_split__train/5c.sql 190.909
+14 4 2 2023-06-28 16:48:34.633789 queries/job_rand_base_split__train/5c.sql 201.335
+14 5 0 2023-06-28 16:48:35.627337 queries/job_rand_base_split__train/32b.sql 104.089
+14 5 1 2023-06-28 16:48:36.753026 queries/job_rand_base_split__train/32b.sql 111.865
+14 5 2 2023-06-28 16:48:37.720407 queries/job_rand_base_split__train/32b.sql 102.232
+14 6 0 2023-06-28 16:48:38.908075 queries/job_rand_base_split__train/18b.sql 195.122
+14 6 1 2023-06-28 16:48:40.083345 queries/job_rand_base_split__train/18b.sql 193.497
+14 6 2 2023-06-28 16:48:41.248129 queries/job_rand_base_split__train/18b.sql 203.65
+14 7 0 2023-06-28 16:48:49.541742 queries/job_rand_base_split__train/18c.sql 3605.001
+14 7 1 2023-06-28 16:48:57.283413 queries/job_rand_base_split__train/18c.sql 3521.524
+14 7 2 2023-06-28 16:49:05.508253 queries/job_rand_base_split__train/18c.sql 3644.93
+14 8 0 2023-06-28 16:49:13.467137 queries/job_rand_base_split__train/20a.sql 3895.377
+14 8 1 2023-06-28 16:49:21.211898 queries/job_rand_base_split__train/20a.sql 3790.637
+14 8 2 2023-06-28 16:49:28.897912 queries/job_rand_base_split__train/20a.sql 3856.832
+14 9 0 2023-06-28 16:49:29.826007 queries/job_rand_base_split__train/1d.sql 105.356
+14 9 1 2023-06-28 16:49:30.716442 queries/job_rand_base_split__train/1d.sql 102.798
+14 9 2 2023-06-28 16:49:31.611530 queries/job_rand_base_split__train/1d.sql 114.16
+14 10 0 2023-06-28 16:49:38.984337 queries/job_rand_base_split__train/18a.sql 3414.119
+14 10 1 2023-06-28 16:49:46.340850 queries/job_rand_base_split__train/18a.sql 3441.18
+14 10 2 2023-06-28 16:49:53.647215 queries/job_rand_base_split__train/18a.sql 3415.326
+14 11 0 2023-06-28 16:49:55.580253 queries/job_rand_base_split__train/13b.sql 573.844
+14 11 1 2023-06-28 16:49:57.555444 queries/job_rand_base_split__train/13b.sql 617.089
+14 11 2 2023-06-28 16:49:59.691274 queries/job_rand_base_split__train/13b.sql 681.744
+14 12 0 2023-06-28 16:50:03.954403 queries/job_rand_base_split__train/20b.sql 1600.293
+14 12 1 2023-06-28 16:50:08.223861 queries/job_rand_base_split__train/20b.sql 1615.083
+14 12 2 2023-06-28 16:50:12.568159 queries/job_rand_base_split__train/20b.sql 1623.917
+14 13 0 2023-06-28 16:50:21.428843 queries/job_rand_base_split__train/8c.sql 4330.244
+14 13 1 2023-06-28 16:50:30.409282 queries/job_rand_base_split__train/8c.sql 4315.789
+14 13 2 2023-06-28 16:50:39.456043 queries/job_rand_base_split__train/8c.sql 4381.296
+14 14 0 2023-06-28 16:50:44.909231 queries/job_rand_base_split__train/30a.sql 1779.566
+14 14 1 2023-06-28 16:50:50.375546 queries/job_rand_base_split__train/30a.sql 1745.05
+14 14 2 2023-06-28 16:50:55.900488 queries/job_rand_base_split__train/30a.sql 1829.971
+14 15 0 2023-06-28 16:50:56.677573 queries/job_rand_base_split__train/6e.sql 17.902
+14 15 1 2023-06-28 16:50:57.429820 queries/job_rand_base_split__train/6e.sql 17.957
+14 15 2 2023-06-28 16:50:58.183621 queries/job_rand_base_split__train/6e.sql 17.86
+14 16 0 2023-06-28 16:51:04.178291 queries/job_rand_base_split__train/28a.sql 877.11
+14 16 1 2023-06-28 16:51:10.244357 queries/job_rand_base_split__train/28a.sql 876.165
+14 16 2 2023-06-28 16:51:16.462858 queries/job_rand_base_split__train/28a.sql 858.06
+14 17 0 2023-06-28 16:51:17.719357 queries/job_rand_base_split__train/18b.sql 217.53
+14 17 1 2023-06-28 16:51:18.937926 queries/job_rand_base_split__train/18b.sql 220.504
+14 17 2 2023-06-28 16:51:20.164205 queries/job_rand_base_split__train/18b.sql 212.533
+14 18 0 2023-06-28 16:51:24.505262 queries/job_rand_base_split__train/26a.sql 1341.342
+14 18 1 2023-06-28 16:51:28.653995 queries/job_rand_base_split__train/26a.sql 1312.053
+14 18 2 2023-06-28 16:51:32.783775 queries/job_rand_base_split__train/26a.sql 1331.292
+14 19 0 2023-06-28 16:51:34.420972 queries/job_rand_base_split__train/10a.sql 471.51
+14 19 1 2023-06-28 16:51:36.166602 queries/job_rand_base_split__train/10a.sql 489.312
+14 19 2 2023-06-28 16:51:37.785462 queries/job_rand_base_split__train/10a.sql 448.261
+14 20 0 2023-06-28 16:51:46.403564 queries/job_rand_base_split__train/17f.sql 4375.653
+14 20 1 2023-06-28 16:51:55.399225 queries/job_rand_base_split__train/17f.sql 4589.774
+14 20 2 2023-06-28 16:52:04.421459 queries/job_rand_base_split__train/17f.sql 4695.785
+14 21 0 2023-06-28 16:52:07.259520 queries/job_rand_base_split__train/20c.sql 875.506
+14 21 1 2023-06-28 16:52:10.128152 queries/job_rand_base_split__train/20c.sql 927.947
+14 21 2 2023-06-28 16:52:13.055539 queries/job_rand_base_split__train/20c.sql 889.75
+14 22 0 2023-06-28 16:52:15.047240 queries/job_rand_base_split__train/27a.sql 22.377
+14 22 1 2023-06-28 16:52:17.063533 queries/job_rand_base_split__train/27a.sql 22.834
+14 22 2 2023-06-28 16:52:19.053990 queries/job_rand_base_split__train/27a.sql 21.235
+14 23 0 2023-06-28 16:53:05.748197 queries/job_rand_base_split__train/29b.sql 28.605
+14 23 1 2023-06-28 16:53:53.084996 queries/job_rand_base_split__train/29b.sql 28.419
+14 23 2 2023-06-28 16:54:39.485617 queries/job_rand_base_split__train/29b.sql 29.812
+14 24 0 2023-06-28 16:54:40.594169 queries/job_rand_base_split__train/21c.sql 96.951
+14 24 1 2023-06-28 16:54:41.638436 queries/job_rand_base_split__train/21c.sql 94.504
+14 24 2 2023-06-28 16:54:42.677344 queries/job_rand_base_split__train/21c.sql 93.058
+==========================================================================================
+Iteration over chunk 16/19...
+[2023-06-28 16:54:42.677510]	[16/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.09339847348630428
+Epoch 15 training loss: 0.011399882696568966
+Epoch 30 training loss: 0.0030166995781473814
+Epoch 45 training loss: 0.0020955918612889945
+Stopped training from convergence condition at epoch 47
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-28 16:54:58.445683]	[16/19]	Retraining done.
+15 0 0 2023-06-28 16:54:59.589907 queries/job_rand_base_split__train/21a.sql 92.418
+15 0 1 2023-06-28 16:55:00.658721 queries/job_rand_base_split__train/21a.sql 96.113
+15 0 2 2023-06-28 16:55:01.843371 queries/job_rand_base_split__train/21a.sql 93.071
+15 1 0 2023-06-28 16:55:05.348523 queries/job_rand_base_split__train/16d.sql 1266.435
+15 1 1 2023-06-28 16:55:08.598373 queries/job_rand_base_split__train/16d.sql 1171.875
+15 1 2 2023-06-28 16:55:11.932391 queries/job_rand_base_split__train/16d.sql 1265.162
+15 2 0 2023-06-28 16:55:13.909812 queries/job_rand_base_split__train/22a.sql 390.132
+15 2 1 2023-06-28 16:55:15.889463 queries/job_rand_base_split__train/22a.sql 363.265
+15 2 2 2023-06-28 16:55:17.809124 queries/job_rand_base_split__train/22a.sql 358.393
+15 3 0 2023-06-28 16:55:18.556972 queries/job_rand_base_split__train/6e.sql 17.524
+15 3 1 2023-06-28 16:55:19.348186 queries/job_rand_base_split__train/6e.sql 19.618
+15 3 2 2023-06-28 16:55:20.116305 queries/job_rand_base_split__train/6e.sql 18.495
+15 4 0 2023-06-28 16:55:21.049933 queries/job_rand_base_split__train/4a.sql 96.473
+15 4 1 2023-06-28 16:55:22.055108 queries/job_rand_base_split__train/4a.sql 85.392
+15 4 2 2023-06-28 16:55:22.975367 queries/job_rand_base_split__train/4a.sql 86.329
+15 5 0 2023-06-28 16:55:24.004571 queries/job_rand_base_split__train/14b.sql 112.65
+15 5 1 2023-06-28 16:55:25.055250 queries/job_rand_base_split__train/14b.sql 112.23
+15 5 2 2023-06-28 16:55:26.187622 queries/job_rand_base_split__train/14b.sql 126.191
+15 6 0 2023-06-28 16:55:27.458033 queries/job_rand_base_split__train/12a.sql 212.101
+15 6 1 2023-06-28 16:55:28.636739 queries/job_rand_base_split__train/12a.sql 195.832
+15 6 2 2023-06-28 16:55:29.833533 queries/job_rand_base_split__train/12a.sql 178.463
+15 7 0 2023-06-28 16:55:31.508841 queries/job_rand_base_split__train/23a.sql 281.809
+15 7 1 2023-06-28 16:55:33.228156 queries/job_rand_base_split__train/23a.sql 284.188
+15 7 2 2023-06-28 16:55:34.926228 queries/job_rand_base_split__train/23a.sql 309.356
+15 8 0 2023-06-28 16:55:41.288970 queries/job_rand_base_split__train/28c.sql 1054.33
+15 8 1 2023-06-28 16:55:47.810382 queries/job_rand_base_split__train/28c.sql 1052.743
+15 8 2 2023-06-28 16:55:54.067703 queries/job_rand_base_split__train/28c.sql 1018.097
+15 9 0 2023-06-28 16:55:55.401686 queries/job_rand_base_split__train/19b.sql 172.191
+15 9 1 2023-06-28 16:55:56.710643 queries/job_rand_base_split__train/19b.sql 152.637
+15 9 2 2023-06-28 16:55:57.981391 queries/job_rand_base_split__train/19b.sql 157.357
+15 10 0 2023-06-28 16:55:58.950474 queries/job_rand_base_split__train/4c.sql 104.275
+15 10 1 2023-06-28 16:55:59.920980 queries/job_rand_base_split__train/4c.sql 110.279
+15 10 2 2023-06-28 16:56:00.932845 queries/job_rand_base_split__train/4c.sql 115.019
+15 11 0 2023-06-28 16:56:04.564829 queries/job_rand_base_split__train/33c.sql 31.071
+15 11 1 2023-06-28 16:56:08.265438 queries/job_rand_base_split__train/33c.sql 32.987
+15 11 2 2023-06-28 16:56:11.986288 queries/job_rand_base_split__train/33c.sql 35.015
+15 12 0 2023-06-28 16:56:17.702842 queries/job_rand_base_split__train/30a.sql 1877.73
+15 12 1 2023-06-28 16:56:23.710185 queries/job_rand_base_split__train/30a.sql 2030.311
+15 12 2 2023-06-28 16:56:29.433194 queries/job_rand_base_split__train/30a.sql 1797.955
+15 13 0 2023-06-28 16:56:37.683647 queries/job_rand_base_split__train/17a.sql 4179.439
+15 13 1 2023-06-28 16:56:45.959266 queries/job_rand_base_split__train/17a.sql 4258.063
+15 13 2 2023-06-28 16:56:54.595233 queries/job_rand_base_split__train/17a.sql 4339.393
+15 14 0 2023-06-28 16:57:07.063451 queries/job_rand_base_split__train/16b.sql 6356.528
+15 14 1 2023-06-28 16:57:19.270059 queries/job_rand_base_split__train/16b.sql 6496.944
+15 14 2 2023-06-28 16:57:31.553975 queries/job_rand_base_split__train/16b.sql 6381.26
+15 15 0 2023-06-28 16:57:39.257663 queries/job_rand_base_split__train/10c.sql 3432.801
+15 15 1 2023-06-28 16:57:46.790858 queries/job_rand_base_split__train/10c.sql 3585.98
+15 15 2 2023-06-28 16:57:54.529260 queries/job_rand_base_split__train/10c.sql 3510.518
+15 16 0 2023-06-28 16:58:07.028582 queries/job_rand_base_split__train/17c.sql 5652.837
+15 16 1 2023-06-28 16:58:18.658486 queries/job_rand_base_split__train/17c.sql 5444.953
+15 16 2 2023-06-28 16:58:30.435206 queries/job_rand_base_split__train/17c.sql 5304.973
+15 17 0 2023-06-28 16:58:32.336889 queries/job_rand_base_split__train/22a.sql 351.048
+15 17 1 2023-06-28 16:58:34.406240 queries/job_rand_base_split__train/22a.sql 389.089
+15 17 2 2023-06-28 16:58:36.341107 queries/job_rand_base_split__train/22a.sql 359.349
+15 18 0 2023-06-28 16:58:37.455198 queries/job_rand_base_split__train/5c.sql 198.716
+15 18 1 2023-06-28 16:58:38.573979 queries/job_rand_base_split__train/5c.sql 211.009
+15 18 2 2023-06-28 16:58:39.698513 queries/job_rand_base_split__train/5c.sql 199.944
+15 19 0 2023-06-28 16:58:40.849534 queries/job_rand_base_split__train/11d.sql 224.849
+15 19 1 2023-06-28 16:58:42.070422 queries/job_rand_base_split__train/11d.sql 223.972
+15 19 2 2023-06-28 16:58:43.234177 queries/job_rand_base_split__train/11d.sql 229.064
+15 20 0 2023-06-28 16:58:48.645113 queries/job_rand_base_split__train/20a.sql 2119.687
+15 20 1 2023-06-28 16:58:53.622025 queries/job_rand_base_split__train/20a.sql 1975.863
+15 20 2 2023-06-28 16:58:59.170219 queries/job_rand_base_split__train/20a.sql 2177.768
+15 21 0 2023-06-28 16:59:05.826557 queries/job_rand_base_split__train/28c.sql 1099.852
+15 21 1 2023-06-28 16:59:12.362408 queries/job_rand_base_split__train/28c.sql 1053.767
+15 21 2 2023-06-28 16:59:18.921733 queries/job_rand_base_split__train/28c.sql 1141.187
+15 22 0 2023-06-28 16:59:31.378514 queries/job_rand_base_split__train/16b.sql 6300.396
+15 22 1 2023-06-28 16:59:43.715678 queries/job_rand_base_split__train/16b.sql 6456.438
+15 22 2 2023-06-28 16:59:55.836590 queries/job_rand_base_split__train/16b.sql 6143.993
+15 23 0 2023-06-28 17:00:03.146105 queries/job_rand_base_split__train/30c.sql 2493.838
+15 23 1 2023-06-28 17:00:09.941403 queries/job_rand_base_split__train/30c.sql 2401.556
+15 23 2 2023-06-28 17:00:16.503581 queries/job_rand_base_split__train/30c.sql 2283.311
+15 24 0 2023-06-28 17:00:21.415207 queries/job_rand_base_split__train/22c.sql 1786.807
+15 24 1 2023-06-28 17:00:26.320640 queries/job_rand_base_split__train/22c.sql 1819.934
+15 24 2 2023-06-28 17:00:31.381626 queries/job_rand_base_split__train/22c.sql 1919.116
+==========================================================================================
+Iteration over chunk 17/19...
+[2023-06-28 17:00:31.381776]	[17/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.12095865883209088
+Epoch 15 training loss: 0.014976893603387807
+Epoch 30 training loss: 0.006555539521354216
+Epoch 45 training loss: 0.0022909770788693867
+Stopped training from convergence condition at epoch 53
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-28 17:00:49.476068]	[17/19]	Retraining done.
+16 0 0 2023-06-28 17:01:01.879314 queries/job_rand_base_split__train/17b.sql 5703.96
+16 0 1 2023-06-28 17:01:13.748538 queries/job_rand_base_split__train/17b.sql 5497.69
+16 0 2 2023-06-28 17:01:26.250829 queries/job_rand_base_split__train/17b.sql 5650.703
+16 1 0 2023-06-28 17:02:13.987360 queries/job_rand_base_split__train/29b.sql 28.161
+16 1 1 2023-06-28 17:03:00.049001 queries/job_rand_base_split__train/29b.sql 28.218
+16 1 2 2023-06-28 17:03:46.534361 queries/job_rand_base_split__train/29b.sql 29.283
+16 2 0 2023-06-28 17:03:48.119013 queries/job_rand_base_split__train/10a.sql 417.38
+16 2 1 2023-06-28 17:03:49.673712 queries/job_rand_base_split__train/10a.sql 414.202
+16 2 2 2023-06-28 17:03:51.250569 queries/job_rand_base_split__train/10a.sql 424.599
+16 3 0 2023-06-28 17:03:54.802063 queries/job_rand_base_split__train/33c.sql 31.407
+16 3 1 2023-06-28 17:03:58.364432 queries/job_rand_base_split__train/33c.sql 31.445
+16 3 2 2023-06-28 17:04:01.949156 queries/job_rand_base_split__train/33c.sql 30.798
+16 4 0 2023-06-28 17:04:02.867520 queries/job_rand_base_split__train/3b.sql 79.377
+16 4 1 2023-06-28 17:04:03.770975 queries/job_rand_base_split__train/3b.sql 75.906
+16 4 2 2023-06-28 17:04:04.680341 queries/job_rand_base_split__train/3b.sql 82.422
+16 5 0 2023-06-28 17:04:08.284608 queries/job_rand_base_split__train/13a.sql 1422.886
+16 5 1 2023-06-28 17:04:11.518361 queries/job_rand_base_split__train/13a.sql 1268.588
+16 5 2 2023-06-28 17:04:15.062926 queries/job_rand_base_split__train/13a.sql 1489.207
+16 6 0 2023-06-28 17:04:19.372625 queries/job_rand_base_split__train/20b.sql 1647.117
+16 6 1 2023-06-28 17:04:23.678395 queries/job_rand_base_split__train/20b.sql 1590.674
+16 6 2 2023-06-28 17:04:28.104422 queries/job_rand_base_split__train/20b.sql 1645.06
+16 7 0 2023-06-28 17:04:29.890253 queries/job_rand_base_split__train/14c.sql 468.878
+16 7 1 2023-06-28 17:04:31.690635 queries/job_rand_base_split__train/14c.sql 464.782
+16 7 2 2023-06-28 17:04:33.456710 queries/job_rand_base_split__train/14c.sql 465.734
+16 8 0 2023-06-28 17:04:34.940548 queries/job_rand_base_split__train/9a.sql 327.773
+16 8 1 2023-06-28 17:04:36.422853 queries/job_rand_base_split__train/9a.sql 326.888
+16 8 2 2023-06-28 17:04:37.852374 queries/job_rand_base_split__train/9a.sql 326.323
+16 9 0 2023-06-28 17:04:39.494385 queries/job_rand_base_split__train/23a.sql 280.707
+16 9 1 2023-06-28 17:04:41.138683 queries/job_rand_base_split__train/23a.sql 287.388
+16 9 2 2023-06-28 17:04:42.786769 queries/job_rand_base_split__train/23a.sql 297.271
+16 10 0 2023-06-28 17:04:43.631711 queries/job_rand_base_split__train/11b.sql 31.752
+16 10 1 2023-06-28 17:04:44.481937 queries/job_rand_base_split__train/11b.sql 32.033
+16 10 2 2023-06-28 17:04:45.325792 queries/job_rand_base_split__train/11b.sql 31.891
+16 11 0 2023-06-28 17:04:52.476506 queries/job_rand_base_split__train/17c.sql 3618.477
+16 11 1 2023-06-28 17:04:59.480182 queries/job_rand_base_split__train/17c.sql 3530.461
+16 11 2 2023-06-28 17:05:06.539443 queries/job_rand_base_split__train/17c.sql 3540.05
+16 12 0 2023-06-28 17:05:07.678693 queries/job_rand_base_split__train/5c.sql 210.483
+16 12 1 2023-06-28 17:05:08.822819 queries/job_rand_base_split__train/5c.sql 216.098
+16 12 2 2023-06-28 17:05:09.972567 queries/job_rand_base_split__train/5c.sql 202.647
+16 13 0 2023-06-28 17:05:10.963742 queries/job_rand_base_split__train/21b.sql 67.052
+16 13 1 2023-06-28 17:05:11.950232 queries/job_rand_base_split__train/21b.sql 66.961
+16 13 2 2023-06-28 17:05:13.040789 queries/job_rand_base_split__train/21b.sql 69.485
+16 14 0 2023-06-28 17:05:13.919449 queries/job_rand_base_split__train/4b.sql 80.785
+16 14 1 2023-06-28 17:05:14.778533 queries/job_rand_base_split__train/4b.sql 82.797
+16 14 2 2023-06-28 17:05:15.671784 queries/job_rand_base_split__train/4b.sql 89.29
+16 15 0 2023-06-28 17:06:03.765940 queries/job_rand_base_split__train/29c.sql 543.094
+16 15 1 2023-06-28 17:06:52.234324 queries/job_rand_base_split__train/29c.sql 518.839
+16 15 2 2023-06-28 17:07:39.429879 queries/job_rand_base_split__train/29c.sql 519.755
+16 16 0 2023-06-28 17:07:41.499933 queries/job_rand_base_split__train/9c.sql 606.213
+16 16 1 2023-06-28 17:07:43.570698 queries/job_rand_base_split__train/9c.sql 617.667
+16 16 2 2023-06-28 17:07:45.578256 queries/job_rand_base_split__train/9c.sql 584.233
+16 17 0 2023-06-28 17:07:47.487469 queries/job_rand_base_split__train/27b.sql 11.654
+16 17 1 2023-06-28 17:07:49.366702 queries/job_rand_base_split__train/27b.sql 11.417
+16 17 2 2023-06-28 17:07:51.271074 queries/job_rand_base_split__train/27b.sql 11.015
+16 18 0 2023-06-28 17:07:56.841473 queries/job_rand_base_split__train/8d.sql 2437.381
+16 18 1 2023-06-28 17:08:02.748033 queries/job_rand_base_split__train/8d.sql 2687.139
+16 18 2 2023-06-28 17:08:08.222263 queries/job_rand_base_split__train/8d.sql 2485.759
+16 19 0 2023-06-28 17:08:17.367691 queries/job_rand_base_split__train/6d.sql 4181.163
+16 19 1 2023-06-28 17:08:27.186339 queries/job_rand_base_split__train/6d.sql 4469.603
+16 19 2 2023-06-28 17:08:37.349366 queries/job_rand_base_split__train/6d.sql 4678.696
+16 20 0 2023-06-28 17:08:43.261313 queries/job_rand_base_split__train/28a.sql 856.113
+16 20 1 2023-06-28 17:08:49.501260 queries/job_rand_base_split__train/28a.sql 884.449
+16 20 2 2023-06-28 17:08:55.436465 queries/job_rand_base_split__train/28a.sql 839.921
+16 21 0 2023-06-28 17:08:56.370449 queries/job_rand_base_split__train/32b.sql 96.74
+16 21 1 2023-06-28 17:08:57.304408 queries/job_rand_base_split__train/32b.sql 99.238
+16 21 2 2023-06-28 17:08:58.259575 queries/job_rand_base_split__train/32b.sql 108.744
+16 22 0 2023-06-28 17:09:01.100678 queries/job_rand_base_split__train/22d.sql 771.774
+16 22 1 2023-06-28 17:09:03.724751 queries/job_rand_base_split__train/22d.sql 713.013
+16 22 2 2023-06-28 17:09:06.384332 queries/job_rand_base_split__train/22d.sql 722.534
+16 23 0 2023-06-28 17:09:07.421833 queries/job_rand_base_split__train/5b.sql 139.748
+16 23 1 2023-06-28 17:09:08.466736 queries/job_rand_base_split__train/5b.sql 136.891
+16 23 2 2023-06-28 17:09:09.463963 queries/job_rand_base_split__train/5b.sql 140.843
+16 24 0 2023-06-28 17:09:12.773013 queries/job_rand_base_split__train/26a.sql 825.269
+16 24 1 2023-06-28 17:09:16.095061 queries/job_rand_base_split__train/26a.sql 893.295
+16 24 2 2023-06-28 17:09:19.443701 queries/job_rand_base_split__train/26a.sql 834.3
+==========================================================================================
+Iteration over chunk 18/19...
+[2023-06-28 17:09:19.443860]	[18/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.17918385359747657
+Epoch 15 training loss: 0.008621023064639804
+Epoch 30 training loss: 0.002472032055234665
+Stopped training from convergence condition at epoch 40
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-28 17:09:34.512386]	[18/19]	Retraining done.
+17 0 0 2023-06-28 17:09:35.353650 queries/job_rand_base_split__train/6e.sql 19.143
+17 0 1 2023-06-28 17:09:36.153407 queries/job_rand_base_split__train/6e.sql 19.404
+17 0 2 2023-06-28 17:09:36.910079 queries/job_rand_base_split__train/6e.sql 18.296
+17 1 0 2023-06-28 17:09:42.065779 queries/job_rand_base_split__train/33b.sql 32.998
+17 1 1 2023-06-28 17:09:47.028193 queries/job_rand_base_split__train/33b.sql 28.423
+17 1 2 2023-06-28 17:09:52.109484 queries/job_rand_base_split__train/33b.sql 36.544
+17 2 0 2023-06-28 17:09:53.979512 queries/job_rand_base_split__train/22a.sql 352.926
+17 2 1 2023-06-28 17:09:55.970252 queries/job_rand_base_split__train/22a.sql 379.016
+17 2 2 2023-06-28 17:09:57.905437 queries/job_rand_base_split__train/22a.sql 371.616
+17 3 0 2023-06-28 17:10:06.169461 queries/job_rand_base_split__train/17d.sql 4104.813
+17 3 1 2023-06-28 17:10:14.609694 queries/job_rand_base_split__train/17d.sql 4439.091
+17 3 2 2023-06-28 17:10:23.396056 queries/job_rand_base_split__train/17d.sql 4489.016
+17 4 0 2023-06-28 17:10:30.740956 queries/job_rand_base_split__train/17c.sql 3637.238
+17 4 1 2023-06-28 17:10:38.012051 queries/job_rand_base_split__train/17c.sql 3582.688
+17 4 2 2023-06-28 17:10:45.145388 queries/job_rand_base_split__train/17c.sql 3510.285
+17 5 0 2023-06-28 17:10:51.566442 queries/job_rand_base_split__train/28c.sql 1058.392
+17 5 1 2023-06-28 17:10:57.874274 queries/job_rand_base_split__train/28c.sql 1039.762
+17 5 2 2023-06-28 17:11:04.196251 queries/job_rand_base_split__train/28c.sql 1049.89
+17 6 0 2023-06-28 17:11:05.240306 queries/job_rand_base_split__train/3a.sql 123.135
+17 6 1 2023-06-28 17:11:06.255739 queries/job_rand_base_split__train/3a.sql 126.568
+17 6 2 2023-06-28 17:11:07.265838 queries/job_rand_base_split__train/3a.sql 121.131
+17 7 0 2023-06-28 17:11:08.509108 queries/job_rand_base_split__train/23b.sql 47.244
+17 7 1 2023-06-28 17:11:09.794804 queries/job_rand_base_split__train/23b.sql 43.794
+17 7 2 2023-06-28 17:11:11.091507 queries/job_rand_base_split__train/23b.sql 46.87
+17 8 0 2023-06-28 17:11:16.440799 queries/job_rand_base_split__train/28b.sql 492.69
+17 8 1 2023-06-28 17:11:21.742790 queries/job_rand_base_split__train/28b.sql 457.8
+17 8 2 2023-06-28 17:11:26.930176 queries/job_rand_base_split__train/28b.sql 455.76
+17 9 0 2023-06-28 17:11:36.794044 queries/job_rand_base_split__train/17e.sql 5111.232
+17 9 1 2023-06-28 17:11:46.414239 queries/job_rand_base_split__train/17e.sql 4979.311
+17 9 2 2023-06-28 17:11:56.065074 queries/job_rand_base_split__train/17e.sql 5075.637
+17 10 0 2023-06-28 17:11:57.284606 queries/job_rand_base_split__train/12a.sql 211.036
+17 10 1 2023-06-28 17:11:58.515020 queries/job_rand_base_split__train/12a.sql 205.159
+17 10 2 2023-06-28 17:11:59.734722 queries/job_rand_base_split__train/12a.sql 205.306
+17 11 0 2023-06-28 17:12:09.038833 queries/job_rand_base_split__train/17f.sql 4727.032
+17 11 1 2023-06-28 17:12:18.228875 queries/job_rand_base_split__train/17f.sql 4577.775
+17 11 2 2023-06-28 17:12:27.386361 queries/job_rand_base_split__train/17f.sql 4610.364
+17 12 0 2023-06-28 17:12:37.280369 queries/job_rand_base_split__train/17e.sql 5093.211
+17 12 1 2023-06-28 17:12:47.042273 queries/job_rand_base_split__train/17e.sql 4965.347
+17 12 2 2023-06-28 17:12:56.836323 queries/job_rand_base_split__train/17e.sql 5012.776
+17 13 0 2023-06-28 17:12:58.611425 queries/job_rand_base_split__train/19a.sql 356.787
+17 13 1 2023-06-28 17:13:00.283237 queries/job_rand_base_split__train/19a.sql 336.399
+17 13 2 2023-06-28 17:13:01.983821 queries/job_rand_base_split__train/19a.sql 361.095
+17 14 0 2023-06-28 17:13:03.911627 queries/job_rand_base_split__train/23c.sql 394.77
+17 14 1 2023-06-28 17:13:05.860481 queries/job_rand_base_split__train/23c.sql 418.006
+17 14 2 2023-06-28 17:13:07.800919 queries/job_rand_base_split__train/23c.sql 422.172
+17 15 0 2023-06-28 17:13:12.546128 queries/job_rand_base_split__train/13d.sql 2131.954
+17 15 1 2023-06-28 17:13:17.363224 queries/job_rand_base_split__train/13d.sql 2131.13
+17 15 2 2023-06-28 17:13:21.955924 queries/job_rand_base_split__train/13d.sql 2004.782
+17 16 0 2023-06-28 17:13:30.137659 queries/job_rand_base_split__train/17a.sql 4116.422
+17 16 1 2023-06-28 17:13:38.538392 queries/job_rand_base_split__train/17a.sql 4404.881
+17 16 2 2023-06-28 17:13:46.958206 queries/job_rand_base_split__train/17a.sql 4282.32
+17 17 0 2023-06-28 17:13:53.227724 queries/job_rand_base_split__train/30c.sql 2147.344
+17 17 1 2023-06-28 17:14:00.160130 queries/job_rand_base_split__train/30c.sql 2352.132
+17 17 2 2023-06-28 17:14:06.530128 queries/job_rand_base_split__train/30c.sql 2146.565
+17 18 0 2023-06-28 17:14:07.256317 queries/job_rand_base_split__train/32a.sql 10.779
+17 18 1 2023-06-28 17:14:08.018550 queries/job_rand_base_split__train/32a.sql 11.499
+17 18 2 2023-06-28 17:14:08.759046 queries/job_rand_base_split__train/32a.sql 10.966
+17 19 0 2023-06-28 17:14:10.002782 queries/job_rand_base_split__train/11d.sql 258.366
+17 19 1 2023-06-28 17:14:11.163844 queries/job_rand_base_split__train/11d.sql 226.979
+17 19 2 2023-06-28 17:14:12.330756 queries/job_rand_base_split__train/11d.sql 223.726
+17 20 0 2023-06-28 17:14:19.141922 queries/job_rand_base_split__train/20a.sql 2945.344
+17 20 1 2023-06-28 17:14:26.084472 queries/job_rand_base_split__train/20a.sql 2860.301
+17 20 2 2023-06-28 17:14:32.842994 queries/job_rand_base_split__train/20a.sql 2949.304
+17 21 0 2023-06-28 17:14:36.408492 queries/job_rand_base_split__train/26a.sql 918.077
+17 21 1 2023-06-28 17:14:39.962846 queries/job_rand_base_split__train/26a.sql 953.097
+17 21 2 2023-06-28 17:14:43.331405 queries/job_rand_base_split__train/26a.sql 850.778
+17 22 0 2023-06-28 17:14:47.588296 queries/job_rand_base_split__train/20b.sql 1567.304
+17 22 1 2023-06-28 17:14:51.748860 queries/job_rand_base_split__train/20b.sql 1576.545
+17 22 2 2023-06-28 17:14:56.041925 queries/job_rand_base_split__train/20b.sql 1571.507
+17 23 0 2023-06-28 17:14:59.973674 queries/job_rand_base_split__train/16c.sql 1567.105
+17 23 1 2023-06-28 17:15:03.725910 queries/job_rand_base_split__train/16c.sql 1446.567
+17 23 2 2023-06-28 17:15:07.622063 queries/job_rand_base_split__train/16c.sql 1507.175
+17 24 0 2023-06-28 17:15:11.896394 queries/job_rand_base_split__train/20b.sql 1627.816
+17 24 1 2023-06-28 17:15:16.166402 queries/job_rand_base_split__train/20b.sql 1616.083
+17 24 2 2023-06-28 17:15:20.496505 queries/job_rand_base_split__train/20b.sql 1618.346
+==========================================================================================
+Iteration over chunk 19/19...
+[2023-06-28 17:15:20.496658]	[19/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.08959083265314499
+Epoch 15 training loss: 0.0074758297686154645
+Epoch 30 training loss: 0.00257033869662943
+Stopped training from convergence condition at epoch 40
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-28 17:15:36.671050]	[19/19]	Retraining done.
+18 0 0 2023-06-28 17:15:45.430570 queries/job_rand_base_split__train/6f.sql 4380.624
+18 0 1 2023-06-28 17:15:54.114004 queries/job_rand_base_split__train/6f.sql 4360.302
+18 0 2 2023-06-28 17:16:02.701499 queries/job_rand_base_split__train/6f.sql 4290.949
+18 1 0 2023-06-28 17:16:04.712920 queries/job_rand_base_split__train/27a.sql 21.854
+18 1 1 2023-06-28 17:16:06.748784 queries/job_rand_base_split__train/27a.sql 34.431
+18 1 2 2023-06-28 17:16:08.684646 queries/job_rand_base_split__train/27a.sql 31.912
+18 2 0 2023-06-28 17:16:16.941374 queries/job_rand_base_split__train/30c.sql 2978.673
+18 2 1 2023-06-28 17:16:24.747093 queries/job_rand_base_split__train/30c.sql 2916.972
+18 2 2 2023-06-28 17:16:32.321239 queries/job_rand_base_split__train/30c.sql 2854.476
+18 3 0 2023-06-28 17:16:33.130293 queries/job_rand_base_split__train/6a.sql 19.607
+18 3 1 2023-06-28 17:16:33.909453 queries/job_rand_base_split__train/6a.sql 18.361
+18 3 2 2023-06-28 17:16:34.713271 queries/job_rand_base_split__train/6a.sql 18.687
+18 4 0 2023-06-28 17:16:35.759682 queries/job_rand_base_split__train/3a.sql 124.091
+18 4 1 2023-06-28 17:16:36.856029 queries/job_rand_base_split__train/3a.sql 131.506
+18 4 2 2023-06-28 17:16:37.974128 queries/job_rand_base_split__train/3a.sql 163.592
+18 5 0 2023-06-28 17:16:38.943563 queries/job_rand_base_split__train/1b.sql 140.455
+18 5 1 2023-06-28 17:16:39.872769 queries/job_rand_base_split__train/1b.sql 101.566
+18 5 2 2023-06-28 17:16:40.784320 queries/job_rand_base_split__train/1b.sql 99.877
+18 6 0 2023-06-28 17:16:42.498288 queries/job_rand_base_split__train/10a.sql 454.64
+18 6 1 2023-06-28 17:16:44.205870 queries/job_rand_base_split__train/10a.sql 465.367
+18 6 2 2023-06-28 17:16:45.806491 queries/job_rand_base_split__train/10a.sql 426.441
+18 7 0 2023-06-28 17:16:55.600258 queries/job_rand_base_split__train/19d.sql 4815.472
+18 7 1 2023-06-28 17:17:05.360021 queries/job_rand_base_split__train/19d.sql 4584.621
+18 7 2 2023-06-28 17:17:15.284011 queries/job_rand_base_split__train/19d.sql 4842.278
+18 8 0 2023-06-28 17:17:19.080779 queries/job_rand_base_split__train/33c.sql 34.528
+18 8 1 2023-06-28 17:17:22.834634 queries/job_rand_base_split__train/33c.sql 33.152
+18 8 2 2023-06-28 17:17:26.712934 queries/job_rand_base_split__train/33c.sql 33.398
+18 9 0 2023-06-28 17:17:27.555570 queries/job_rand_base_split__train/6a.sql 18.244
+18 9 1 2023-06-28 17:17:28.324204 queries/job_rand_base_split__train/6a.sql 18.073
+18 9 2 2023-06-28 17:17:29.097161 queries/job_rand_base_split__train/6a.sql 18.4
+18 10 0 2023-06-28 17:17:34.701699 queries/job_rand_base_split__train/8d.sql 2515.207
+18 10 1 2023-06-28 17:17:40.541153 queries/job_rand_base_split__train/8d.sql 2620.893
+18 10 2 2023-06-28 17:17:46.244897 queries/job_rand_base_split__train/8d.sql 2610.066
+18 11 0 2023-06-28 17:17:50.571011 queries/job_rand_base_split__train/20b.sql 1613.753
+18 11 1 2023-06-28 17:17:55.256188 queries/job_rand_base_split__train/20b.sql 1750.846
+18 11 2 2023-06-28 17:18:00.028622 queries/job_rand_base_split__train/20b.sql 1827.169
+18 12 0 2023-06-28 17:18:03.713517 queries/job_rand_base_split__train/33c.sql 32.433
+18 12 1 2023-06-28 17:18:07.332350 queries/job_rand_base_split__train/33c.sql 31.511
+18 12 2 2023-06-28 17:18:11.012682 queries/job_rand_base_split__train/33c.sql 33.129
+18 13 0 2023-06-28 17:18:14.380914 queries/job_rand_base_split__train/26a.sql 843.104
+18 13 1 2023-06-28 17:18:17.934099 queries/job_rand_base_split__train/26a.sql 911.187
+18 13 2 2023-06-28 17:18:21.196719 queries/job_rand_base_split__train/26a.sql 834.554
+18 14 0 2023-06-28 17:18:23.100561 queries/job_rand_base_split__train/27c.sql 30.559
+18 14 1 2023-06-28 17:18:25.113348 queries/job_rand_base_split__train/27c.sql 37.543
+18 14 2 2023-06-28 17:18:27.067447 queries/job_rand_base_split__train/27c.sql 30.765
+18 15 0 2023-06-28 17:18:30.273606 queries/job_rand_base_split__train/16d.sql 1181.86
+18 15 1 2023-06-28 17:18:33.450727 queries/job_rand_base_split__train/16d.sql 1158.671
+18 15 2 2023-06-28 17:18:36.772693 queries/job_rand_base_split__train/16d.sql 1239.984
+18 16 0 2023-06-28 17:18:39.991507 queries/job_rand_base_split__train/16d.sql 1173.265
+18 16 1 2023-06-28 17:18:43.383393 queries/job_rand_base_split__train/16d.sql 1241.209
+18 16 2 2023-06-28 17:18:46.847510 queries/job_rand_base_split__train/16d.sql 1309.041
+18 17 0 2023-06-28 17:18:50.011235 queries/job_rand_base_split__train/20c.sql 1022.541
+18 17 1 2023-06-28 17:18:53.156952 queries/job_rand_base_split__train/20c.sql 1021.835
+18 17 2 2023-06-28 17:18:56.191501 queries/job_rand_base_split__train/20c.sql 913.334
+18 18 0 2023-06-28 17:19:03.888083 queries/job_rand_base_split__train/10c.sql 3407.222
+18 18 1 2023-06-28 17:19:11.822453 queries/job_rand_base_split__train/10c.sql 3619.692
+18 18 2 2023-06-28 17:19:19.777946 queries/job_rand_base_split__train/10c.sql 3643.283
+18 19 0 2023-06-28 17:19:21.165441 queries/job_rand_base_split__train/19b.sql 169.024
+18 19 1 2023-06-28 17:19:22.486715 queries/job_rand_base_split__train/19b.sql 168.449
+18 19 2 2023-06-28 17:19:23.852298 queries/job_rand_base_split__train/19b.sql 170.26
+18 20 0 2023-06-28 17:19:30.016462 queries/job_rand_base_split__train/30a.sql 1992.149
+18 20 1 2023-06-28 17:19:35.644642 queries/job_rand_base_split__train/30a.sql 1806.706
+18 20 2 2023-06-28 17:19:41.858478 queries/job_rand_base_split__train/30a.sql 2045.567
+18 21 0 2023-06-28 17:19:47.162454 queries/job_rand_base_split__train/20a.sql 2113.848
+18 21 1 2023-06-28 17:19:52.218033 queries/job_rand_base_split__train/20a.sql 2000.746
+18 21 2 2023-06-28 17:19:57.681461 queries/job_rand_base_split__train/20a.sql 2195.86
+18 22 0 2023-06-28 17:19:58.712569 queries/job_rand_base_split__train/14b.sql 92.81
+18 22 1 2023-06-28 17:19:59.767667 queries/job_rand_base_split__train/14b.sql 97.0
+18 22 2 2023-06-28 17:20:00.791496 queries/job_rand_base_split__train/14b.sql 93.734
+18 23 0 2023-06-28 17:20:01.818545 queries/job_rand_base_split__train/21c.sql 73.744
+18 23 1 2023-06-28 17:20:02.887142 queries/job_rand_base_split__train/21c.sql 79.637
+18 23 2 2023-06-28 17:20:03.948795 queries/job_rand_base_split__train/21c.sql 73.535
+18 24 0 2023-06-28 17:20:06.086984 queries/job_rand_base_split__train/13b.sql 679.633
+18 24 1 2023-06-28 17:20:08.287122 queries/job_rand_base_split__train/13b.sql 684.385
+18 24 2 2023-06-28 17:20:10.447709 queries/job_rand_base_split__train/13b.sql 696.352

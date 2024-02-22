@@ -1,0 +1,5 @@
+FROM ubuntu:22.04
+
+RUN apt-get update
+RUN apt-get install -y sudo gcc make wget curl git nano
+RUN apt-get install -y python3 python3-pip python3.10-venv

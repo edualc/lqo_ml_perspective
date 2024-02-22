@@ -1,0 +1,1 @@
+The `balsa-postgresql.conf` configuration used by the original Balsa repository has been removed to avoid confusion.

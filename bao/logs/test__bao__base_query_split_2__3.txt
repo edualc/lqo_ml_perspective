@@ -1,0 +1,565 @@
+(no hint), 0, 2023-08-03 14:15:19.398850, queries/join-order-benchmark/10a.sql, 326.846, 345.242, Bao
+(no hint), 1, 2023-08-03 14:15:19.399310, queries/join-order-benchmark/10a.sql, 231.508, 282.51, Bao
+(no hint), 2, 2023-08-03 14:15:19.399456, queries/join-order-benchmark/10a.sql, 247.332, 295.597, Bao
+(no hint), 3, 2023-08-03 14:15:19.399557, queries/join-order-benchmark/10a.sql, 261.747, 281.928, Bao
+(no hint), 4, 2023-08-03 14:15:19.399660, queries/join-order-benchmark/10a.sql, 227.468, 282.255, Bao
+(no hint), 0, 2023-08-03 14:15:24.188285, queries/join-order-benchmark/10b.sql, 344.97, 258.17, Bao
+(no hint), 1, 2023-08-03 14:15:24.188577, queries/join-order-benchmark/10b.sql, 231.495, 230.93, Bao
+(no hint), 2, 2023-08-03 14:15:24.188757, queries/join-order-benchmark/10b.sql, 264.551, 202.382, Bao
+(no hint), 3, 2023-08-03 14:15:24.188920, queries/join-order-benchmark/10b.sql, 231.296, 210.704, Bao
+(no hint), 4, 2023-08-03 14:15:24.189077, queries/join-order-benchmark/10b.sql, 231.164, 211.143, Bao
+(no hint), 0, 2023-08-03 14:15:48.717822, queries/join-order-benchmark/10c.sql, 286.915, 4131.333, Bao
+(no hint), 1, 2023-08-03 14:15:48.718159, queries/join-order-benchmark/10c.sql, 292.232, 4179.526, Bao
+(no hint), 2, 2023-08-03 14:15:48.718308, queries/join-order-benchmark/10c.sql, 238.06, 4130.049, Bao
+(no hint), 3, 2023-08-03 14:15:48.718422, queries/join-order-benchmark/10c.sql, 245.485, 4133.17, Bao
+(no hint), 4, 2023-08-03 14:15:48.718615, queries/join-order-benchmark/10c.sql, 262.416, 4111.846, Bao
+(no hint), 0, 2023-08-03 14:15:52.661512, queries/join-order-benchmark/11a.sql, 306.947, 90.031, Bao
+(no hint), 1, 2023-08-03 14:15:52.661694, queries/join-order-benchmark/11a.sql, 234.436, 57.763, Bao
+(no hint), 2, 2023-08-03 14:15:52.661743, queries/join-order-benchmark/11a.sql, 233.991, 58.74, Bao
+(no hint), 3, 2023-08-03 14:15:52.661776, queries/join-order-benchmark/11a.sql, 234.711, 57.952, Bao
+(no hint), 4, 2023-08-03 14:15:52.661807, queries/join-order-benchmark/11a.sql, 236.483, 57.903, Bao
+(no hint), 0, 2023-08-03 14:15:56.352246, queries/join-order-benchmark/11b.sql, 288.276, 45.457, Bao
+(no hint), 1, 2023-08-03 14:15:56.352401, queries/join-order-benchmark/11b.sql, 228.83, 29.747, Bao
+(no hint), 2, 2023-08-03 14:15:56.352445, queries/join-order-benchmark/11b.sql, 228.574, 29.586, Bao
+(no hint), 3, 2023-08-03 14:15:56.352477, queries/join-order-benchmark/11b.sql, 230.325, 29.51, Bao
+(no hint), 4, 2023-08-03 14:15:56.352507, queries/join-order-benchmark/11b.sql, 230.529, 29.378, Bao
+(no hint), 0, 2023-08-03 14:16:00.705819, queries/join-order-benchmark/11c.sql, 288.777, 185.155, Bao
+(no hint), 1, 2023-08-03 14:16:00.705981, queries/join-order-benchmark/11c.sql, 231.553, 150.054, Bao
+(no hint), 2, 2023-08-03 14:16:00.706028, queries/join-order-benchmark/11c.sql, 231.824, 148.483, Bao
+(no hint), 3, 2023-08-03 14:16:00.706061, queries/join-order-benchmark/11c.sql, 233.867, 148.398, Bao
+(no hint), 4, 2023-08-03 14:16:00.706091, queries/join-order-benchmark/11c.sql, 233.432, 148.049, Bao
+(no hint), 0, 2023-08-03 14:16:04.974142, queries/join-order-benchmark/11d.sql, 291.695, 154.643, Bao
+(no hint), 1, 2023-08-03 14:16:04.974472, queries/join-order-benchmark/11d.sql, 231.564, 131.085, Bao
+(no hint), 2, 2023-08-03 14:16:04.974609, queries/join-order-benchmark/11d.sql, 233.846, 128.661, Bao
+(no hint), 3, 2023-08-03 14:16:04.974722, queries/join-order-benchmark/11d.sql, 233.542, 130.539, Bao
+(no hint), 4, 2023-08-03 14:16:04.974891, queries/join-order-benchmark/11d.sql, 231.437, 128.697, Bao
+(no hint), 0, 2023-08-03 14:16:09.549735, queries/join-order-benchmark/12a.sql, 295.158, 245.485, Bao
+(no hint), 1, 2023-08-03 14:16:09.550091, queries/join-order-benchmark/12a.sql, 234.888, 183.345, Bao
+(no hint), 2, 2023-08-03 14:16:09.550252, queries/join-order-benchmark/12a.sql, 240.582, 178.012, Bao
+(no hint), 3, 2023-08-03 14:16:09.550474, queries/join-order-benchmark/12a.sql, 233.895, 176.977, Bao
+(no hint), 4, 2023-08-03 14:16:09.550906, queries/join-order-benchmark/12a.sql, 233.664, 175.125, Bao
+(no hint), 0, 2023-08-03 14:16:13.722688, queries/join-order-benchmark/12b.sql, 304.565, 90.424, Bao
+(no hint), 1, 2023-08-03 14:16:13.722893, queries/join-order-benchmark/12b.sql, 240.258, 85.557, Bao
+(no hint), 2, 2023-08-03 14:16:13.722983, queries/join-order-benchmark/12b.sql, 244.201, 87.222, Bao
+(no hint), 3, 2023-08-03 14:16:13.723042, queries/join-order-benchmark/12b.sql, 242.719, 85.483, Bao
+(no hint), 4, 2023-08-03 14:16:13.723096, queries/join-order-benchmark/12b.sql, 247.41, 86.38, Bao
+(no hint), 0, 2023-08-03 14:16:20.303434, queries/join-order-benchmark/12c.sql, 312.174, 654.22, Bao
+(no hint), 1, 2023-08-03 14:16:20.303603, queries/join-order-benchmark/12c.sql, 236.578, 575.186, Bao
+(no hint), 2, 2023-08-03 14:16:20.303643, queries/join-order-benchmark/12c.sql, 240.841, 569.362, Bao
+(no hint), 3, 2023-08-03 14:16:20.303675, queries/join-order-benchmark/12c.sql, 238.457, 567.292, Bao
+(no hint), 4, 2023-08-03 14:16:20.303705, queries/join-order-benchmark/12c.sql, 240.139, 563.116, Bao
+(no hint), 0, 2023-08-03 14:16:29.960216, queries/join-order-benchmark/13a.sql, 305.525, 1231.011, Bao
+(no hint), 1, 2023-08-03 14:16:29.960511, queries/join-order-benchmark/13a.sql, 248.695, 1182.974, Bao
+(no hint), 2, 2023-08-03 14:16:29.960654, queries/join-order-benchmark/13a.sql, 244.41, 1178.947, Bao
+(no hint), 3, 2023-08-03 14:16:29.960766, queries/join-order-benchmark/13a.sql, 244.32, 1175.593, Bao
+(no hint), 4, 2023-08-03 14:16:29.960869, queries/join-order-benchmark/13a.sql, 247.297, 1174.66, Bao
+(no hint), 0, 2023-08-03 14:16:36.866650, queries/join-order-benchmark/13b.sql, 320.078, 625.85, Bao
+(no hint), 1, 2023-08-03 14:16:36.866970, queries/join-order-benchmark/13b.sql, 254.848, 609.261, Bao
+(no hint), 2, 2023-08-03 14:16:36.867102, queries/join-order-benchmark/13b.sql, 254.674, 603.951, Bao
+(no hint), 3, 2023-08-03 14:16:36.867440, queries/join-order-benchmark/13b.sql, 255.46, 607.929, Bao
+(no hint), 4, 2023-08-03 14:16:36.867721, queries/join-order-benchmark/13b.sql, 251.622, 607.756, Bao
+(no hint), 0, 2023-08-03 14:16:43.338909, queries/join-order-benchmark/13c.sql, 311.561, 621.357, Bao
+(no hint), 1, 2023-08-03 14:16:43.339198, queries/join-order-benchmark/13c.sql, 245.167, 604.815, Bao
+(no hint), 2, 2023-08-03 14:16:43.339327, queries/join-order-benchmark/13c.sql, 245.968, 519.581, Bao
+(no hint), 3, 2023-08-03 14:16:43.339434, queries/join-order-benchmark/13c.sql, 245.289, 510.966, Bao
+(no hint), 4, 2023-08-03 14:16:43.339536, queries/join-order-benchmark/13c.sql, 244.913, 510.778, Bao
+(no hint), 0, 2023-08-03 14:16:56.097632, queries/join-order-benchmark/13d.sql, 302.478, 1853.986, Bao
+(no hint), 1, 2023-08-03 14:16:56.097808, queries/join-order-benchmark/13d.sql, 246.762, 1801.746, Bao
+(no hint), 2, 2023-08-03 14:16:56.097848, queries/join-order-benchmark/13d.sql, 247.897, 1806.587, Bao
+(no hint), 3, 2023-08-03 14:16:56.097879, queries/join-order-benchmark/13d.sql, 244.978, 1790.652, Bao
+(no hint), 4, 2023-08-03 14:16:56.097909, queries/join-order-benchmark/13d.sql, 246.607, 1791.249, Bao
+(no hint), 0, 2023-08-03 14:17:00.848631, queries/join-order-benchmark/14a.sql, 293.189, 294.731, Bao
+(no hint), 1, 2023-08-03 14:17:00.848954, queries/join-order-benchmark/14a.sql, 232.333, 216.463, Bao
+(no hint), 2, 2023-08-03 14:17:00.849086, queries/join-order-benchmark/14a.sql, 236.858, 217.043, Bao
+(no hint), 3, 2023-08-03 14:17:00.849194, queries/join-order-benchmark/14a.sql, 234.031, 211.806, Bao
+(no hint), 4, 2023-08-03 14:17:00.849293, queries/join-order-benchmark/14a.sql, 232.413, 214.306, Bao
+(no hint), 0, 2023-08-03 14:17:04.920096, queries/join-order-benchmark/14b.sql, 296.275, 128.259, Bao
+(no hint), 1, 2023-08-03 14:17:04.920461, queries/join-order-benchmark/14b.sql, 233.194, 88.216, Bao
+(no hint), 2, 2023-08-03 14:17:04.920619, queries/join-order-benchmark/14b.sql, 234.43, 86.318, Bao
+(no hint), 3, 2023-08-03 14:17:04.920761, queries/join-order-benchmark/14b.sql, 231.342, 87.774, Bao
+(no hint), 4, 2023-08-03 14:17:04.920874, queries/join-order-benchmark/14b.sql, 234.196, 86.117, Bao
+(no hint), 0, 2023-08-03 14:17:10.846992, queries/join-order-benchmark/14c.sql, 294.066, 553.356, Bao
+(no hint), 1, 2023-08-03 14:17:10.847367, queries/join-order-benchmark/14c.sql, 234.237, 446.71, Bao
+(no hint), 2, 2023-08-03 14:17:10.847525, queries/join-order-benchmark/14c.sql, 234.399, 441.603, Bao
+(no hint), 3, 2023-08-03 14:17:10.847681, queries/join-order-benchmark/14c.sql, 233.99, 440.424, Bao
+(no hint), 4, 2023-08-03 14:17:10.847794, queries/join-order-benchmark/14c.sql, 233.253, 447.678, Bao
+(no hint), 0, 2023-08-03 14:17:16.091963, queries/join-order-benchmark/15a.sql, 325.195, 288.349, Bao
+(no hint), 1, 2023-08-03 14:17:16.092129, queries/join-order-benchmark/15a.sql, 264.92, 270.264, Bao
+(no hint), 2, 2023-08-03 14:17:16.092175, queries/join-order-benchmark/15a.sql, 261.81, 268.944, Bao
+(no hint), 3, 2023-08-03 14:17:16.092210, queries/join-order-benchmark/15a.sql, 265.162, 278.267, Bao
+(no hint), 4, 2023-08-03 14:17:16.092239, queries/join-order-benchmark/15a.sql, 270.361, 248.349, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 0, 2023-08-03 14:17:20.108159, queries/join-order-benchmark/15b.sql, 323.123, 41.767, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 1, 2023-08-03 14:17:20.108490, queries/join-order-benchmark/15b.sql, 260.028, 33.632, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 2, 2023-08-03 14:17:20.109108, queries/join-order-benchmark/15b.sql, 259.18, 30.724, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 3, 2023-08-03 14:17:20.109831, queries/join-order-benchmark/15b.sql, 261.307, 29.999, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 4, 2023-08-03 14:17:20.110469, queries/join-order-benchmark/15b.sql, 257.771, 30.652, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 0, 2023-08-03 14:17:27.064581, queries/join-order-benchmark/15c.sql, 334.911, 710.946, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 1, 2023-08-03 14:17:27.064953, queries/join-order-benchmark/15c.sql, 264.294, 564.367, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 2, 2023-08-03 14:17:27.065232, queries/join-order-benchmark/15c.sql, 263.794, 567.433, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 3, 2023-08-03 14:17:27.065371, queries/join-order-benchmark/15c.sql, 262.341, 564.611, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 4, 2023-08-03 14:17:27.065489, queries/join-order-benchmark/15c.sql, 264.0, 573.302, Bao
+SET enable_nestloop TO off; , 0, 2023-08-03 14:17:36.403459, queries/join-order-benchmark/15d.sql, 340.83, 1264.177, Bao
+SET enable_nestloop TO off; , 1, 2023-08-03 14:17:36.404161, queries/join-order-benchmark/15d.sql, 263.194, 1023.538, Bao
+SET enable_nestloop TO off; , 2, 2023-08-03 14:17:36.404423, queries/join-order-benchmark/15d.sql, 263.857, 1017.989, Bao
+SET enable_nestloop TO off; , 3, 2023-08-03 14:17:36.405163, queries/join-order-benchmark/15d.sql, 260.732, 1073.661, Bao
+SET enable_nestloop TO off; , 4, 2023-08-03 14:17:36.405510, queries/join-order-benchmark/15d.sql, 271.612, 1022.138, Bao
+(no hint), 0, 2023-08-03 14:17:40.779351, queries/join-order-benchmark/16a.sql, 293.847, 201.21, Bao
+(no hint), 1, 2023-08-03 14:17:40.779905, queries/join-order-benchmark/16a.sql, 239.068, 139.988, Bao
+(no hint), 2, 2023-08-03 14:17:40.780638, queries/join-order-benchmark/16a.sql, 235.884, 138.697, Bao
+(no hint), 3, 2023-08-03 14:17:40.780804, queries/join-order-benchmark/16a.sql, 235.154, 139.582, Bao
+(no hint), 4, 2023-08-03 14:17:40.780914, queries/join-order-benchmark/16a.sql, 236.772, 139.99, Bao
+SET enable_nestloop TO off; , 0, 2023-08-03 14:18:02.984691, queries/join-order-benchmark/16b.sql, 298.248, 3891.764, Bao
+SET enable_nestloop TO off; , 1, 2023-08-03 14:18:02.985007, queries/join-order-benchmark/16b.sql, 241.524, 3650.573, Bao
+SET enable_nestloop TO off; , 2, 2023-08-03 14:18:02.985438, queries/join-order-benchmark/16b.sql, 238.113, 3623.997, Bao
+SET enable_nestloop TO off; , 3, 2023-08-03 14:18:02.985786, queries/join-order-benchmark/16b.sql, 236.838, 3758.333, Bao
+SET enable_nestloop TO off; , 4, 2023-08-03 14:18:02.986215, queries/join-order-benchmark/16b.sql, 237.532, 3642.417, Bao
+(no hint), 0, 2023-08-03 14:18:13.759488, queries/join-order-benchmark/16c.sql, 299.013, 1618.399, Bao
+(no hint), 1, 2023-08-03 14:18:13.759794, queries/join-order-benchmark/16c.sql, 235.679, 1392.409, Bao
+(no hint), 2, 2023-08-03 14:18:13.759928, queries/join-order-benchmark/16c.sql, 238.349, 1376.28, Bao
+(no hint), 3, 2023-08-03 14:18:13.760316, queries/join-order-benchmark/16c.sql, 235.691, 1375.929, Bao
+(no hint), 4, 2023-08-03 14:18:13.760656, queries/join-order-benchmark/16c.sql, 234.953, 1373.347, Bao
+(no hint), 0, 2023-08-03 14:18:23.011140, queries/join-order-benchmark/16d.sql, 298.827, 1287.362, Bao
+(no hint), 1, 2023-08-03 14:18:23.011468, queries/join-order-benchmark/16d.sql, 234.716, 1082.071, Bao
+(no hint), 2, 2023-08-03 14:18:23.012284, queries/join-order-benchmark/16d.sql, 235.646, 1082.557, Bao
+(no hint), 3, 2023-08-03 14:18:23.012904, queries/join-order-benchmark/16d.sql, 239.95, 1086.106, Bao
+(no hint), 4, 2023-08-03 14:18:23.013287, queries/join-order-benchmark/16d.sql, 234.994, 1084.962, Bao
+SET enable_nestloop TO off; , 0, 2023-08-03 14:18:36.635813, queries/join-order-benchmark/17a.sql, 288.948, 2109.674, Bao
+SET enable_nestloop TO off; , 1, 2023-08-03 14:18:36.636106, queries/join-order-benchmark/17a.sql, 235.596, 2019.226, Bao
+SET enable_nestloop TO off; , 2, 2023-08-03 14:18:36.636228, queries/join-order-benchmark/17a.sql, 232.525, 2005.226, Bao
+SET enable_nestloop TO off; , 3, 2023-08-03 14:18:36.636337, queries/join-order-benchmark/17a.sql, 232.936, 1974.494, Bao
+SET enable_nestloop TO off; , 4, 2023-08-03 14:18:36.636441, queries/join-order-benchmark/17a.sql, 236.507, 1927.85, Bao
+SET enable_nestloop TO off; , 0, 2023-08-03 14:19:02.456565, queries/join-order-benchmark/17b.sql, 285.204, 4517.467, Bao
+SET enable_nestloop TO off; , 1, 2023-08-03 14:19:02.456904, queries/join-order-benchmark/17b.sql, 231.291, 4526.727, Bao
+SET enable_nestloop TO off; , 2, 2023-08-03 14:19:02.457041, queries/join-order-benchmark/17b.sql, 234.871, 4377.176, Bao
+SET enable_nestloop TO off; , 3, 2023-08-03 14:19:02.457785, queries/join-order-benchmark/17b.sql, 242.987, 4400.616, Bao
+SET enable_nestloop TO off; , 4, 2023-08-03 14:19:02.457957, queries/join-order-benchmark/17b.sql, 231.454, 4337.232, Bao
+SET enable_nestloop TO off; , 0, 2023-08-03 14:19:16.608523, queries/join-order-benchmark/17c.sql, 288.107, 2129.225, Bao
+SET enable_nestloop TO off; , 1, 2023-08-03 14:19:16.608940, queries/join-order-benchmark/17c.sql, 230.234, 2055.643, Bao
+SET enable_nestloop TO off; , 2, 2023-08-03 14:19:16.609107, queries/join-order-benchmark/17c.sql, 231.059, 2098.369, Bao
+SET enable_nestloop TO off; , 3, 2023-08-03 14:19:16.609378, queries/join-order-benchmark/17c.sql, 236.131, 2125.381, Bao
+SET enable_nestloop TO off; , 4, 2023-08-03 14:19:16.609736, queries/join-order-benchmark/17c.sql, 236.157, 2132.195, Bao
+SET enable_nestloop TO off; , 0, 2023-08-03 14:19:31.175957, queries/join-order-benchmark/17d.sql, 292.312, 2265.752, Bao
+SET enable_nestloop TO off; , 1, 2023-08-03 14:19:31.176133, queries/join-order-benchmark/17d.sql, 232.85, 2157.22, Bao
+SET enable_nestloop TO off; , 2, 2023-08-03 14:19:31.176180, queries/join-order-benchmark/17d.sql, 232.6, 2173.38, Bao
+SET enable_nestloop TO off; , 3, 2023-08-03 14:19:31.176223, queries/join-order-benchmark/17d.sql, 233.787, 2185.592, Bao
+SET enable_nestloop TO off; , 4, 2023-08-03 14:19:31.176250, queries/join-order-benchmark/17d.sql, 235.946, 2185.93, Bao
+SET enable_nestloop TO off; , 0, 2023-08-03 14:19:49.263377, queries/join-order-benchmark/17e.sql, 287.762, 2929.316, Bao
+SET enable_nestloop TO off; , 1, 2023-08-03 14:19:49.263802, queries/join-order-benchmark/17e.sql, 231.832, 2880.193, Bao
+SET enable_nestloop TO off; , 2, 2023-08-03 14:19:49.263973, queries/join-order-benchmark/17e.sql, 231.292, 2891.787, Bao
+SET enable_nestloop TO off; , 3, 2023-08-03 14:19:49.264088, queries/join-order-benchmark/17e.sql, 232.891, 2911.45, Bao
+SET enable_nestloop TO off; , 4, 2023-08-03 14:19:49.264423, queries/join-order-benchmark/17e.sql, 234.346, 2895.134, Bao
+SET enable_nestloop TO off; , 0, 2023-08-03 14:20:08.222036, queries/join-order-benchmark/17f.sql, 284.533, 3145.182, Bao
+SET enable_nestloop TO off; , 1, 2023-08-03 14:20:08.222344, queries/join-order-benchmark/17f.sql, 231.644, 3003.463, Bao
+SET enable_nestloop TO off; , 2, 2023-08-03 14:20:08.222480, queries/join-order-benchmark/17f.sql, 232.407, 3125.448, Bao
+SET enable_nestloop TO off; , 3, 2023-08-03 14:20:08.222782, queries/join-order-benchmark/17f.sql, 234.99, 3011.348, Bao
+SET enable_nestloop TO off; , 4, 2023-08-03 14:20:08.223268, queries/join-order-benchmark/17f.sql, 230.696, 3110.265, Bao
+(no hint), 0, 2023-08-03 14:20:25.198061, queries/join-order-benchmark/18a.sql, 285.984, 2924.132, Bao
+(no hint), 1, 2023-08-03 14:20:25.198608, queries/join-order-benchmark/18a.sql, 234.518, 2654.509, Bao
+(no hint), 2, 2023-08-03 14:20:25.198768, queries/join-order-benchmark/18a.sql, 232.614, 2616.688, Bao
+(no hint), 3, 2023-08-03 14:20:25.198881, queries/join-order-benchmark/18a.sql, 230.856, 2608.706, Bao
+(no hint), 4, 2023-08-03 14:20:25.198975, queries/join-order-benchmark/18a.sql, 231.469, 2612.735, Bao
+(no hint), 0, 2023-08-03 14:20:29.522982, queries/join-order-benchmark/18b.sql, 286.901, 176.177, Bao
+(no hint), 1, 2023-08-03 14:20:29.523231, queries/join-order-benchmark/18b.sql, 230.808, 154.922, Bao
+(no hint), 2, 2023-08-03 14:20:29.523327, queries/join-order-benchmark/18b.sql, 229.069, 147.946, Bao
+(no hint), 3, 2023-08-03 14:20:29.523405, queries/join-order-benchmark/18b.sql, 229.642, 147.577, Bao
+(no hint), 4, 2023-08-03 14:20:29.523475, queries/join-order-benchmark/18b.sql, 230.329, 162.696, Bao
+(no hint), 0, 2023-08-03 14:20:49.942269, queries/join-order-benchmark/18c.sql, 294.62, 3421.989, Bao
+(no hint), 1, 2023-08-03 14:20:49.942625, queries/join-order-benchmark/18c.sql, 243.857, 3343.384, Bao
+(no hint), 2, 2023-08-03 14:20:49.942769, queries/join-order-benchmark/18c.sql, 236.673, 3323.01, Bao
+(no hint), 3, 2023-08-03 14:20:49.942879, queries/join-order-benchmark/18c.sql, 237.215, 3313.853, Bao
+(no hint), 4, 2023-08-03 14:20:49.942983, queries/join-order-benchmark/18c.sql, 249.68, 3327.824, Bao
+(no hint), 0, 2023-08-03 14:20:55.123362, queries/join-order-benchmark/19a.sql, 373.633, 175.776, Bao
+(no hint), 1, 2023-08-03 14:20:55.123643, queries/join-order-benchmark/19a.sql, 284.455, 168.824, Bao
+(no hint), 2, 2023-08-03 14:20:55.123772, queries/join-order-benchmark/19a.sql, 320.901, 184.005, Bao
+(no hint), 3, 2023-08-03 14:20:55.123882, queries/join-order-benchmark/19a.sql, 283.51, 171.374, Bao
+(no hint), 4, 2023-08-03 14:20:55.123986, queries/join-order-benchmark/19a.sql, 315.17, 181.421, Bao
+(no hint), 0, 2023-08-03 14:20:59.852504, queries/join-order-benchmark/19b.sql, 398.407, 108.938, Bao
+(no hint), 1, 2023-08-03 14:20:59.852749, queries/join-order-benchmark/19b.sql, 285.741, 104.141, Bao
+(no hint), 2, 2023-08-03 14:20:59.852801, queries/join-order-benchmark/19b.sql, 282.101, 110.062, Bao
+(no hint), 3, 2023-08-03 14:20:59.852832, queries/join-order-benchmark/19b.sql, 314.815, 104.985, Bao
+(no hint), 4, 2023-08-03 14:20:59.852858, queries/join-order-benchmark/19b.sql, 282.963, 99.269, Bao
+(no hint), 0, 2023-08-03 14:21:05.296216, queries/join-order-benchmark/19c.sql, 358.81, 266.418, Bao
+(no hint), 1, 2023-08-03 14:21:05.296510, queries/join-order-benchmark/19c.sql, 287.886, 273.256, Bao
+(no hint), 2, 2023-08-03 14:21:05.296644, queries/join-order-benchmark/19c.sql, 284.754, 249.26, Bao
+(no hint), 3, 2023-08-03 14:21:05.296754, queries/join-order-benchmark/19c.sql, 288.154, 253.647, Bao
+(no hint), 4, 2023-08-03 14:21:05.296856, queries/join-order-benchmark/19c.sql, 292.308, 248.084, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 0, 2023-08-03 14:22:02.530593, queries/join-order-benchmark/19d.sql, 355.409, 10570.796, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 1, 2023-08-03 14:22:02.534684, queries/join-order-benchmark/19d.sql, 289.178, 10399.579, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 2, 2023-08-03 14:22:02.534807, queries/join-order-benchmark/19d.sql, 286.034, 10618.869, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 3, 2023-08-03 14:22:02.534893, queries/join-order-benchmark/19d.sql, 291.903, 10991.89, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 4, 2023-08-03 14:22:02.534960, queries/join-order-benchmark/19d.sql, 286.129, 10479.326, Bao
+(no hint), 0, 2023-08-03 14:22:06.455489, queries/join-order-benchmark/1a.sql, 281.664, 95.781, Bao
+(no hint), 1, 2023-08-03 14:22:06.455765, queries/join-order-benchmark/1a.sql, 222.559, 87.134, Bao
+(no hint), 2, 2023-08-03 14:22:06.455932, queries/join-order-benchmark/1a.sql, 219.436, 92.914, Bao
+(no hint), 3, 2023-08-03 14:22:06.456106, queries/join-order-benchmark/1a.sql, 220.621, 93.536, Bao
+(no hint), 4, 2023-08-03 14:22:06.456266, queries/join-order-benchmark/1a.sql, 227.036, 88.24, Bao
+(no hint), 0, 2023-08-03 14:22:10.561924, queries/join-order-benchmark/1b.sql, 288.645, 93.404, Bao
+(no hint), 1, 2023-08-03 14:22:10.562213, queries/join-order-benchmark/1b.sql, 260.912, 114.453, Bao
+(no hint), 2, 2023-08-03 14:22:10.562344, queries/join-order-benchmark/1b.sql, 218.847, 118.57, Bao
+(no hint), 3, 2023-08-03 14:22:10.562451, queries/join-order-benchmark/1b.sql, 221.272, 83.843, Bao
+(no hint), 4, 2023-08-03 14:22:10.562553, queries/join-order-benchmark/1b.sql, 219.399, 83.696, Bao
+(no hint), 0, 2023-08-03 14:22:14.539672, queries/join-order-benchmark/1c.sql, 275.779, 89.695, Bao
+(no hint), 1, 2023-08-03 14:22:14.539946, queries/join-order-benchmark/1c.sql, 222.997, 89.85, Bao
+(no hint), 2, 2023-08-03 14:22:14.540073, queries/join-order-benchmark/1c.sql, 219.635, 86.634, Bao
+(no hint), 3, 2023-08-03 14:22:14.540180, queries/join-order-benchmark/1c.sql, 223.774, 94.893, Bao
+(no hint), 4, 2023-08-03 14:22:14.540279, queries/join-order-benchmark/1c.sql, 228.623, 83.085, Bao
+(no hint), 0, 2023-08-03 14:22:18.451367, queries/join-order-benchmark/1d.sql, 288.319, 88.504, Bao
+(no hint), 1, 2023-08-03 14:22:18.451670, queries/join-order-benchmark/1d.sql, 222.59, 83.767, Bao
+(no hint), 2, 2023-08-03 14:22:18.452306, queries/join-order-benchmark/1d.sql, 221.866, 83.504, Bao
+(no hint), 3, 2023-08-03 14:22:18.452492, queries/join-order-benchmark/1d.sql, 221.961, 83.353, Bao
+(no hint), 4, 2023-08-03 14:22:18.452611, queries/join-order-benchmark/1d.sql, 219.656, 83.03, Bao
+(no hint), 0, 2023-08-03 14:22:31.326014, queries/join-order-benchmark/20a.sql, 320.63, 1937.571, Bao
+(no hint), 1, 2023-08-03 14:22:31.326350, queries/join-order-benchmark/20a.sql, 259.284, 1725.922, Bao
+(no hint), 2, 2023-08-03 14:22:31.326501, queries/join-order-benchmark/20a.sql, 260.485, 1703.504, Bao
+(no hint), 3, 2023-08-03 14:22:31.326620, queries/join-order-benchmark/20a.sql, 262.859, 1797.903, Bao
+(no hint), 4, 2023-08-03 14:22:31.326773, queries/join-order-benchmark/20a.sql, 260.433, 1795.401, Bao
+(no hint), 0, 2023-08-03 14:22:42.530240, queries/join-order-benchmark/20b.sql, 329.624, 1591.263, Bao
+(no hint), 1, 2023-08-03 14:22:42.530556, queries/join-order-benchmark/20b.sql, 262.436, 1377.449, Bao
+(no hint), 2, 2023-08-03 14:22:42.530690, queries/join-order-benchmark/20b.sql, 263.796, 1479.907, Bao
+(no hint), 3, 2023-08-03 14:22:42.530801, queries/join-order-benchmark/20b.sql, 261.101, 1377.467, Bao
+(no hint), 4, 2023-08-03 14:22:42.530922, queries/join-order-benchmark/20b.sql, 277.884, 1421.617, Bao
+(no hint), 0, 2023-08-03 14:22:50.618935, queries/join-order-benchmark/20c.sql, 330.462, 1020.192, Bao
+(no hint), 1, 2023-08-03 14:22:50.619270, queries/join-order-benchmark/20c.sql, 279.112, 836.378, Bao
+(no hint), 2, 2023-08-03 14:22:50.619396, queries/join-order-benchmark/20c.sql, 265.102, 773.36, Bao
+(no hint), 3, 2023-08-03 14:22:50.619509, queries/join-order-benchmark/20c.sql, 258.459, 764.693, Bao
+(no hint), 4, 2023-08-03 14:22:50.619613, queries/join-order-benchmark/20c.sql, 263.917, 764.604, Bao
+(no hint), 0, 2023-08-03 14:22:54.844837, queries/join-order-benchmark/21a.sql, 322.345, 84.068, Bao
+(no hint), 1, 2023-08-03 14:22:54.845118, queries/join-order-benchmark/21a.sql, 260.816, 110.972, Bao
+(no hint), 2, 2023-08-03 14:22:54.845269, queries/join-order-benchmark/21a.sql, 257.057, 65.427, Bao
+(no hint), 3, 2023-08-03 14:22:54.845379, queries/join-order-benchmark/21a.sql, 255.711, 63.96, Bao
+(no hint), 4, 2023-08-03 14:22:54.845481, queries/join-order-benchmark/21a.sql, 260.467, 64.024, Bao
+(no hint), 0, 2023-08-03 14:22:59.042382, queries/join-order-benchmark/21b.sql, 323.371, 77.183, Bao
+(no hint), 1, 2023-08-03 14:22:59.042680, queries/join-order-benchmark/21b.sql, 257.557, 62.232, Bao
+(no hint), 2, 2023-08-03 14:22:59.042823, queries/join-order-benchmark/21b.sql, 253.712, 60.955, Bao
+(no hint), 3, 2023-08-03 14:22:59.042940, queries/join-order-benchmark/21b.sql, 258.543, 61.202, Bao
+(no hint), 4, 2023-08-03 14:22:59.043049, queries/join-order-benchmark/21b.sql, 259.085, 111.138, Bao
+(no hint), 0, 2023-08-03 14:23:03.223632, queries/join-order-benchmark/21c.sql, 321.934, 80.39, Bao
+(no hint), 1, 2023-08-03 14:23:03.223917, queries/join-order-benchmark/21c.sql, 256.309, 64.061, Bao
+(no hint), 2, 2023-08-03 14:23:03.224043, queries/join-order-benchmark/21c.sql, 255.504, 65.657, Bao
+(no hint), 3, 2023-08-03 14:23:03.224148, queries/join-order-benchmark/21c.sql, 255.563, 64.09, Bao
+(no hint), 4, 2023-08-03 14:23:03.224248, queries/join-order-benchmark/21c.sql, 261.24, 95.86, Bao
+(no hint), 0, 2023-08-03 14:23:09.851523, queries/join-order-benchmark/22a.sql, 403.677, 640.731, Bao
+(no hint), 1, 2023-08-03 14:23:09.851823, queries/join-order-benchmark/22a.sql, 325.313, 332.407, Bao
+(no hint), 2, 2023-08-03 14:23:09.851954, queries/join-order-benchmark/22a.sql, 321.215, 333.648, Bao
+(no hint), 3, 2023-08-03 14:23:09.852063, queries/join-order-benchmark/22a.sql, 325.161, 451.086, Bao
+(no hint), 4, 2023-08-03 14:23:09.852165, queries/join-order-benchmark/22a.sql, 323.275, 334.796, Bao
+(no hint), 0, 2023-08-03 14:23:15.498453, queries/join-order-benchmark/22b.sql, 399.588, 255.986, Bao
+(no hint), 1, 2023-08-03 14:23:15.498748, queries/join-order-benchmark/22b.sql, 323.365, 191.153, Bao
+(no hint), 2, 2023-08-03 14:23:15.498878, queries/join-order-benchmark/22b.sql, 320.208, 190.31, Bao
+(no hint), 3, 2023-08-03 14:23:15.498985, queries/join-order-benchmark/22b.sql, 318.75, 208.002, Bao
+(no hint), 4, 2023-08-03 14:23:15.499089, queries/join-order-benchmark/22b.sql, 323.761, 191.311, Bao
+(no hint), 0, 2023-08-03 14:23:29.199984, queries/join-order-benchmark/22c.sql, 403.981, 1949.225, Bao
+(no hint), 1, 2023-08-03 14:23:29.200306, queries/join-order-benchmark/22c.sql, 324.295, 1743.446, Bao
+(no hint), 2, 2023-08-03 14:23:29.200425, queries/join-order-benchmark/22c.sql, 319.776, 1791.645, Bao
+(no hint), 3, 2023-08-03 14:23:29.200533, queries/join-order-benchmark/22c.sql, 324.917, 1792.933, Bao
+(no hint), 4, 2023-08-03 14:23:29.200635, queries/join-order-benchmark/22c.sql, 321.709, 1753.584, Bao
+(no hint), 0, 2023-08-03 14:23:37.504966, queries/join-order-benchmark/22d.sql, 404.547, 842.27, Bao
+(no hint), 1, 2023-08-03 14:23:37.505452, queries/join-order-benchmark/22d.sql, 327.6, 732.104, Bao
+(no hint), 2, 2023-08-03 14:23:37.505588, queries/join-order-benchmark/22d.sql, 325.099, 677.031, Bao
+(no hint), 3, 2023-08-03 14:23:37.505758, queries/join-order-benchmark/22d.sql, 327.454, 696.757, Bao
+(no hint), 4, 2023-08-03 14:23:37.505868, queries/join-order-benchmark/22d.sql, 330.224, 674.033, Bao
+(no hint), 0, 2023-08-03 14:23:43.073274, queries/join-order-benchmark/23a.sql, 404.792, 205.727, Bao
+(no hint), 1, 2023-08-03 14:23:43.073649, queries/join-order-benchmark/23a.sql, 329.013, 176.798, Bao
+(no hint), 2, 2023-08-03 14:23:43.073787, queries/join-order-benchmark/23a.sql, 354.051, 180.648, Bao
+(no hint), 3, 2023-08-03 14:23:43.073900, queries/join-order-benchmark/23a.sql, 323.773, 175.079, Bao
+(no hint), 4, 2023-08-03 14:23:43.074003, queries/join-order-benchmark/23a.sql, 341.364, 175.623, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 0, 2023-08-03 14:23:47.936194, queries/join-order-benchmark/23b.sql, 397.253, 90.977, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 1, 2023-08-03 14:23:47.936631, queries/join-order-benchmark/23b.sql, 325.663, 41.436, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 2, 2023-08-03 14:23:47.936789, queries/join-order-benchmark/23b.sql, 323.946, 40.879, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 3, 2023-08-03 14:23:47.936903, queries/join-order-benchmark/23b.sql, 328.055, 41.33, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 4, 2023-08-03 14:23:47.937006, queries/join-order-benchmark/23b.sql, 374.631, 68.395, Bao
+(no hint), 0, 2023-08-03 14:23:53.736337, queries/join-order-benchmark/23c.sql, 396.424, 261.002, Bao
+(no hint), 1, 2023-08-03 14:23:53.736633, queries/join-order-benchmark/23c.sql, 320.462, 232.823, Bao
+(no hint), 2, 2023-08-03 14:23:53.736766, queries/join-order-benchmark/23c.sql, 323.932, 231.48, Bao
+(no hint), 3, 2023-08-03 14:23:53.736910, queries/join-order-benchmark/23c.sql, 322.083, 237.651, Bao
+(no hint), 4, 2023-08-03 14:23:53.737067, queries/join-order-benchmark/23c.sql, 319.933, 231.089, Bao
+SET enable_mergejoin TO off; , 0, 2023-08-03 14:24:02.518650, queries/join-order-benchmark/24a.sql, 529.851, 647.198, Bao
+SET enable_mergejoin TO off; , 1, 2023-08-03 14:24:02.521845, queries/join-order-benchmark/24a.sql, 456.66, 496.214, Bao
+SET enable_mergejoin TO off; , 2, 2023-08-03 14:24:02.522099, queries/join-order-benchmark/24a.sql, 491.069, 561.235, Bao
+SET enable_mergejoin TO off; , 3, 2023-08-03 14:24:02.522229, queries/join-order-benchmark/24a.sql, 468.666, 499.258, Bao
+SET enable_mergejoin TO off; , 4, 2023-08-03 14:24:02.522570, queries/join-order-benchmark/24a.sql, 492.284, 550.421, Bao
+SET enable_mergejoin TO off; , 0, 2023-08-03 14:24:08.580724, queries/join-order-benchmark/24b.sql, 525.665, 32.373, Bao
+SET enable_mergejoin TO off; , 1, 2023-08-03 14:24:08.581002, queries/join-order-benchmark/24b.sql, 460.985, 25.63, Bao
+SET enable_mergejoin TO off; , 2, 2023-08-03 14:24:08.581130, queries/join-order-benchmark/24b.sql, 462.747, 25.723, Bao
+SET enable_mergejoin TO off; , 3, 2023-08-03 14:24:08.581438, queries/join-order-benchmark/24b.sql, 458.88, 25.27, Bao
+SET enable_mergejoin TO off; , 4, 2023-08-03 14:24:08.581635, queries/join-order-benchmark/24b.sql, 465.704, 36.782, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 0, 2023-08-03 14:24:25.480052, queries/join-order-benchmark/25a.sql, 315.486, 2913.777, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 1, 2023-08-03 14:24:25.480363, queries/join-order-benchmark/25a.sql, 255.0, 2546.3, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 2, 2023-08-03 14:24:25.480497, queries/join-order-benchmark/25a.sql, 260.372, 2521.381, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 3, 2023-08-03 14:24:25.480606, queries/join-order-benchmark/25a.sql, 256.535, 2504.331, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 4, 2023-08-03 14:24:25.480710, queries/join-order-benchmark/25a.sql, 253.262, 2533.895, Bao
+(no hint), 0, 2023-08-03 14:24:30.570771, queries/join-order-benchmark/25b.sql, 323.208, 302.778, Bao
+(no hint), 1, 2023-08-03 14:24:30.571077, queries/join-order-benchmark/25b.sql, 255.938, 233.999, Bao
+(no hint), 2, 2023-08-03 14:24:30.571659, queries/join-order-benchmark/25b.sql, 255.451, 231.153, Bao
+(no hint), 3, 2023-08-03 14:24:30.571841, queries/join-order-benchmark/25b.sql, 254.646, 254.897, Bao
+(no hint), 4, 2023-08-03 14:24:30.571943, queries/join-order-benchmark/25b.sql, 256.541, 232.03, Bao
+(no hint), 0, 2023-08-03 14:25:02.504263, queries/join-order-benchmark/25c.sql, 317.519, 6004.151, Bao
+(no hint), 1, 2023-08-03 14:25:02.504580, queries/join-order-benchmark/25c.sql, 256.817, 5593.88, Bao
+(no hint), 2, 2023-08-03 14:25:02.504720, queries/join-order-benchmark/25c.sql, 254.021, 5498.059, Bao
+(no hint), 3, 2023-08-03 14:25:02.504837, queries/join-order-benchmark/25c.sql, 253.079, 5564.557, Bao
+(no hint), 4, 2023-08-03 14:25:02.504945, queries/join-order-benchmark/25c.sql, 252.755, 5447.267, Bao
+(no hint), 0, 2023-08-03 14:25:15.398222, queries/join-order-benchmark/26a.sql, 505.323, 1544.749, Bao
+(no hint), 1, 2023-08-03 14:25:15.398553, queries/join-order-benchmark/26a.sql, 445.458, 1449.692, Bao
+(no hint), 2, 2023-08-03 14:25:15.398698, queries/join-order-benchmark/26a.sql, 448.997, 1440.111, Bao
+(no hint), 3, 2023-08-03 14:25:15.398807, queries/join-order-benchmark/26a.sql, 445.413, 1302.521, Bao
+(no hint), 4, 2023-08-03 14:25:15.398909, queries/join-order-benchmark/26a.sql, 447.326, 1435.687, Bao
+(no hint), 0, 2023-08-03 14:25:21.720952, queries/join-order-benchmark/26b.sql, 503.608, 141.329, Bao
+(no hint), 1, 2023-08-03 14:25:21.721250, queries/join-order-benchmark/26b.sql, 451.315, 81.85, Bao
+(no hint), 2, 2023-08-03 14:25:21.721379, queries/join-order-benchmark/26b.sql, 447.801, 82.236, Bao
+(no hint), 3, 2023-08-03 14:25:21.721488, queries/join-order-benchmark/26b.sql, 445.886, 81.979, Bao
+(no hint), 4, 2023-08-03 14:25:21.721919, queries/join-order-benchmark/26b.sql, 452.185, 194.902, Bao
+(no hint), 0, 2023-08-03 14:25:41.465967, queries/join-order-benchmark/26c.sql, 508.327, 2946.754, Bao
+(no hint), 1, 2023-08-03 14:25:41.466362, queries/join-order-benchmark/26c.sql, 443.527, 2764.165, Bao
+(no hint), 2, 2023-08-03 14:25:41.466503, queries/join-order-benchmark/26c.sql, 446.796, 2759.447, Bao
+(no hint), 3, 2023-08-03 14:25:41.466620, queries/join-order-benchmark/26c.sql, 449.021, 2769.622, Bao
+(no hint), 4, 2023-08-03 14:25:41.466774, queries/join-order-benchmark/26c.sql, 444.727, 2793.564, Bao
+SET enable_mergejoin TO off; , 0, 2023-08-03 14:25:47.332699, queries/join-order-benchmark/27a.sql, 508.79, 28.574, Bao
+SET enable_mergejoin TO off; , 1, 2023-08-03 14:25:47.332974, queries/join-order-benchmark/27a.sql, 449.306, 23.617, Bao
+SET enable_mergejoin TO off; , 2, 2023-08-03 14:25:47.333103, queries/join-order-benchmark/27a.sql, 449.081, 23.794, Bao
+SET enable_mergejoin TO off; , 3, 2023-08-03 14:25:47.333206, queries/join-order-benchmark/27a.sql, 450.559, 24.522, Bao
+SET enable_mergejoin TO off; , 4, 2023-08-03 14:25:47.333321, queries/join-order-benchmark/27a.sql, 453.689, 24.563, Bao
+SET enable_mergejoin TO off; , 0, 2023-08-03 14:25:53.001325, queries/join-order-benchmark/27b.sql, 501.583, 8.946, Bao
+SET enable_mergejoin TO off; , 1, 2023-08-03 14:25:53.001564, queries/join-order-benchmark/27b.sql, 439.968, 6.727, Bao
+SET enable_mergejoin TO off; , 2, 2023-08-03 14:25:53.001693, queries/join-order-benchmark/27b.sql, 442.23, 6.711, Bao
+SET enable_mergejoin TO off; , 3, 2023-08-03 14:25:53.001779, queries/join-order-benchmark/27b.sql, 441.665, 6.734, Bao
+SET enable_mergejoin TO off; , 4, 2023-08-03 14:25:53.001858, queries/join-order-benchmark/27b.sql, 441.426, 6.82, Bao
+SET enable_mergejoin TO off; , 0, 2023-08-03 14:25:59.291297, queries/join-order-benchmark/27c.sql, 499.262, 133.817, Bao
+SET enable_mergejoin TO off; , 1, 2023-08-03 14:25:59.291601, queries/join-order-benchmark/27c.sql, 440.657, 115.05, Bao
+SET enable_mergejoin TO off; , 2, 2023-08-03 14:25:59.291734, queries/join-order-benchmark/27c.sql, 443.677, 125.139, Bao
+SET enable_mergejoin TO off; , 3, 2023-08-03 14:25:59.291844, queries/join-order-benchmark/27c.sql, 444.862, 115.33, Bao
+SET enable_mergejoin TO off; , 4, 2023-08-03 14:25:59.291945, queries/join-order-benchmark/27c.sql, 444.762, 113.146, Bao
+(no hint), 0, 2023-08-03 14:26:18.167946, queries/join-order-benchmark/28a.sql, 567.915, 2629.212, Bao
+(no hint), 1, 2023-08-03 14:26:18.168246, queries/join-order-benchmark/28a.sql, 508.73, 2431.053, Bao
+(no hint), 2, 2023-08-03 14:26:18.168374, queries/join-order-benchmark/28a.sql, 507.068, 2451.707, Bao
+(no hint), 3, 2023-08-03 14:26:18.168480, queries/join-order-benchmark/28a.sql, 506.331, 2532.804, Bao
+(no hint), 4, 2023-08-03 14:26:18.168580, queries/join-order-benchmark/28a.sql, 510.458, 2495.815, Bao
+(no hint), 0, 2023-08-03 14:26:29.490224, queries/join-order-benchmark/28b.sql, 564.861, 1094.773, Bao
+(no hint), 1, 2023-08-03 14:26:29.490522, queries/join-order-benchmark/28b.sql, 505.741, 931.031, Bao
+(no hint), 2, 2023-08-03 14:26:29.490640, queries/join-order-benchmark/28b.sql, 506.042, 1030.739, Bao
+(no hint), 3, 2023-08-03 14:26:29.490770, queries/join-order-benchmark/28b.sql, 502.419, 1040.516, Bao
+(no hint), 4, 2023-08-03 14:26:29.490878, queries/join-order-benchmark/28b.sql, 503.026, 925.41, Bao
+(no hint), 0, 2023-08-03 14:26:45.234671, queries/join-order-benchmark/28c.sql, 562.564, 1986.029, Bao
+(no hint), 1, 2023-08-03 14:26:45.234980, queries/join-order-benchmark/28c.sql, 505.138, 1866.528, Bao
+(no hint), 2, 2023-08-03 14:26:45.235109, queries/join-order-benchmark/28c.sql, 507.143, 1866.532, Bao
+(no hint), 3, 2023-08-03 14:26:45.235252, queries/join-order-benchmark/28c.sql, 510.387, 1856.767, Bao
+(no hint), 4, 2023-08-03 14:26:45.235358, queries/join-order-benchmark/28c.sql, 512.382, 1827.511, Bao
+(no hint), 0, 2023-08-03 14:26:52.989866, queries/join-order-benchmark/29a.sql, 662.057, 143.866, Bao
+(no hint), 1, 2023-08-03 14:26:52.990192, queries/join-order-benchmark/29a.sql, 600.317, 59.742, Bao
+(no hint), 2, 2023-08-03 14:26:52.990343, queries/join-order-benchmark/29a.sql, 600.216, 108.2, Bao
+(no hint), 3, 2023-08-03 14:26:52.990453, queries/join-order-benchmark/29a.sql, 604.628, 59.109, Bao
+(no hint), 4, 2023-08-03 14:26:52.990557, queries/join-order-benchmark/29a.sql, 600.629, 59.483, Bao
+(no hint), 0, 2023-08-03 14:27:00.379304, queries/join-order-benchmark/29b.sql, 666.402, 30.205, Bao
+(no hint), 1, 2023-08-03 14:27:00.379530, queries/join-order-benchmark/29b.sql, 600.912, 15.035, Bao
+(no hint), 2, 2023-08-03 14:27:00.379622, queries/join-order-benchmark/29b.sql, 600.167, 15.345, Bao
+(no hint), 3, 2023-08-03 14:27:00.379694, queries/join-order-benchmark/29b.sql, 601.446, 15.791, Bao
+(no hint), 4, 2023-08-03 14:27:00.379761, queries/join-order-benchmark/29b.sql, 603.265, 16.308, Bao
+SET enable_mergejoin TO off; , 0, 2023-08-03 14:27:08.455600, queries/join-order-benchmark/29c.sql, 660.333, 179.842, Bao
+SET enable_mergejoin TO off; , 1, 2023-08-03 14:27:08.456649, queries/join-order-benchmark/29c.sql, 600.302, 146.749, Bao
+SET enable_mergejoin TO off; , 2, 2023-08-03 14:27:08.456861, queries/join-order-benchmark/29c.sql, 606.917, 149.454, Bao
+SET enable_mergejoin TO off; , 3, 2023-08-03 14:27:08.456982, queries/join-order-benchmark/29c.sql, 602.439, 148.272, Bao
+SET enable_mergejoin TO off; , 4, 2023-08-03 14:27:08.457085, queries/join-order-benchmark/29c.sql, 602.866, 150.049, Bao
+(no hint), 0, 2023-08-03 14:27:14.208572, queries/join-order-benchmark/2a.sql, 277.256, 577.622, Bao
+(no hint), 1, 2023-08-03 14:27:14.208892, queries/join-order-benchmark/2a.sql, 220.321, 440.26, Bao
+(no hint), 2, 2023-08-03 14:27:14.209025, queries/join-order-benchmark/2a.sql, 214.599, 437.907, Bao
+(no hint), 3, 2023-08-03 14:27:14.209132, queries/join-order-benchmark/2a.sql, 217.316, 437.304, Bao
+(no hint), 4, 2023-08-03 14:27:14.209231, queries/join-order-benchmark/2a.sql, 216.694, 438.707, Bao
+(no hint), 0, 2023-08-03 14:27:19.885982, queries/join-order-benchmark/2b.sql, 276.568, 510.89, Bao
+(no hint), 1, 2023-08-03 14:27:19.886287, queries/join-order-benchmark/2b.sql, 217.902, 437.657, Bao
+(no hint), 2, 2023-08-03 14:27:19.886420, queries/join-order-benchmark/2b.sql, 219.35, 435.096, Bao
+(no hint), 3, 2023-08-03 14:27:19.886526, queries/join-order-benchmark/2b.sql, 217.412, 431.636, Bao
+(no hint), 4, 2023-08-03 14:27:19.886625, queries/join-order-benchmark/2b.sql, 220.545, 432.486, Bao
+(no hint), 0, 2023-08-03 14:27:25.493042, queries/join-order-benchmark/2c.sql, 281.703, 481.11, Bao
+(no hint), 1, 2023-08-03 14:27:25.494075, queries/join-order-benchmark/2c.sql, 218.819, 418.18, Bao
+(no hint), 2, 2023-08-03 14:27:25.494338, queries/join-order-benchmark/2c.sql, 220.823, 416.178, Bao
+(no hint), 3, 2023-08-03 14:27:25.494448, queries/join-order-benchmark/2c.sql, 220.795, 416.57, Bao
+(no hint), 4, 2023-08-03 14:27:25.494556, queries/join-order-benchmark/2c.sql, 221.694, 418.177, Bao
+(no hint), 0, 2023-08-03 14:27:31.747299, queries/join-order-benchmark/2d.sql, 276.964, 648.68, Bao
+(no hint), 1, 2023-08-03 14:27:31.747608, queries/join-order-benchmark/2d.sql, 221.076, 537.578, Bao
+(no hint), 2, 2023-08-03 14:27:31.747742, queries/join-order-benchmark/2d.sql, 218.971, 537.57, Bao
+(no hint), 3, 2023-08-03 14:27:31.747891, queries/join-order-benchmark/2d.sql, 219.951, 535.98, Bao
+(no hint), 4, 2023-08-03 14:27:31.747997, queries/join-order-benchmark/2d.sql, 223.429, 535.723, Bao
+(no hint), 0, 2023-08-03 14:27:47.369877, queries/join-order-benchmark/30a.sql, 509.496, 2171.119, Bao
+(no hint), 1, 2023-08-03 14:27:47.370244, queries/join-order-benchmark/30a.sql, 452.549, 1909.596, Bao
+(no hint), 2, 2023-08-03 14:27:47.370389, queries/join-order-benchmark/30a.sql, 453.056, 1922.683, Bao
+(no hint), 3, 2023-08-03 14:27:47.370518, queries/join-order-benchmark/30a.sql, 453.445, 1914.355, Bao
+(no hint), 4, 2023-08-03 14:27:47.370650, queries/join-order-benchmark/30a.sql, 452.817, 1928.025, Bao
+(no hint), 0, 2023-08-03 14:27:54.860085, queries/join-order-benchmark/30b.sql, 517.566, 372.854, Bao
+(no hint), 1, 2023-08-03 14:27:54.860395, queries/join-order-benchmark/30b.sql, 454.369, 340.969, Bao
+(no hint), 2, 2023-08-03 14:27:54.860529, queries/join-order-benchmark/30b.sql, 455.887, 329.045, Bao
+(no hint), 3, 2023-08-03 14:27:54.860625, queries/join-order-benchmark/30b.sql, 455.394, 315.186, Bao
+(no hint), 4, 2023-08-03 14:27:54.860723, queries/join-order-benchmark/30b.sql, 454.344, 318.485, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 0, 2023-08-03 14:28:14.287096, queries/join-order-benchmark/30c.sql, 512.083, 2914.588, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 1, 2023-08-03 14:28:14.287330, queries/join-order-benchmark/30c.sql, 454.546, 2701.068, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 2, 2023-08-03 14:28:14.287422, queries/join-order-benchmark/30c.sql, 455.372, 2662.988, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 3, 2023-08-03 14:28:14.287473, queries/join-order-benchmark/30c.sql, 455.083, 2675.729, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 4, 2023-08-03 14:28:14.287523, queries/join-order-benchmark/30c.sql, 455.781, 2666.447, Bao
+(no hint), 0, 2023-08-03 14:28:20.299656, queries/join-order-benchmark/31a.sql, 459.331, 232.516, Bao
+(no hint), 1, 2023-08-03 14:28:20.299948, queries/join-order-benchmark/31a.sql, 368.003, 197.954, Bao
+(no hint), 2, 2023-08-03 14:28:20.300068, queries/join-order-benchmark/31a.sql, 369.83, 185.724, Bao
+(no hint), 3, 2023-08-03 14:28:20.300170, queries/join-order-benchmark/31a.sql, 368.376, 185.407, Bao
+(no hint), 4, 2023-08-03 14:28:20.300262, queries/join-order-benchmark/31a.sql, 369.247, 183.672, Bao
+(no hint), 0, 2023-08-03 14:28:25.899608, queries/join-order-benchmark/31b.sql, 454.818, 128.026, Bao
+(no hint), 1, 2023-08-03 14:28:25.899894, queries/join-order-benchmark/31b.sql, 367.493, 118.905, Bao
+(no hint), 2, 2023-08-03 14:28:25.900022, queries/join-order-benchmark/31b.sql, 368.803, 119.482, Bao
+(no hint), 3, 2023-08-03 14:28:25.900128, queries/join-order-benchmark/31b.sql, 367.372, 119.836, Bao
+(no hint), 4, 2023-08-03 14:28:25.900229, queries/join-order-benchmark/31b.sql, 363.993, 120.918, Bao
+(no hint), 0, 2023-08-03 14:28:32.795323, queries/join-order-benchmark/31c.sql, 468.827, 372.992, Bao
+(no hint), 1, 2023-08-03 14:28:32.795627, queries/join-order-benchmark/31c.sql, 370.331, 367.06, Bao
+(no hint), 2, 2023-08-03 14:28:32.795758, queries/join-order-benchmark/31c.sql, 370.048, 348.505, Bao
+(no hint), 3, 2023-08-03 14:28:32.795876, queries/join-order-benchmark/31c.sql, 371.668, 393.459, Bao
+(no hint), 4, 2023-08-03 14:28:32.796022, queries/join-order-benchmark/31c.sql, 375.543, 330.457, Bao
+(no hint), 0, 2023-08-03 14:28:36.326877, queries/join-order-benchmark/32a.sql, 282.026, 14.383, Bao
+(no hint), 1, 2023-08-03 14:28:36.327128, queries/join-order-benchmark/32a.sql, 222.804, 10.765, Bao
+(no hint), 2, 2023-08-03 14:28:36.327225, queries/join-order-benchmark/32a.sql, 222.291, 10.698, Bao
+(no hint), 3, 2023-08-03 14:28:36.327307, queries/join-order-benchmark/32a.sql, 224.635, 10.703, Bao
+(no hint), 4, 2023-08-03 14:28:36.327414, queries/join-order-benchmark/32a.sql, 221.723, 10.741, Bao
+(no hint), 0, 2023-08-03 14:28:40.260314, queries/join-order-benchmark/32b.sql, 274.095, 129.114, Bao
+(no hint), 1, 2023-08-03 14:28:40.260619, queries/join-order-benchmark/32b.sql, 219.303, 95.458, Bao
+(no hint), 2, 2023-08-03 14:28:40.260747, queries/join-order-benchmark/32b.sql, 218.254, 93.54, Bao
+(no hint), 3, 2023-08-03 14:28:40.260868, queries/join-order-benchmark/32b.sql, 218.549, 94.452, Bao
+(no hint), 4, 2023-08-03 14:28:40.261029, queries/join-order-benchmark/32b.sql, 218.88, 93.47, Bao
+(no hint), 0, 2023-08-03 14:28:46.775948, queries/join-order-benchmark/33a.sql, 557.112, 45.836, Bao
+(no hint), 1, 2023-08-03 14:28:46.776239, queries/join-order-benchmark/33a.sql, 497.153, 43.035, Bao
+(no hint), 2, 2023-08-03 14:28:46.776377, queries/join-order-benchmark/33a.sql, 498.946, 51.556, Bao
+(no hint), 3, 2023-08-03 14:28:46.776544, queries/join-order-benchmark/33a.sql, 496.721, 51.772, Bao
+(no hint), 4, 2023-08-03 14:28:46.776662, queries/join-order-benchmark/33a.sql, 495.535, 51.183, Bao
+(no hint), 0, 2023-08-03 14:28:53.129528, queries/join-order-benchmark/33b.sql, 550.75, 50.699, Bao
+(no hint), 1, 2023-08-03 14:28:53.129901, queries/join-order-benchmark/33b.sql, 491.279, 39.915, Bao
+(no hint), 2, 2023-08-03 14:28:53.130035, queries/join-order-benchmark/33b.sql, 488.5, 39.712, Bao
+(no hint), 3, 2023-08-03 14:28:53.130153, queries/join-order-benchmark/33b.sql, 489.857, 39.987, Bao
+(no hint), 4, 2023-08-03 14:28:53.130294, queries/join-order-benchmark/33b.sql, 490.026, 39.949, Bao
+(no hint), 0, 2023-08-03 14:28:59.709018, queries/join-order-benchmark/33c.sql, 547.573, 57.35, Bao
+(no hint), 1, 2023-08-03 14:28:59.709255, queries/join-order-benchmark/33c.sql, 503.77, 68.488, Bao
+(no hint), 2, 2023-08-03 14:28:59.709357, queries/join-order-benchmark/33c.sql, 490.747, 62.718, Bao
+(no hint), 3, 2023-08-03 14:28:59.709439, queries/join-order-benchmark/33c.sql, 490.99, 52.057, Bao
+(no hint), 4, 2023-08-03 14:28:59.709518, queries/join-order-benchmark/33c.sql, 493.959, 65.627, Bao
+(no hint), 0, 2023-08-03 14:29:03.769703, queries/join-order-benchmark/3a.sql, 270.226, 174.724, Bao
+(no hint), 1, 2023-08-03 14:29:03.770032, queries/join-order-benchmark/3a.sql, 215.737, 115.887, Bao
+(no hint), 2, 2023-08-03 14:29:03.770160, queries/join-order-benchmark/3a.sql, 220.567, 115.666, Bao
+(no hint), 3, 2023-08-03 14:29:03.770268, queries/join-order-benchmark/3a.sql, 216.207, 116.903, Bao
+(no hint), 4, 2023-08-03 14:29:03.770366, queries/join-order-benchmark/3a.sql, 223.67, 116.525, Bao
+(no hint), 0, 2023-08-03 14:29:07.686461, queries/join-order-benchmark/3b.sql, 276.304, 127.556, Bao
+(no hint), 1, 2023-08-03 14:29:07.686761, queries/join-order-benchmark/3b.sql, 223.555, 77.489, Bao
+(no hint), 2, 2023-08-03 14:29:07.686889, queries/join-order-benchmark/3b.sql, 220.564, 77.277, Bao
+(no hint), 3, 2023-08-03 14:29:07.686985, queries/join-order-benchmark/3b.sql, 220.734, 76.312, Bao
+(no hint), 4, 2023-08-03 14:29:07.687116, queries/join-order-benchmark/3b.sql, 224.499, 78.216, Bao
+(no hint), 0, 2023-08-03 14:29:12.376263, queries/join-order-benchmark/3c.sql, 278.01, 307.609, Bao
+(no hint), 1, 2023-08-03 14:29:12.376581, queries/join-order-benchmark/3c.sql, 220.532, 229.213, Bao
+(no hint), 2, 2023-08-03 14:29:12.376712, queries/join-order-benchmark/3c.sql, 221.864, 230.738, Bao
+(no hint), 3, 2023-08-03 14:29:12.376820, queries/join-order-benchmark/3c.sql, 221.497, 221.649, Bao
+(no hint), 4, 2023-08-03 14:29:12.376911, queries/join-order-benchmark/3c.sql, 219.386, 222.178, Bao
+(no hint), 0, 2023-08-03 14:29:16.274382, queries/join-order-benchmark/4a.sql, 277.625, 126.506, Bao
+(no hint), 1, 2023-08-03 14:29:16.274729, queries/join-order-benchmark/4a.sql, 220.05, 82.587, Bao
+(no hint), 2, 2023-08-03 14:29:16.274934, queries/join-order-benchmark/4a.sql, 218.689, 82.126, Bao
+(no hint), 3, 2023-08-03 14:29:16.275157, queries/join-order-benchmark/4a.sql, 218.434, 82.7, Bao
+(no hint), 4, 2023-08-03 14:29:16.275332, queries/join-order-benchmark/4a.sql, 221.294, 82.631, Bao
+(no hint), 0, 2023-08-03 14:29:20.049336, queries/join-order-benchmark/4b.sql, 277.88, 66.823, Bao
+(no hint), 1, 2023-08-03 14:29:20.050229, queries/join-order-benchmark/4b.sql, 220.034, 62.805, Bao
+(no hint), 2, 2023-08-03 14:29:20.050425, queries/join-order-benchmark/4b.sql, 220.91, 63.451, Bao
+(no hint), 3, 2023-08-03 14:29:20.050499, queries/join-order-benchmark/4b.sql, 218.656, 61.998, Bao
+(no hint), 4, 2023-08-03 14:29:20.050569, queries/join-order-benchmark/4b.sql, 220.412, 61.965, Bao
+(no hint), 0, 2023-08-03 14:29:23.985692, queries/join-order-benchmark/4c.sql, 277.627, 135.386, Bao
+(no hint), 1, 2023-08-03 14:29:23.985978, queries/join-order-benchmark/4c.sql, 219.51, 90.795, Bao
+(no hint), 2, 2023-08-03 14:29:23.986106, queries/join-order-benchmark/4c.sql, 218.54, 90.692, Bao
+(no hint), 3, 2023-08-03 14:29:23.986215, queries/join-order-benchmark/4c.sql, 222.196, 89.499, Bao
+(no hint), 4, 2023-08-03 14:29:23.986315, queries/join-order-benchmark/4c.sql, 218.769, 90.169, Bao
+(no hint), 0, 2023-08-03 14:29:28.100739, queries/join-order-benchmark/5a.sql, 277.622, 114.322, Bao
+(no hint), 1, 2023-08-03 14:29:28.100900, queries/join-order-benchmark/5a.sql, 229.468, 119.899, Bao
+(no hint), 2, 2023-08-03 14:29:28.100938, queries/join-order-benchmark/5a.sql, 222.535, 118.016, Bao
+(no hint), 3, 2023-08-03 14:29:28.100970, queries/join-order-benchmark/5a.sql, 222.925, 146.346, Bao
+(no hint), 4, 2023-08-03 14:29:28.100999, queries/join-order-benchmark/5a.sql, 222.539, 132.609, Bao
+(no hint), 0, 2023-08-03 14:29:32.210358, queries/join-order-benchmark/5b.sql, 280.039, 129.081, Bao
+(no hint), 1, 2023-08-03 14:29:32.210515, queries/join-order-benchmark/5b.sql, 224.207, 125.844, Bao
+(no hint), 2, 2023-08-03 14:29:32.210554, queries/join-order-benchmark/5b.sql, 225.882, 127.865, Bao
+(no hint), 3, 2023-08-03 14:29:32.210584, queries/join-order-benchmark/5b.sql, 233.413, 104.307, Bao
+(no hint), 4, 2023-08-03 14:29:32.210614, queries/join-order-benchmark/5b.sql, 237.824, 103.004, Bao
+(no hint), 0, 2023-08-03 14:29:36.714647, queries/join-order-benchmark/5c.sql, 304.6, 195.354, Bao
+(no hint), 1, 2023-08-03 14:29:36.714808, queries/join-order-benchmark/5c.sql, 219.961, 152.877, Bao
+(no hint), 2, 2023-08-03 14:29:36.714848, queries/join-order-benchmark/5c.sql, 254.057, 141.696, Bao
+(no hint), 3, 2023-08-03 14:29:36.714882, queries/join-order-benchmark/5c.sql, 268.518, 150.521, Bao
+(no hint), 4, 2023-08-03 14:29:36.714911, queries/join-order-benchmark/5c.sql, 256.691, 171.191, Bao
+(no hint), 0, 2023-08-03 14:29:40.256485, queries/join-order-benchmark/6a.sql, 275.397, 35.822, Bao
+(no hint), 1, 2023-08-03 14:29:40.256779, queries/join-order-benchmark/6a.sql, 221.589, 17.373, Bao
+(no hint), 2, 2023-08-03 14:29:40.257111, queries/join-order-benchmark/6a.sql, 217.775, 17.541, Bao
+(no hint), 3, 2023-08-03 14:29:40.257260, queries/join-order-benchmark/6a.sql, 219.322, 17.555, Bao
+(no hint), 4, 2023-08-03 14:29:40.257431, queries/join-order-benchmark/6a.sql, 220.191, 17.967, Bao
+(no hint), 0, 2023-08-03 14:29:44.511430, queries/join-order-benchmark/6b.sql, 272.658, 204.581, Bao
+(no hint), 1, 2023-08-03 14:29:44.511724, queries/join-order-benchmark/6b.sql, 219.886, 153.885, Bao
+(no hint), 2, 2023-08-03 14:29:44.511855, queries/join-order-benchmark/6b.sql, 221.211, 153.427, Bao
+(no hint), 3, 2023-08-03 14:29:44.511970, queries/join-order-benchmark/6b.sql, 219.16, 154.731, Bao
+(no hint), 4, 2023-08-03 14:29:44.512071, queries/join-order-benchmark/6b.sql, 219.91, 155.165, Bao
+(no hint), 0, 2023-08-03 14:29:48.178583, queries/join-order-benchmark/6c.sql, 336.597, 15.987, Bao
+(no hint), 1, 2023-08-03 14:29:48.178890, queries/join-order-benchmark/6c.sql, 226.306, 10.361, Bao
+(no hint), 2, 2023-08-03 14:29:48.179047, queries/join-order-benchmark/6c.sql, 225.575, 10.479, Bao
+(no hint), 3, 2023-08-03 14:29:48.179160, queries/join-order-benchmark/6c.sql, 228.075, 10.428, Bao
+(no hint), 4, 2023-08-03 14:29:48.179262, queries/join-order-benchmark/6c.sql, 226.482, 10.68, Bao
+SET enable_nestloop TO off; , 0, 2023-08-03 14:30:00.330203, queries/join-order-benchmark/6d.sql, 289.784, 1798.199, Bao
+SET enable_nestloop TO off; , 1, 2023-08-03 14:30:00.330538, queries/join-order-benchmark/6d.sql, 222.285, 1713.287, Bao
+SET enable_nestloop TO off; , 2, 2023-08-03 14:30:00.330694, queries/join-order-benchmark/6d.sql, 224.473, 1733.143, Bao
+SET enable_nestloop TO off; , 3, 2023-08-03 14:30:00.330806, queries/join-order-benchmark/6d.sql, 224.028, 1711.169, Bao
+SET enable_nestloop TO off; , 4, 2023-08-03 14:30:00.330907, queries/join-order-benchmark/6d.sql, 226.231, 1695.401, Bao
+(no hint), 0, 2023-08-03 14:30:03.862511, queries/join-order-benchmark/6e.sql, 275.745, 35.492, Bao
+(no hint), 1, 2023-08-03 14:30:03.862784, queries/join-order-benchmark/6e.sql, 217.983, 17.535, Bao
+(no hint), 2, 2023-08-03 14:30:03.862916, queries/join-order-benchmark/6e.sql, 219.921, 17.47, Bao
+(no hint), 3, 2023-08-03 14:30:03.863058, queries/join-order-benchmark/6e.sql, 220.541, 17.68, Bao
+(no hint), 4, 2023-08-03 14:30:03.863163, queries/join-order-benchmark/6e.sql, 218.607, 17.599, Bao
+SET enable_nestloop TO off; , 0, 2023-08-03 14:30:19.850439, queries/join-order-benchmark/6f.sql, 279.304, 2479.262, Bao
+SET enable_nestloop TO off; , 1, 2023-08-03 14:30:19.850734, queries/join-order-benchmark/6f.sql, 226.34, 2486.966, Bao
+SET enable_nestloop TO off; , 2, 2023-08-03 14:30:19.850866, queries/join-order-benchmark/6f.sql, 232.264, 2492.513, Bao
+SET enable_nestloop TO off; , 3, 2023-08-03 14:30:19.851000, queries/join-order-benchmark/6f.sql, 230.684, 2499.733, Bao
+SET enable_nestloop TO off; , 4, 2023-08-03 14:30:19.851105, queries/join-order-benchmark/6f.sql, 225.922, 2491.949, Bao
+(no hint), 0, 2023-08-03 14:30:26.774761, queries/join-order-benchmark/7a.sql, 407.187, 785.456, Bao
+(no hint), 1, 2023-08-03 14:30:26.775117, queries/join-order-benchmark/7a.sql, 236.92, 606.967, Bao
+(no hint), 2, 2023-08-03 14:30:26.775255, queries/join-order-benchmark/7a.sql, 235.865, 602.441, Bao
+(no hint), 3, 2023-08-03 14:30:26.775364, queries/join-order-benchmark/7a.sql, 235.086, 596.661, Bao
+(no hint), 4, 2023-08-03 14:30:26.775472, queries/join-order-benchmark/7a.sql, 235.562, 591.722, Bao
+(no hint), 0, 2023-08-03 14:30:31.255578, queries/join-order-benchmark/7b.sql, 293.402, 265.753, Bao
+(no hint), 1, 2023-08-03 14:30:31.256442, queries/join-order-benchmark/7b.sql, 234.292, 155.837, Bao
+(no hint), 2, 2023-08-03 14:30:31.256613, queries/join-order-benchmark/7b.sql, 233.308, 154.052, Bao
+(no hint), 3, 2023-08-03 14:30:31.256729, queries/join-order-benchmark/7b.sql, 237.746, 155.08, Bao
+(no hint), 4, 2023-08-03 14:30:31.256823, queries/join-order-benchmark/7b.sql, 233.724, 155.436, Bao
+(no hint), 0, 2023-08-03 14:30:49.392403, queries/join-order-benchmark/7c.sql, 294.222, 3079.352, Bao
+(no hint), 1, 2023-08-03 14:30:49.392767, queries/join-order-benchmark/7c.sql, 242.319, 2856.872, Bao
+(no hint), 2, 2023-08-03 14:30:49.392912, queries/join-order-benchmark/7c.sql, 237.347, 2850.624, Bao
+(no hint), 3, 2023-08-03 14:30:49.393027, queries/join-order-benchmark/7c.sql, 236.861, 2843.403, Bao
+(no hint), 4, 2023-08-03 14:30:49.393119, queries/join-order-benchmark/7c.sql, 237.114, 2877.05, Bao
+(no hint), 0, 2023-08-03 14:30:56.210540, queries/join-order-benchmark/8a.sql, 288.565, 701.65, Bao
+(no hint), 1, 2023-08-03 14:30:56.211252, queries/join-order-benchmark/8a.sql, 232.636, 632.79, Bao
+(no hint), 2, 2023-08-03 14:30:56.211331, queries/join-order-benchmark/8a.sql, 232.11, 677.224, Bao
+(no hint), 3, 2023-08-03 14:30:56.211368, queries/join-order-benchmark/8a.sql, 234.513, 629.825, Bao
+(no hint), 4, 2023-08-03 14:30:56.211400, queries/join-order-benchmark/8a.sql, 233.961, 621.343, Bao
+(no hint), 0, 2023-08-03 14:31:01.135014, queries/join-order-benchmark/8b.sql, 288.059, 296.62, Bao
+(no hint), 1, 2023-08-03 14:31:01.135320, queries/join-order-benchmark/8b.sql, 251.132, 274.366, Bao
+(no hint), 2, 2023-08-03 14:31:01.135454, queries/join-order-benchmark/8b.sql, 233.609, 249.538, Bao
+(no hint), 3, 2023-08-03 14:31:01.135562, queries/join-order-benchmark/8b.sql, 232.293, 243.217, Bao
+(no hint), 4, 2023-08-03 14:31:01.135665, queries/join-order-benchmark/8b.sql, 254.611, 268.779, Bao
+SET enable_nestloop TO off; , 0, 2023-08-03 14:31:16.912471, queries/join-order-benchmark/8c.sql, 285.364, 2445.744, Bao
+SET enable_nestloop TO off; , 1, 2023-08-03 14:31:16.912802, queries/join-order-benchmark/8c.sql, 229.314, 2440.499, Bao
+SET enable_nestloop TO off; , 2, 2023-08-03 14:31:16.912933, queries/join-order-benchmark/8c.sql, 230.704, 2505.853, Bao
+SET enable_nestloop TO off; , 3, 2023-08-03 14:31:16.913029, queries/join-order-benchmark/8c.sql, 229.334, 2372.396, Bao
+SET enable_nestloop TO off; , 4, 2023-08-03 14:31:16.913119, queries/join-order-benchmark/8c.sql, 229.886, 2447.653, Bao
+SET enable_nestloop TO off; , 0, 2023-08-03 14:31:31.802448, queries/join-order-benchmark/8d.sql, 295.889, 2310.642, Bao
+SET enable_nestloop TO off; , 1, 2023-08-03 14:31:31.802779, queries/join-order-benchmark/8d.sql, 229.325, 2276.221, Bao
+SET enable_nestloop TO off; , 2, 2023-08-03 14:31:31.802942, queries/join-order-benchmark/8d.sql, 227.683, 2341.227, Bao
+SET enable_nestloop TO off; , 3, 2023-08-03 14:31:31.803052, queries/join-order-benchmark/8d.sql, 231.528, 2213.644, Bao
+SET enable_nestloop TO off; , 4, 2023-08-03 14:31:31.803155, queries/join-order-benchmark/8d.sql, 228.918, 2195.528, Bao
+(no hint), 0, 2023-08-03 14:31:36.418792, queries/join-order-benchmark/9a.sql, 299.669, 192.881, Bao
+(no hint), 1, 2023-08-03 14:31:36.418961, queries/join-order-benchmark/9a.sql, 237.469, 180.572, Bao
+(no hint), 2, 2023-08-03 14:31:36.419001, queries/join-order-benchmark/9a.sql, 248.801, 186.745, Bao
+(no hint), 3, 2023-08-03 14:31:36.419033, queries/join-order-benchmark/9a.sql, 239.521, 192.362, Bao
+(no hint), 4, 2023-08-03 14:31:36.419062, queries/join-order-benchmark/9a.sql, 242.704, 173.527, Bao
+(no hint), 0, 2023-08-03 14:31:41.019991, queries/join-order-benchmark/9b.sql, 314.452, 197.598, Bao
+(no hint), 1, 2023-08-03 14:31:41.020308, queries/join-order-benchmark/9b.sql, 235.591, 206.289, Bao
+(no hint), 2, 2023-08-03 14:31:41.020446, queries/join-order-benchmark/9b.sql, 240.481, 200.418, Bao
+(no hint), 3, 2023-08-03 14:31:41.020557, queries/join-order-benchmark/9b.sql, 237.645, 165.394, Bao
+(no hint), 4, 2023-08-03 14:31:41.020658, queries/join-order-benchmark/9b.sql, 243.926, 174.948, Bao
+(no hint), 0, 2023-08-03 14:31:46.203929, queries/join-order-benchmark/9c.sql, 338.885, 299.235, Bao
+(no hint), 1, 2023-08-03 14:31:46.204222, queries/join-order-benchmark/9c.sql, 238.859, 264.314, Bao
+(no hint), 2, 2023-08-03 14:31:46.204341, queries/join-order-benchmark/9c.sql, 271.251, 265.78, Bao
+(no hint), 3, 2023-08-03 14:31:46.204660, queries/join-order-benchmark/9c.sql, 237.648, 247.003, Bao
+(no hint), 4, 2023-08-03 14:31:46.204808, queries/join-order-benchmark/9c.sql, 270.989, 262.533, Bao
+(no hint), 0, 2023-08-03 14:32:02.900258, queries/join-order-benchmark/9d.sql, 297.159, 2747.132, Bao
+(no hint), 1, 2023-08-03 14:32:02.900560, queries/join-order-benchmark/9d.sql, 239.336, 2409.192, Bao
+(no hint), 2, 2023-08-03 14:32:02.900866, queries/join-order-benchmark/9d.sql, 240.232, 2592.801, Bao
+(no hint), 3, 2023-08-03 14:32:02.901015, queries/join-order-benchmark/9d.sql, 238.922, 2624.321, Bao
+(no hint), 4, 2023-08-03 14:32:02.901124, queries/join-order-benchmark/9d.sql, 239.38, 2673.1, Bao

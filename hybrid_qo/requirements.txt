@@ -1,0 +1,7 @@
+psqlparse==1.0rc7
+torch==1.13.1
+numpy
+torchfold
+psycopg2-binary
+wandb
+tqdm

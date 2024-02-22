@@ -1,0 +1,56 @@
+version: '3'
+
+services:
+    postgres:
+        image: pg_balsa_img
+        volumes: 
+            - ./../../data/imdb:/data/imdb
+            - ./../../data/imdb/imdb.dump:/app/imdb.dump
+            - ./../../data/stack:/data/stack
+            - ./../../conf/balsa-postgresql.conf:/app/postgresql.conf
+            - ./pgdata:/pgdata
+        ports:
+            - "5432:5432"
+        environment:
+            - PGDATA=/pgdata
+            - POSTGRES_DB=imdbload
+            - POSTGRES_USER=postgres
+            - POSTGRES_PASSWORD=postgres
+        container_name: pg_balsa
+        networks:
+            network:
+                ipv4_address: 10.6.0.3
+        shm_size: 32gb
+    balsa:
+        image: balsa_img
+        volumes:
+            - ./../../balsa:/app/balsa
+            - ./../../leon:/app/leon
+            - ./../../hybrid_qo:/app/hybrid_qo
+        ports:
+            - "9381:9381"
+        environment:
+            - POSTGRES_DB=imdbload
+            - POSTGRES_USER=postgres
+            - POSTGRES_PASSWORD=postgres
+        container_name: balsa
+        tty: true
+        networks:
+            network:
+                ipv4_address: 10.6.0.4
+        shm_size: 10gb
+        deploy:
+            resources:
+                reservations:
+                    devices:
+                        - driver: nvidia
+                          count: 1
+                          capabilities: [gpu]
+networks:
+    network:
+        driver: bridge
+        ipam:
+            config:
+                - subnet: 10.6.0.0/16
+                  gateway: 10.6.0.1
+

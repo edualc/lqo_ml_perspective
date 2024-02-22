@@ -1,0 +1,729 @@
+Using connection:	 dbname=imdbload2 user=postgres password=postgres host=pg_bao
+Read 113 queries.
+Using Bao: True
+Executing queries using PG optimizer for initial training
+x x 2023-06-08 11:46:54.754778 queries/join-order-benchmark/2a.sql 0.9632296562194824 PG
+x x 2023-06-08 11:46:58.272165 queries/join-order-benchmark/10c.sql 3.517099142074585 PG
+x x 2023-06-08 11:47:00.800126 queries/join-order-benchmark/18a.sql 2.527738094329834 PG
+x x 2023-06-08 11:47:06.623059 queries/join-order-benchmark/17a.sql 5.822784900665283 PG
+x x 2023-06-08 11:47:07.082178 queries/join-order-benchmark/32b.sql 0.458965539932251 PG
+x x 2023-06-08 11:47:09.262436 queries/join-order-benchmark/30a.sql 2.1800763607025146 PG
+x x 2023-06-08 11:47:09.666699 queries/join-order-benchmark/6e.sql 0.4040544033050537 PG
+x x 2023-06-08 11:47:10.592764 queries/join-order-benchmark/12c.sql 0.9258801937103271 PG
+x x 2023-06-08 11:47:11.080213 queries/join-order-benchmark/21c.sql 0.48726558685302734 PG
+x x 2023-06-08 11:47:11.511468 queries/join-order-benchmark/11a.sql 0.43108201026916504 PG
+x x 2023-06-08 11:47:12.797299 queries/join-order-benchmark/16d.sql 1.2856605052947998 PG
+x x 2023-06-08 11:47:14.828610 queries/join-order-benchmark/25a.sql 2.031121253967285 PG
+x x 2023-06-08 11:47:18.066871 queries/join-order-benchmark/10c.sql 3.2381138801574707 PG
+x x 2023-06-08 11:47:27.796755 queries/join-order-benchmark/16b.sql 9.729757070541382 PG
+x x 2023-06-08 11:47:28.530338 queries/join-order-benchmark/2b.sql 0.7333893775939941 PG
+x x 2023-06-08 11:47:29.080044 queries/join-order-benchmark/26b.sql 0.5494909286499023 PG
+x x 2023-06-08 11:47:30.387346 queries/join-order-benchmark/16d.sql 1.3071315288543701 PG
+x x 2023-06-08 11:47:31.453407 queries/join-order-benchmark/28a.sql 1.065431833267212 PG
+x x 2023-06-08 11:47:31.909181 queries/join-order-benchmark/4b.sql 0.4552001953125 PG
+x x 2023-06-08 11:47:32.495110 queries/join-order-benchmark/10a.sql 0.5854756832122803 PG
+x x 2023-06-08 11:47:32.924629 queries/join-order-benchmark/4b.sql 0.42924046516418457 PG
+x x 2023-06-08 11:47:34.683049 queries/join-order-benchmark/30c.sql 1.7579929828643799 PG
+x x 2023-06-08 11:47:35.112784 queries/join-order-benchmark/1a.sql 0.42919206619262695 PG
+x x 2023-06-08 11:47:35.680401 queries/join-order-benchmark/15a.sql 0.5671863555908203 PG
+x x 2023-06-08 11:47:37.290673 queries/join-order-benchmark/8d.sql 1.6101045608520508 PG
+==========================================================================================
+Iteration over chunk 1/19...
+[2023-06-08 11:47:37.290909]	[1/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.04395231491688526
+Epoch 15 training loss: 0.004620416049323411
+Epoch 30 training loss: 0.0020702620694823
+Stopped training from convergence condition at epoch 38
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 11:47:58.016833]	[1/19]	Retraining done.
+0 0 2023-06-08 11:47:58.541352 queries/join-order-benchmark/1a.sql 0.5240626335144043
+0 1 2023-06-08 11:47:59.679614 queries/join-order-benchmark/13a.sql 1.1380703449249268
+0 2 2023-06-08 11:48:00.797719 queries/join-order-benchmark/13a.sql 1.11793851852417
+0 3 2023-06-08 11:48:01.301420 queries/join-order-benchmark/5c.sql 0.503532886505127
+0 4 2023-06-08 11:48:03.373233 queries/join-order-benchmark/28c.sql 2.0716257095336914
+0 5 2023-06-08 11:48:03.844468 queries/join-order-benchmark/4b.sql 0.4710392951965332
+0 6 2023-06-08 11:48:04.246461 queries/join-order-benchmark/32a.sql 0.4018104076385498
+0 7 2023-06-08 11:48:05.651466 queries/join-order-benchmark/26a.sql 1.4048681259155273
+0 8 2023-06-08 11:48:06.280837 queries/join-order-benchmark/9a.sql 0.6291713714599609
+0 9 2023-06-08 11:48:07.954930 queries/join-order-benchmark/20a.sql 1.6739792823791504
+0 10 2023-06-08 11:48:11.022834 queries/join-order-benchmark/26c.sql 3.067735195159912
+0 11 2023-06-08 11:48:11.510928 queries/join-order-benchmark/5a.sql 0.48789477348327637
+0 12 2023-06-08 11:48:27.371451 queries/join-order-benchmark/29a.sql 15.860341548919678
+0 13 2023-06-08 11:48:27.933802 queries/join-order-benchmark/6b.sql 0.5621867179870605
+0 14 2023-06-08 11:48:28.739817 queries/join-order-benchmark/27c.sql 0.8058087825775146
+0 15 2023-06-08 11:48:30.589291 queries/join-order-benchmark/31a.sql 1.8492908477783203
+0 16 2023-06-08 11:48:31.082200 queries/join-order-benchmark/11c.sql 0.4927241802215576
+0 17 2023-06-08 11:48:32.629555 queries/join-order-benchmark/17a.sql 1.547187089920044
+0 18 2023-06-08 11:48:33.192370 queries/join-order-benchmark/18b.sql 0.562584638595581
+0 19 2023-06-08 11:48:34.128418 queries/join-order-benchmark/12c.sql 0.9358596801757812
+0 20 2023-06-08 11:48:36.993364 queries/join-order-benchmark/17b.sql 2.864720344543457
+0 21 2023-06-08 11:48:37.806820 queries/join-order-benchmark/13b.sql 0.8132357597351074
+0 22 2023-06-08 11:48:40.092755 queries/join-order-benchmark/18a.sql 2.285728693008423
+0 23 2023-06-08 11:48:58.615613 queries/join-order-benchmark/29c.sql 18.52263903617859
+0 24 2023-06-08 11:48:59.067481 queries/join-order-benchmark/1d.sql 0.4515225887298584
+==========================================================================================
+Iteration over chunk 2/19...
+[2023-06-08 11:48:59.067656]	[2/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.061347025207110814
+Epoch 15 training loss: 0.006111718285163599
+Epoch 30 training loss: 0.0025326057437009045
+Stopped training from convergence condition at epoch 35
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 11:49:16.114446]	[2/19]	Retraining done.
+1 0 2023-06-08 11:49:16.567916 queries/join-order-benchmark/1d.sql 0.45313334465026855
+1 1 2023-06-08 11:49:18.026845 queries/join-order-benchmark/16c.sql 1.4587526321411133
+1 2 2023-06-08 11:49:20.324074 queries/join-order-benchmark/17f.sql 2.2970569133758545
+1 3 2023-06-08 11:49:21.226408 queries/join-order-benchmark/8a.sql 0.9020838737487793
+1 4 2023-06-08 11:49:21.957512 queries/join-order-benchmark/2b.sql 0.7309079170227051
+1 5 2023-06-08 11:49:23.955348 queries/join-order-benchmark/28c.sql 1.9976317882537842
+1 6 2023-06-08 11:49:24.854118 queries/join-order-benchmark/15c.sql 0.8985917568206787
+1 7 2023-06-08 11:49:25.248866 queries/join-order-benchmark/32a.sql 0.39458322525024414
+1 8 2023-06-08 11:49:25.712851 queries/join-order-benchmark/15b.sql 0.46382641792297363
+1 9 2023-06-08 11:49:27.381207 queries/join-order-benchmark/20a.sql 1.6681478023529053
+1 10 2023-06-08 11:49:28.251340 queries/join-order-benchmark/9c.sql 0.8699405193328857
+1 11 2023-06-08 11:49:28.952876 queries/join-order-benchmark/2a.sql 0.7013792991638184
+1 12 2023-06-08 11:49:31.923766 queries/join-order-benchmark/26c.sql 2.970682382583618
+1 13 2023-06-08 11:49:32.894453 queries/join-order-benchmark/30b.sql 0.970451831817627
+1 14 2023-06-08 11:49:33.381944 queries/join-order-benchmark/5c.sql 0.4873054027557373
+1 15 2023-06-08 11:49:33.897350 queries/join-order-benchmark/3a.sql 0.5152363777160645
+1 16 2023-06-08 11:49:35.576705 queries/join-order-benchmark/17a.sql 1.6792054176330566
+1 17 2023-06-08 11:49:36.021300 queries/join-order-benchmark/11a.sql 0.4444549083709717
+1 18 2023-06-08 11:49:36.572136 queries/join-order-benchmark/19b.sql 0.5506329536437988
+1 19 2023-06-08 11:49:38.737560 queries/join-order-benchmark/17f.sql 2.165250778198242
+1 20 2023-06-08 11:49:40.104056 queries/join-order-benchmark/16c.sql 1.3663268089294434
+1 21 2023-06-08 11:49:40.597581 queries/join-order-benchmark/8b.sql 0.4933629035949707
+1 22 2023-06-08 11:49:43.637500 queries/join-order-benchmark/6d.sql 3.039745569229126
+1 23 2023-06-08 11:49:44.217999 queries/join-order-benchmark/19b.sql 0.5803165435791016
+1 24 2023-06-08 11:49:44.895322 queries/join-order-benchmark/2c.sql 0.6771888732910156
+==========================================================================================
+Iteration over chunk 3/19...
+[2023-06-08 11:49:44.895503]	[3/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.07815650045975214
+Epoch 15 training loss: 0.005045588778254266
+Epoch 30 training loss: 0.0024309238247547504
+Stopped training from convergence condition at epoch 40
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 11:50:03.607113]	[3/19]	Retraining done.
+2 0 2023-06-08 11:50:04.677709 queries/join-order-benchmark/20c.sql 1.0703392028808594
+2 1 2023-06-08 11:50:05.237374 queries/join-order-benchmark/7b.sql 0.5594682693481445
+2 2 2023-06-08 11:50:06.388073 queries/join-order-benchmark/22d.sql 1.1504971981048584
+2 3 2023-06-08 11:50:08.534961 queries/join-order-benchmark/17e.sql 2.146695852279663
+2 4 2023-06-08 11:50:10.186500 queries/join-order-benchmark/17c.sql 1.6513895988464355
+2 5 2023-06-08 11:50:10.937228 queries/join-order-benchmark/27a.sql 0.7505216598510742
+2 6 2023-06-08 11:50:12.993261 queries/join-order-benchmark/17e.sql 2.0558319091796875
+2 7 2023-06-08 11:50:14.897859 queries/join-order-benchmark/28a.sql 1.9044113159179688
+2 8 2023-06-08 11:50:16.649695 queries/join-order-benchmark/6f.sql 1.7516968250274658
+2 9 2023-06-08 11:50:17.133907 queries/join-order-benchmark/21a.sql 0.48401975631713867
+2 10 2023-06-08 11:50:18.376397 queries/join-order-benchmark/16d.sql 1.2423205375671387
+2 11 2023-06-08 11:50:20.514435 queries/join-order-benchmark/9d.sql 2.137803077697754
+2 12 2023-06-08 11:50:22.497788 queries/join-order-benchmark/25a.sql 1.9831650257110596
+2 13 2023-06-08 11:50:23.763350 queries/join-order-benchmark/13a.sql 1.2654039859771729
+2 14 2023-06-08 11:50:24.235830 queries/join-order-benchmark/11c.sql 0.47231531143188477
+2 15 2023-06-08 11:50:25.006107 queries/join-order-benchmark/13c.sql 0.7700350284576416
+2 16 2023-06-08 11:50:39.820516 queries/join-order-benchmark/29b.sql 14.814218282699585
+2 17 2023-06-08 11:50:40.418826 queries/join-order-benchmark/3c.sql 0.598120927810669
+2 18 2023-06-08 11:50:40.911733 queries/join-order-benchmark/21c.sql 0.4927387237548828
+2 19 2023-06-08 11:50:41.439849 queries/join-order-benchmark/12a.sql 0.5279526710510254
+2 20 2023-06-08 11:50:42.503627 queries/join-order-benchmark/20b.sql 1.0636181831359863
+2 21 2023-06-08 11:50:44.476931 queries/join-order-benchmark/9d.sql 1.9731338024139404
+2 22 2023-06-08 11:50:47.751648 queries/join-order-benchmark/25c.sql 3.2746100425720215
+2 23 2023-06-08 11:50:48.416698 queries/join-order-benchmark/9a.sql 0.6648983955383301
+2 24 2023-06-08 11:50:48.936524 queries/join-order-benchmark/6b.sql 0.5196888446807861
+==========================================================================================
+Iteration over chunk 4/19...
+[2023-06-08 11:50:48.936724]	[4/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.04773743124678731
+Epoch 15 training loss: 0.007213951713454567
+Epoch 30 training loss: 0.004168238089493427
+Stopped training from convergence condition at epoch 32
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 11:51:05.053016]	[4/19]	Retraining done.
+3 0 2023-06-08 11:51:05.609349 queries/join-order-benchmark/10b.sql 0.5560808181762695
+3 1 2023-06-08 11:51:07.341130 queries/join-order-benchmark/31c.sql 1.7315750122070312
+3 2 2023-06-08 11:51:08.338916 queries/join-order-benchmark/30b.sql 0.9975793361663818
+3 3 2023-06-08 11:51:09.728832 queries/join-order-benchmark/26a.sql 1.389719009399414
+3 4 2023-06-08 11:51:12.029271 queries/join-order-benchmark/17f.sql 2.300144672393799
+3 5 2023-06-08 11:51:12.707212 queries/join-order-benchmark/2a.sql 0.6777427196502686
+3 6 2023-06-08 11:51:13.479189 queries/join-order-benchmark/13c.sql 0.771775484085083
+3 7 2023-06-08 11:51:14.137341 queries/join-order-benchmark/22b.sql 0.6579592227935791
+3 8 2023-06-08 11:51:15.355683 queries/join-order-benchmark/22d.sql 1.2181422710418701
+3 9 2023-06-08 11:51:18.100599 queries/join-order-benchmark/8c.sql 2.7447097301483154
+3 10 2023-06-08 11:51:18.509793 queries/join-order-benchmark/6c.sql 0.40896058082580566
+3 11 2023-06-08 11:51:20.711474 queries/join-order-benchmark/17e.sql 2.2014942169189453
+3 12 2023-06-08 11:51:21.506785 queries/join-order-benchmark/24b.sql 0.795166015625
+3 13 2023-06-08 11:51:22.433080 queries/join-order-benchmark/15d.sql 0.9260704517364502
+3 14 2023-06-08 11:51:22.967091 queries/join-order-benchmark/7b.sql 0.533820390701294
+3 15 2023-06-08 11:51:23.375557 queries/join-order-benchmark/6c.sql 0.4082968235015869
+3 16 2023-06-08 11:51:26.209416 queries/join-order-benchmark/18c.sql 2.83369779586792
+3 17 2023-06-08 11:51:26.966606 queries/join-order-benchmark/2a.sql 0.7569596767425537
+3 18 2023-06-08 11:51:29.062587 queries/join-order-benchmark/28c.sql 2.0957822799682617
+3 19 2023-06-08 11:51:29.740277 queries/join-order-benchmark/15a.sql 0.6774790287017822
+3 20 2023-06-08 11:51:31.077033 queries/join-order-benchmark/33c.sql 1.336606502532959
+3 21 2023-06-08 11:51:32.532569 queries/join-order-benchmark/26a.sql 1.4553616046905518
+3 22 2023-06-08 11:51:33.055185 queries/join-order-benchmark/3a.sql 0.522493839263916
+3 23 2023-06-08 11:51:36.177939 queries/join-order-benchmark/25c.sql 3.12257981300354
+3 24 2023-06-08 11:51:36.808250 queries/join-order-benchmark/10a.sql 0.6300551891326904
+==========================================================================================
+Iteration over chunk 5/19...
+[2023-06-08 11:51:36.808436]	[5/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.06511924780206754
+Epoch 15 training loss: 0.004072583359084092
+Epoch 30 training loss: 0.002863988442004484
+Stopped training from convergence condition at epoch 30
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 11:51:53.266023]	[5/19]	Retraining done.
+4 0 2023-06-08 11:51:55.015859 queries/join-order-benchmark/19c.sql 1.7493038177490234
+4 1 2023-06-08 11:51:56.854101 queries/join-order-benchmark/10c.sql 1.8379454612731934
+4 2 2023-06-08 11:51:58.026470 queries/join-order-benchmark/7c.sql 1.1722095012664795
+4 3 2023-06-08 11:51:59.602483 queries/join-order-benchmark/6d.sql 1.5758309364318848
+4 4 2023-06-08 11:52:00.072734 queries/join-order-benchmark/5a.sql 0.47007298469543457
+4 5 2023-06-08 11:52:00.781868 queries/join-order-benchmark/19a.sql 0.7089393138885498
+4 6 2023-06-08 11:52:01.277520 queries/join-order-benchmark/11d.sql 0.4954531192779541
+4 7 2023-06-08 11:52:02.898003 queries/join-order-benchmark/6d.sql 1.6202716827392578
+4 8 2023-06-08 11:52:05.552214 queries/join-order-benchmark/8c.sql 2.6539714336395264
+4 9 2023-06-08 11:52:06.518511 queries/join-order-benchmark/12c.sql 0.9661073684692383
+4 10 2023-06-08 11:52:07.437220 queries/join-order-benchmark/23c.sql 0.9185612201690674
+4 11 2023-06-08 11:52:07.982422 queries/join-order-benchmark/12a.sql 0.5449867248535156
+4 12 2023-06-08 11:52:09.759532 queries/join-order-benchmark/33b.sql 1.7769145965576172
+4 13 2023-06-08 11:52:11.145539 queries/join-order-benchmark/33c.sql 1.385802984237671
+4 14 2023-06-08 11:52:11.840899 queries/join-order-benchmark/14a.sql 0.6951625347137451
+4 15 2023-06-08 11:52:12.448590 queries/join-order-benchmark/23b.sql 0.6074612140655518
+4 16 2023-06-08 11:52:15.430891 queries/join-order-benchmark/26c.sql 2.982104778289795
+4 17 2023-06-08 11:52:17.692781 queries/join-order-benchmark/17e.sql 2.2616822719573975
+4 18 2023-06-08 11:52:18.135645 queries/join-order-benchmark/6c.sql 0.4426605701446533
+4 19 2023-06-08 11:52:18.662850 queries/join-order-benchmark/21c.sql 0.5269930362701416
+4 20 2023-06-08 11:52:20.103250 queries/join-order-benchmark/16c.sql 1.440201759338379
+4 21 2023-06-08 11:52:21.580893 queries/join-order-benchmark/26a.sql 1.4774377346038818
+4 22 2023-06-08 11:52:21.998441 queries/join-order-benchmark/32a.sql 0.4172971248626709
+4 23 2023-06-08 11:52:24.668737 queries/join-order-benchmark/16b.sql 2.670130491256714
+4 24 2023-06-08 11:52:25.241697 queries/join-order-benchmark/19b.sql 0.5727450847625732
+==========================================================================================
+Iteration over chunk 6/19...
+[2023-06-08 11:52:25.241818]	[6/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.077867093791322
+Epoch 15 training loss: 0.006161137810544815
+Epoch 30 training loss: 0.002437722412074303
+Stopped training from convergence condition at epoch 43
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 11:52:49.786010]	[6/19]	Retraining done.
+5 0 2023-06-08 11:52:52.148230 queries/join-order-benchmark/9d.sql 2.36193585395813
+5 1 2023-06-08 11:52:52.897132 queries/join-order-benchmark/2b.sql 0.7486944198608398
+5 2 2023-06-08 11:52:53.618015 queries/join-order-benchmark/22b.sql 0.7207121849060059
+5 3 2023-06-08 11:52:54.278710 queries/join-order-benchmark/25b.sql 0.6604886054992676
+5 4 2023-06-08 11:52:55.923373 queries/join-order-benchmark/13d.sql 1.644482135772705
+5 5 2023-06-08 11:52:57.653649 queries/join-order-benchmark/17a.sql 1.7300589084625244
+5 6 2023-06-08 11:52:58.102707 queries/join-order-benchmark/1a.sql 0.44889140129089355
+5 7 2023-06-08 11:53:00.110459 queries/join-order-benchmark/28a.sql 2.007617712020874
+5 8 2023-06-08 11:53:03.832850 queries/join-order-benchmark/17b.sql 3.722182035446167
+5 9 2023-06-08 11:53:05.191026 queries/join-order-benchmark/16d.sql 1.357971429824829
+5 10 2023-06-08 11:53:05.679257 queries/join-order-benchmark/12b.sql 0.4879767894744873
+5 11 2023-06-08 11:53:21.094191 queries/join-order-benchmark/29c.sql 15.414743423461914
+5 12 2023-06-08 11:53:22.847514 queries/join-order-benchmark/17a.sql 1.753103494644165
+5 13 2023-06-08 11:53:23.591915 queries/join-order-benchmark/7a.sql 0.7442803382873535
+5 14 2023-06-08 11:53:24.140214 queries/join-order-benchmark/6b.sql 0.5481061935424805
+5 15 2023-06-08 11:53:24.608232 queries/join-order-benchmark/12b.sql 0.46784281730651855
+5 16 2023-06-08 11:53:28.343773 queries/join-order-benchmark/17b.sql 3.7353672981262207
+5 17 2023-06-08 11:53:29.170823 queries/join-order-benchmark/2d.sql 0.8268885612487793
+5 18 2023-06-08 11:53:30.404836 queries/join-order-benchmark/16d.sql 1.2338511943817139
+5 19 2023-06-08 11:53:31.061736 queries/join-order-benchmark/14a.sql 0.6567375659942627
+5 20 2023-06-08 11:53:32.066818 queries/join-order-benchmark/8a.sql 1.004894495010376
+5 21 2023-06-08 11:53:32.835083 queries/join-order-benchmark/27b.sql 0.7680888175964355
+5 22 2023-06-08 11:53:33.393796 queries/join-order-benchmark/23b.sql 0.558549165725708
+5 23 2023-06-08 11:53:33.863227 queries/join-order-benchmark/3b.sql 0.46926164627075195
+5 24 2023-06-08 11:53:34.314812 queries/join-order-benchmark/4b.sql 0.4514133930206299
+==========================================================================================
+Iteration over chunk 7/19...
+[2023-06-08 11:53:34.314960]	[7/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.10740075877672711
+Epoch 15 training loss: 0.004254426246747201
+Epoch 30 training loss: 0.0021259106511553358
+Stopped training from convergence condition at epoch 39
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 11:53:56.386211]	[7/19]	Retraining done.
+6 0 2023-06-08 11:53:56.983554 queries/join-order-benchmark/16a.sql 0.5971024036407471
+6 1 2023-06-08 11:53:58.184739 queries/join-order-benchmark/13a.sql 1.2010221481323242
+6 2 2023-06-08 11:53:59.162994 queries/join-order-benchmark/22a.sql 0.9781301021575928
+6 3 2023-06-08 11:53:59.648175 queries/join-order-benchmark/21c.sql 0.4850039482116699
+6 4 2023-06-08 11:54:00.460920 queries/join-order-benchmark/23a.sql 0.8125600814819336
+6 5 2023-06-08 11:54:00.879762 queries/join-order-benchmark/32a.sql 0.4186279773712158
+6 6 2023-06-08 11:54:03.155282 queries/join-order-benchmark/30a.sql 2.2753398418426514
+6 7 2023-06-08 11:54:04.038479 queries/join-order-benchmark/9c.sql 0.8830204010009766
+6 8 2023-06-08 11:54:04.846277 queries/join-order-benchmark/13b.sql 0.8075950145721436
+6 9 2023-06-08 11:54:05.357402 queries/join-order-benchmark/21a.sql 0.510934591293335
+6 10 2023-06-08 11:54:05.839191 queries/join-order-benchmark/1a.sql 0.48160409927368164
+6 11 2023-06-08 11:54:06.429884 queries/join-order-benchmark/6b.sql 0.5905051231384277
+6 12 2023-06-08 11:54:08.221520 queries/join-order-benchmark/17d.sql 1.7913389205932617
+6 13 2023-06-08 11:54:08.745409 queries/join-order-benchmark/16a.sql 0.5237030982971191
+6 14 2023-06-08 11:54:10.335345 queries/join-order-benchmark/22c.sql 1.5897586345672607
+6 15 2023-06-08 11:54:10.825681 queries/join-order-benchmark/21c.sql 0.4901599884033203
+6 16 2023-06-08 11:54:13.035842 queries/join-order-benchmark/18a.sql 2.2099826335906982
+6 17 2023-06-08 11:54:14.787665 queries/join-order-benchmark/17d.sql 1.7515816688537598
+6 18 2023-06-08 11:54:15.958653 queries/join-order-benchmark/7c.sql 1.1708018779754639
+6 19 2023-06-08 11:54:17.532476 queries/join-order-benchmark/22c.sql 1.5736408233642578
+6 20 2023-06-08 11:54:18.108664 queries/join-order-benchmark/6b.sql 0.5760140419006348
+6 21 2023-06-08 11:54:21.170041 queries/join-order-benchmark/26c.sql 3.061251163482666
+6 22 2023-06-08 11:54:21.653625 queries/join-order-benchmark/11c.sql 0.48342347145080566
+6 23 2023-06-08 11:54:23.863176 queries/join-order-benchmark/9d.sql 2.209378957748413
+6 24 2023-06-08 11:54:24.357758 queries/join-order-benchmark/5b.sql 0.4944496154785156
+==========================================================================================
+Iteration over chunk 8/19...
+[2023-06-08 11:54:24.357855]	[8/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.04366566115905615
+Epoch 15 training loss: 0.0034438647906592287
+Epoch 30 training loss: 0.002264289166884158
+Stopped training from convergence condition at epoch 32
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 11:54:42.466608]	[8/19]	Retraining done.
+7 0 2023-06-08 11:54:43.140281 queries/join-order-benchmark/9a.sql 0.6734457015991211
+7 1 2023-06-08 11:54:44.294403 queries/join-order-benchmark/7c.sql 1.153942346572876
+7 2 2023-06-08 11:54:44.808324 queries/join-order-benchmark/5c.sql 0.5137467384338379
+7 3 2023-06-08 11:54:45.284689 queries/join-order-benchmark/15b.sql 0.47618675231933594
+7 4 2023-06-08 11:54:46.200155 queries/join-order-benchmark/23c.sql 0.9152984619140625
+7 5 2023-06-08 11:54:47.441869 queries/join-order-benchmark/16d.sql 1.2415919303894043
+7 6 2023-06-08 11:54:47.929876 queries/join-order-benchmark/21a.sql 0.48780202865600586
+7 7 2023-06-08 11:54:48.406498 queries/join-order-benchmark/11d.sql 0.4764235019683838
+7 8 2023-06-08 11:54:50.113320 queries/join-order-benchmark/20a.sql 1.7066502571105957
+7 9 2023-06-08 11:54:50.989695 queries/join-order-benchmark/9c.sql 0.8762104511260986
+7 10 2023-06-08 11:54:53.088609 queries/join-order-benchmark/17e.sql 2.09873104095459
+7 11 2023-06-08 11:54:53.561387 queries/join-order-benchmark/3b.sql 0.47258830070495605
+7 12 2023-06-08 11:54:54.727357 queries/join-order-benchmark/22d.sql 1.1657626628875732
+7 13 2023-06-08 11:54:55.218042 queries/join-order-benchmark/21c.sql 0.4905111789703369
+7 14 2023-06-08 11:54:56.860764 queries/join-order-benchmark/8d.sql 1.6425368785858154
+7 15 2023-06-08 11:54:59.060146 queries/join-order-benchmark/9d.sql 2.1992008686065674
+7 16 2023-06-08 11:55:02.248106 queries/join-order-benchmark/26c.sql 3.1877799034118652
+7 17 2023-06-08 11:55:04.067505 queries/join-order-benchmark/31c.sql 1.81925368309021
+7 18 2023-06-08 11:55:04.742941 queries/join-order-benchmark/15a.sql 0.6752309799194336
+7 19 2023-06-08 11:55:07.346663 queries/join-order-benchmark/18c.sql 2.6035244464874268
+7 20 2023-06-08 11:55:08.026960 queries/join-order-benchmark/9a.sql 0.6801142692565918
+7 21 2023-06-08 11:55:08.816910 queries/join-order-benchmark/27c.sql 0.7897763252258301
+7 22 2023-06-08 11:55:09.556181 queries/join-order-benchmark/26b.sql 0.7390141487121582
+7 23 2023-06-08 11:55:11.468584 queries/join-order-benchmark/33a.sql 1.9122400283813477
+7 24 2023-06-08 11:55:11.946185 queries/join-order-benchmark/11d.sql 0.47750043869018555
+==========================================================================================
+Iteration over chunk 9/19...
+[2023-06-08 11:55:11.946268]	[9/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.07092675894660794
+Epoch 15 training loss: 0.005228355658524062
+Epoch 30 training loss: 0.0026012851765541277
+Stopped training from convergence condition at epoch 37
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 11:55:35.268376]	[9/19]	Retraining done.
+8 0 2023-06-08 11:55:37.268747 queries/join-order-benchmark/28a.sql 2.0001235008239746
+8 1 2023-06-08 11:55:38.051423 queries/join-order-benchmark/24b.sql 0.7824463844299316
+8 2 2023-06-08 11:55:38.492819 queries/join-order-benchmark/6a.sql 0.4412076473236084
+8 3 2023-06-08 11:55:39.156822 queries/join-order-benchmark/15a.sql 0.6638247966766357
+8 4 2023-06-08 11:55:40.786572 queries/join-order-benchmark/8d.sql 1.6295397281646729
+8 5 2023-06-08 11:55:41.720595 queries/join-order-benchmark/12c.sql 0.9338912963867188
+8 6 2023-06-08 11:55:42.720996 queries/join-order-benchmark/15d.sql 1.0002107620239258
+8 7 2023-06-08 11:55:44.480651 queries/join-order-benchmark/28b.sql 1.7595086097717285
+8 8 2023-06-08 11:55:46.807549 queries/join-order-benchmark/30a.sql 2.326695442199707
+8 9 2023-06-08 11:55:50.508188 queries/join-order-benchmark/17b.sql 3.7004737854003906
+8 10 2023-06-08 11:55:52.121973 queries/join-order-benchmark/13d.sql 1.6136231422424316
+8 11 2023-06-08 11:55:52.556546 queries/join-order-benchmark/6e.sql 0.43439817428588867
+8 12 2023-06-08 11:55:54.265067 queries/join-order-benchmark/17c.sql 1.708315134048462
+8 13 2023-06-08 11:55:56.068145 queries/join-order-benchmark/28b.sql 1.8029236793518066
+8 14 2023-06-08 11:56:11.175023 queries/join-order-benchmark/29a.sql 15.106694459915161
+8 15 2023-06-08 11:56:11.706394 queries/join-order-benchmark/21c.sql 0.531132698059082
+8 16 2023-06-08 11:56:12.511775 queries/join-order-benchmark/27c.sql 0.8051962852478027
+8 17 2023-06-08 11:56:15.710336 queries/join-order-benchmark/25c.sql 3.1983840465545654
+8 18 2023-06-08 11:56:16.670211 queries/join-order-benchmark/8a.sql 0.9596266746520996
+8 19 2023-06-08 11:56:18.084903 queries/join-order-benchmark/16c.sql 1.4145455360412598
+8 20 2023-06-08 11:56:18.891606 queries/join-order-benchmark/31b.sql 0.8064699172973633
+8 21 2023-06-08 11:56:22.675059 queries/join-order-benchmark/17b.sql 3.783278465270996
+8 22 2023-06-08 11:56:23.719938 queries/join-order-benchmark/20c.sql 1.0446436405181885
+8 23 2023-06-08 11:56:24.525490 queries/join-order-benchmark/2d.sql 0.8054006099700928
+8 24 2023-06-08 11:56:27.268121 queries/join-order-benchmark/18c.sql 2.7425200939178467
+==========================================================================================
+Iteration over chunk 10/19...
+[2023-06-08 11:56:27.268271]	[10/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.05216240807575114
+Epoch 15 training loss: 0.004337934081125608
+Stopped training from convergence condition at epoch 28
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 11:56:45.892125]	[10/19]	Retraining done.
+9 0 2023-06-08 11:56:46.478798 queries/join-order-benchmark/19b.sql 0.5863907337188721
+9 1 2023-06-08 11:56:48.399356 queries/join-order-benchmark/33a.sql 1.9203829765319824
+9 2 2023-06-08 11:56:48.863659 queries/join-order-benchmark/12b.sql 0.46413755416870117
+9 3 2023-06-08 11:56:49.999725 queries/join-order-benchmark/22d.sql 1.1358792781829834
+9 4 2023-06-08 11:56:52.336881 queries/join-order-benchmark/9d.sql 2.3369362354278564
+9 5 2023-06-08 11:56:54.473722 queries/join-order-benchmark/9d.sql 2.1366219520568848
+9 6 2023-06-08 11:56:54.929689 queries/join-order-benchmark/12b.sql 0.4557182788848877
+9 7 2023-06-08 11:56:56.293989 queries/join-order-benchmark/16d.sql 1.3640930652618408
+9 8 2023-06-08 11:56:58.540643 queries/join-order-benchmark/17e.sql 2.24645733833313
+9 9 2023-06-08 11:56:59.502396 queries/join-order-benchmark/8a.sql 0.9615392684936523
+9 10 2023-06-08 11:57:01.131168 queries/join-order-benchmark/6d.sql 1.628589391708374
+9 11 2023-06-08 11:57:02.690685 queries/join-order-benchmark/6d.sql 1.5593616962432861
+9 12 2023-06-08 11:57:03.127436 queries/join-order-benchmark/1d.sql 0.4366123676300049
+9 13 2023-06-08 11:57:03.770053 queries/join-order-benchmark/15a.sql 0.6424438953399658
+9 14 2023-06-08 11:57:04.285213 queries/join-order-benchmark/5b.sql 0.5149903297424316
+9 15 2023-06-08 11:57:06.159604 queries/join-order-benchmark/31a.sql 1.8742194175720215
+9 16 2023-06-08 11:57:20.985782 queries/join-order-benchmark/29a.sql 14.825990438461304
+9 17 2023-06-08 11:57:21.916849 queries/join-order-benchmark/9c.sql 0.9308261871337891
+9 18 2023-06-08 11:57:22.622958 queries/join-order-benchmark/2b.sql 0.7059688568115234
+9 19 2023-06-08 11:57:23.241121 queries/join-order-benchmark/10a.sql 0.6179933547973633
+9 20 2023-06-08 11:57:23.713990 queries/join-order-benchmark/4c.sql 0.472700834274292
+9 21 2023-06-08 11:57:26.298903 queries/join-order-benchmark/18c.sql 2.5847551822662354
+9 22 2023-06-08 11:57:27.002854 queries/join-order-benchmark/2c.sql 0.7037909030914307
+9 23 2023-06-08 11:57:27.483199 queries/join-order-benchmark/8b.sql 0.48021721839904785
+9 24 2023-06-08 11:57:28.000304 queries/join-order-benchmark/14b.sql 0.5169374942779541
+==========================================================================================
+Iteration over chunk 11/19...
+[2023-06-08 11:57:28.000462]	[11/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.04751235661001838
+Epoch 15 training loss: 0.0028603841510259223
+Epoch 30 training loss: 0.0020926901458867123
+Stopped training from convergence condition at epoch 34
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 11:57:52.408096]	[11/19]	Retraining done.
+10 0 2023-06-08 11:57:54.003755 queries/join-order-benchmark/13d.sql 1.5953402519226074
+10 1 2023-06-08 11:57:54.723939 queries/join-order-benchmark/13c.sql 0.7199718952178955
+10 2 2023-06-08 11:57:57.866841 queries/join-order-benchmark/26c.sql 3.142711877822876
+10 3 2023-06-08 11:58:00.279428 queries/join-order-benchmark/17f.sql 2.4123787879943848
+10 4 2023-06-08 11:58:02.415557 queries/join-order-benchmark/28c.sql 2.135956287384033
+10 5 2023-06-08 11:58:04.242763 queries/join-order-benchmark/31c.sql 1.8270409107208252
+10 6 2023-06-08 11:58:05.639920 queries/join-order-benchmark/16c.sql 1.3969781398773193
+10 7 2023-06-08 11:58:20.982184 queries/join-order-benchmark/29c.sql 15.342094898223877
+10 8 2023-06-08 11:58:23.142168 queries/join-order-benchmark/17e.sql 2.1597652435302734
+10 9 2023-06-08 11:58:24.124136 queries/join-order-benchmark/24a.sql 0.9817795753479004
+10 10 2023-06-08 11:58:24.841583 queries/join-order-benchmark/7a.sql 0.7172141075134277
+10 11 2023-06-08 11:58:25.381862 queries/join-order-benchmark/5c.sql 0.5401144027709961
+10 12 2023-06-08 11:58:26.662252 queries/join-order-benchmark/13a.sql 1.280217170715332
+10 13 2023-06-08 11:58:27.138583 queries/join-order-benchmark/21c.sql 0.47620344161987305
+10 14 2023-06-08 11:58:29.397653 queries/join-order-benchmark/18a.sql 2.2589006423950195
+10 15 2023-06-08 11:58:30.034277 queries/join-order-benchmark/10a.sql 0.6364078521728516
+10 16 2023-06-08 11:58:30.543175 queries/join-order-benchmark/3a.sql 0.5087137222290039
+10 17 2023-06-08 11:58:45.986899 queries/join-order-benchmark/29c.sql 15.443533420562744
+10 18 2023-06-08 11:58:48.054975 queries/join-order-benchmark/17e.sql 2.0678555965423584
+10 19 2023-06-08 11:58:48.505161 queries/join-order-benchmark/32b.sql 0.4499795436859131
+10 20 2023-06-08 11:58:51.477569 queries/join-order-benchmark/26c.sql 2.9722275733947754
+10 21 2023-06-08 11:58:52.441729 queries/join-order-benchmark/22a.sql 0.9638431072235107
+10 22 2023-06-08 11:58:52.965884 queries/join-order-benchmark/10b.sql 0.5239472389221191
+10 23 2023-06-08 11:58:53.418270 queries/join-order-benchmark/12b.sql 0.45214128494262695
+10 24 2023-06-08 11:58:56.245857 queries/join-order-benchmark/6d.sql 2.8273754119873047
+==========================================================================================
+Iteration over chunk 12/19...
+[2023-06-08 11:58:56.246055]	[12/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.03957728781582167
+Epoch 15 training loss: 0.003180474071425623
+Stopped training from convergence condition at epoch 22
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 11:59:10.754126]	[12/19]	Retraining done.
+11 0 2023-06-08 11:59:11.466335 queries/join-order-benchmark/7a.sql 0.7118401527404785
+11 1 2023-06-08 11:59:12.227675 queries/join-order-benchmark/26b.sql 0.7611281871795654
+11 2 2023-06-08 11:59:12.684303 queries/join-order-benchmark/5b.sql 0.45641589164733887
+11 3 2023-06-08 11:59:13.441796 queries/join-order-benchmark/27c.sql 0.7572751045227051
+11 4 2023-06-08 11:59:14.281776 queries/join-order-benchmark/14c.sql 0.8397641181945801
+11 5 2023-06-08 11:59:14.888438 queries/join-order-benchmark/14a.sql 0.6064131259918213
+11 6 2023-06-08 11:59:15.557633 queries/join-order-benchmark/19a.sql 0.6689949035644531
+11 7 2023-06-08 11:59:18.335842 queries/join-order-benchmark/6f.sql 2.7779862880706787
+11 8 2023-06-08 11:59:18.915463 queries/join-order-benchmark/3c.sql 0.5794243812561035
+11 9 2023-06-08 11:59:19.448105 queries/join-order-benchmark/6b.sql 0.5324435234069824
+11 10 2023-06-08 11:59:22.171650 queries/join-order-benchmark/6f.sql 2.7233548164367676
+11 11 2023-06-08 11:59:23.537286 queries/join-order-benchmark/16c.sql 1.3654532432556152
+11 12 2023-06-08 11:59:27.088337 queries/join-order-benchmark/17d.sql 3.5508763790130615
+11 13 2023-06-08 11:59:27.887281 queries/join-order-benchmark/13b.sql 0.7987020015716553
+11 14 2023-06-08 11:59:28.350862 queries/join-order-benchmark/3b.sql 0.4633824825286865
+11 15 2023-06-08 11:59:31.106023 queries/join-order-benchmark/6d.sql 2.754955768585205
+11 16 2023-06-08 11:59:31.587918 queries/join-order-benchmark/21a.sql 0.48169875144958496
+11 17 2023-06-08 11:59:46.506824 queries/join-order-benchmark/29b.sql 14.918708562850952
+11 18 2023-06-08 11:59:47.155705 queries/join-order-benchmark/15a.sql 0.6486279964447021
+11 19 2023-06-08 11:59:48.098645 queries/join-order-benchmark/8a.sql 0.9427483081817627
+11 20 2023-06-08 11:59:48.626439 queries/join-order-benchmark/6b.sql 0.5276002883911133
+11 21 2023-06-08 11:59:49.687071 queries/join-order-benchmark/9b.sql 1.0604543685913086
+11 22 2023-06-08 11:59:50.165498 queries/join-order-benchmark/4b.sql 0.47823119163513184
+11 23 2023-06-08 11:59:52.953555 queries/join-order-benchmark/6d.sql 2.7878007888793945
+11 24 2023-06-08 11:59:54.599917 queries/join-order-benchmark/10c.sql 1.6461563110351562
+==========================================================================================
+Iteration over chunk 13/19...
+[2023-06-08 11:59:54.600097]	[13/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.06940885864269848
+Epoch 15 training loss: 0.003773020757272696
+Epoch 30 training loss: 0.0034348327289290656
+Stopped training from convergence condition at epoch 31
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 12:00:15.812432]	[13/19]	Retraining done.
+12 0 2023-06-08 12:00:16.329026 queries/join-order-benchmark/32b.sql 0.5163612365722656
+12 1 2023-06-08 12:00:19.522077 queries/join-order-benchmark/19d.sql 3.1928272247314453
+12 2 2023-06-08 12:00:20.498034 queries/join-order-benchmark/8a.sql 0.9757819175720215
+12 3 2023-06-08 12:00:21.052234 queries/join-order-benchmark/4a.sql 0.5540201663970947
+12 4 2023-06-08 12:00:21.642624 queries/join-order-benchmark/6b.sql 0.5902237892150879
+12 5 2023-06-08 12:00:22.165528 queries/join-order-benchmark/4b.sql 0.5227181911468506
+12 6 2023-06-08 12:00:27.078094 queries/join-order-benchmark/17f.sql 4.912262201309204
+12 7 2023-06-08 12:00:27.577446 queries/join-order-benchmark/3b.sql 0.4991283416748047
+12 8 2023-06-08 12:00:28.394912 queries/join-order-benchmark/13c.sql 0.8172481060028076
+12 9 2023-06-08 12:00:28.783220 queries/join-order-benchmark/6c.sql 0.3881402015686035
+12 10 2023-06-08 12:00:29.306161 queries/join-order-benchmark/6b.sql 0.5227828025817871
+12 11 2023-06-08 12:00:35.157480 queries/join-order-benchmark/17a.sql 5.851149559020996
+12 12 2023-06-08 12:00:35.636693 queries/join-order-benchmark/4c.sql 0.47898292541503906
+12 13 2023-06-08 12:00:36.455228 queries/join-order-benchmark/23a.sql 0.8183565139770508
+12 14 2023-06-08 12:00:37.133401 queries/join-order-benchmark/19a.sql 0.6779923439025879
+12 15 2023-06-08 12:00:37.755208 queries/join-order-benchmark/3c.sql 0.6216099262237549
+12 16 2023-06-08 12:00:43.352831 queries/join-order-benchmark/17a.sql 5.597427129745483
+12 17 2023-06-08 12:00:45.062905 queries/join-order-benchmark/10c.sql 1.709937572479248
+12 18 2023-06-08 12:00:45.592728 queries/join-order-benchmark/16a.sql 0.5296306610107422
+12 19 2023-06-08 12:00:48.674340 queries/join-order-benchmark/19d.sql 3.081456422805786
+12 20 2023-06-08 12:00:49.235531 queries/join-order-benchmark/6b.sql 0.5610089302062988
+12 21 2023-06-08 12:00:49.875247 queries/join-order-benchmark/9a.sql 0.6395366191864014
+12 22 2023-06-08 12:00:52.190704 queries/join-order-benchmark/18a.sql 2.315243721008301
+12 23 2023-06-08 12:00:52.927456 queries/join-order-benchmark/2a.sql 0.7365622520446777
+12 24 2023-06-08 12:00:53.405329 queries/join-order-benchmark/21a.sql 0.47768688201904297
+==========================================================================================
+Iteration over chunk 14/19...
+[2023-06-08 12:00:53.405495]	[14/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.04773178015387169
+Epoch 15 training loss: 0.0032766667880221373
+Epoch 30 training loss: 0.0017796847791436852
+Stopped training from convergence condition at epoch 33
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 12:01:16.427175]	[14/19]	Retraining done.
+13 0 2023-06-08 12:01:17.526858 queries/join-order-benchmark/9b.sql 1.0994653701782227
+13 1 2023-06-08 12:01:18.894697 queries/join-order-benchmark/26a.sql 1.3676095008850098
+13 2 2023-06-08 12:01:19.402687 queries/join-order-benchmark/8b.sql 0.5078117847442627
+13 3 2023-06-08 12:01:20.891520 queries/join-order-benchmark/13d.sql 1.4886455535888672
+13 4 2023-06-08 12:01:21.552177 queries/join-order-benchmark/9a.sql 0.6604912281036377
+13 5 2023-06-08 12:01:22.476066 queries/join-order-benchmark/15d.sql 0.9237141609191895
+13 6 2023-06-08 12:01:24.188421 queries/join-order-benchmark/8d.sql 1.7121710777282715
+13 7 2023-06-08 12:01:26.318692 queries/join-order-benchmark/17e.sql 2.1300723552703857
+13 8 2023-06-08 12:01:27.088623 queries/join-order-benchmark/13c.sql 0.7697622776031494
+13 9 2023-06-08 12:01:27.757018 queries/join-order-benchmark/22b.sql 0.6682806015014648
+13 10 2023-06-08 12:01:28.173968 queries/join-order-benchmark/32a.sql 0.41680002212524414
+13 11 2023-06-08 12:01:28.741311 queries/join-order-benchmark/19b.sql 0.5672001838684082
+13 12 2023-06-08 12:01:30.854257 queries/join-order-benchmark/28c.sql 2.112767219543457
+13 13 2023-06-08 12:01:32.775885 queries/join-order-benchmark/25a.sql 1.9214262962341309
+13 14 2023-06-08 12:01:33.921675 queries/join-order-benchmark/20b.sql 1.1456208229064941
+13 15 2023-06-08 12:01:34.701829 queries/join-order-benchmark/27c.sql 0.7800300121307373
+13 16 2023-06-08 12:01:36.559869 queries/join-order-benchmark/17d.sql 1.8578920364379883
+13 17 2023-06-08 12:01:37.344257 queries/join-order-benchmark/31b.sql 0.7842686176300049
+13 18 2023-06-08 12:01:37.966796 queries/join-order-benchmark/10a.sql 0.6223998069763184
+13 19 2023-06-08 12:01:39.142074 queries/join-order-benchmark/7c.sql 1.1750984191894531
+13 20 2023-06-08 12:01:40.643016 queries/join-order-benchmark/26a.sql 1.500756025314331
+13 21 2023-06-08 12:01:42.422905 queries/join-order-benchmark/31c.sql 1.7797017097473145
+13 22 2023-06-08 12:01:42.902163 queries/join-order-benchmark/32b.sql 0.4790797233581543
+13 23 2023-06-08 12:01:43.758805 queries/join-order-benchmark/2d.sql 0.8564445972442627
+13 24 2023-06-08 12:01:44.220553 queries/join-order-benchmark/1d.sql 0.4615767002105713
+==========================================================================================
+Iteration over chunk 15/19...
+[2023-06-08 12:01:44.220654]	[15/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.05839417712254958
+Epoch 15 training loss: 0.004128824106671593
+Epoch 30 training loss: 0.002046925874045965
+Stopped training from convergence condition at epoch 41
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 12:02:13.296687]	[15/19]	Retraining done.
+14 0 2023-06-08 12:02:13.861156 queries/join-order-benchmark/12a.sql 0.5642437934875488
+14 1 2023-06-08 12:02:14.687341 queries/join-order-benchmark/2d.sql 0.8259866237640381
+14 2 2023-06-08 12:02:17.956453 queries/join-order-benchmark/19d.sql 3.2689409255981445
+14 3 2023-06-08 12:02:18.559706 queries/join-order-benchmark/19b.sql 0.6031231880187988
+14 4 2023-06-08 12:02:19.055446 queries/join-order-benchmark/5c.sql 0.4955611228942871
+14 5 2023-06-08 12:02:20.983591 queries/join-order-benchmark/31c.sql 1.9279634952545166
+14 6 2023-06-08 12:02:23.686386 queries/join-order-benchmark/18c.sql 2.70257306098938
+14 7 2023-06-08 12:02:24.381169 queries/join-order-benchmark/19a.sql 0.6946103572845459
+14 8 2023-06-08 12:02:24.906101 queries/join-order-benchmark/21b.sql 0.5247361660003662
+14 9 2023-06-08 12:02:25.409537 queries/join-order-benchmark/21a.sql 0.5032353401184082
+14 10 2023-06-08 12:02:28.110970 queries/join-order-benchmark/18c.sql 2.7012760639190674
+14 11 2023-06-08 12:02:28.717267 queries/join-order-benchmark/14a.sql 0.6061363220214844
+14 12 2023-06-08 12:02:29.194762 queries/join-order-benchmark/21c.sql 0.47732019424438477
+14 13 2023-06-08 12:02:29.696081 queries/join-order-benchmark/8b.sql 0.501152753829956
+14 14 2023-06-08 12:02:31.908573 queries/join-order-benchmark/30a.sql 2.2123239040374756
+14 15 2023-06-08 12:02:32.588931 queries/join-order-benchmark/7a.sql 0.680192232131958
+14 16 2023-06-08 12:02:47.522675 queries/join-order-benchmark/29a.sql 14.933515787124634
+14 17 2023-06-08 12:02:48.236043 queries/join-order-benchmark/19a.sql 0.713167667388916
+14 18 2023-06-08 12:02:48.965410 queries/join-order-benchmark/26b.sql 0.7291886806488037
+14 19 2023-06-08 12:02:49.617813 queries/join-order-benchmark/10a.sql 0.6521704196929932
+14 20 2023-06-08 12:02:50.175375 queries/join-order-benchmark/18b.sql 0.5573954582214355
+14 21 2023-06-08 12:02:51.153992 queries/join-order-benchmark/22a.sql 0.9784488677978516
+14 22 2023-06-08 12:02:51.917833 queries/join-order-benchmark/27c.sql 0.7636516094207764
+14 23 2023-06-08 12:02:52.609169 queries/join-order-benchmark/2b.sql 0.6911687850952148
+14 24 2023-06-08 12:02:53.404036 queries/join-order-benchmark/23a.sql 0.79469895362854
+==========================================================================================
+Iteration over chunk 16/19...
+[2023-06-08 12:02:53.404194]	[16/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.047633041023162376
+Epoch 15 training loss: 0.004153127050876879
+Epoch 30 training loss: 0.0016127561368129886
+Stopped training from convergence condition at epoch 32
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 12:03:17.762359]	[16/19]	Retraining done.
+15 0 2023-06-08 12:03:18.469167 queries/join-order-benchmark/22b.sql 0.7066035270690918
+15 1 2023-06-08 12:03:19.706602 queries/join-order-benchmark/16d.sql 1.2372546195983887
+15 2 2023-06-08 12:03:20.353776 queries/join-order-benchmark/23b.sql 0.6470038890838623
+15 3 2023-06-08 12:03:22.247948 queries/join-order-benchmark/6f.sql 1.8939316272735596
+15 4 2023-06-08 12:03:22.830773 queries/join-order-benchmark/3c.sql 0.5826492309570312
+15 5 2023-06-08 12:03:23.797781 queries/join-order-benchmark/15c.sql 0.966860294342041
+15 6 2023-06-08 12:03:24.751063 queries/join-order-benchmark/12c.sql 0.9531702995300293
+15 7 2023-06-08 12:03:25.374762 queries/join-order-benchmark/25b.sql 0.6235389709472656
+15 8 2023-06-08 12:03:40.434386 queries/join-order-benchmark/29c.sql 15.059462785720825
+15 9 2023-06-08 12:03:43.449395 queries/join-order-benchmark/19d.sql 3.0148251056671143
+15 10 2023-06-08 12:03:43.988517 queries/join-order-benchmark/4c.sql 0.5389833450317383
+15 11 2023-06-08 12:03:45.817864 queries/join-order-benchmark/33a.sql 1.8291561603546143
+15 12 2023-06-08 12:03:48.406166 queries/join-order-benchmark/30a.sql 2.588127613067627
+15 13 2023-06-08 12:03:50.119291 queries/join-order-benchmark/17a.sql 1.7129490375518799
+15 14 2023-06-08 12:03:52.738584 queries/join-order-benchmark/16b.sql 2.619119644165039
+15 15 2023-06-08 12:03:54.543588 queries/join-order-benchmark/10c.sql 1.8048069477081299
+15 16 2023-06-08 12:03:56.258014 queries/join-order-benchmark/17c.sql 1.714257001876831
+15 17 2023-06-08 12:03:56.880878 queries/join-order-benchmark/23b.sql 0.6226780414581299
+15 18 2023-06-08 12:03:57.341326 queries/join-order-benchmark/6a.sql 0.46027326583862305
+15 19 2023-06-08 12:03:57.841245 queries/join-order-benchmark/12b.sql 0.4997227191925049
+15 20 2023-06-08 12:03:58.348467 queries/join-order-benchmark/21b.sql 0.5070624351501465
+15 21 2023-06-08 12:04:13.631228 queries/join-order-benchmark/29c.sql 15.282596349716187
+15 22 2023-06-08 12:04:14.187677 queries/join-order-benchmark/16a.sql 0.5562169551849365
+15 23 2023-06-08 12:04:16.264456 queries/join-order-benchmark/30c.sql 2.0766148567199707
+15 24 2023-06-08 12:04:17.290657 queries/join-order-benchmark/24a.sql 1.0260207653045654
+==========================================================================================
+Iteration over chunk 17/19...
+[2023-06-08 12:04:17.290760]	[17/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.03844449906770525
+Epoch 15 training loss: 0.0024833900398366026
+Stopped training from convergence condition at epoch 29
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 12:04:39.024983]	[17/19]	Retraining done.
+16 0 2023-06-08 12:04:40.727962 queries/join-order-benchmark/17c.sql 1.7027082443237305
+16 1 2023-06-08 12:04:41.396563 queries/join-order-benchmark/2c.sql 0.6684253215789795
+16 2 2023-06-08 12:04:42.048173 queries/join-order-benchmark/10a.sql 0.651442289352417
+16 3 2023-06-08 12:04:43.902534 queries/join-order-benchmark/33a.sql 1.8541765213012695
+16 4 2023-06-08 12:04:44.461727 queries/join-order-benchmark/3a.sql 0.559004545211792
+16 5 2023-06-08 12:04:45.288633 queries/join-order-benchmark/13c.sql 0.8267135620117188
+16 6 2023-06-08 12:04:46.280690 queries/join-order-benchmark/22a.sql 0.9918546676635742
+16 7 2023-06-08 12:04:47.200086 queries/join-order-benchmark/15c.sql 0.9191679954528809
+16 8 2023-06-08 12:04:48.876853 queries/join-order-benchmark/8d.sql 1.6766107082366943
+16 9 2023-06-08 12:04:49.486824 queries/join-order-benchmark/25b.sql 0.6098291873931885
+16 10 2023-06-08 12:04:49.982904 queries/join-order-benchmark/11c.sql 0.49591565132141113
+16 11 2023-06-08 12:04:51.805092 queries/join-order-benchmark/17d.sql 1.821990966796875
+16 12 2023-06-08 12:04:52.294674 queries/join-order-benchmark/5c.sql 0.4893918037414551
+16 13 2023-06-08 12:04:53.454419 queries/join-order-benchmark/22d.sql 1.1595618724822998
+16 14 2023-06-08 12:04:53.931137 queries/join-order-benchmark/4a.sql 0.47653913497924805
+16 15 2023-06-08 12:04:54.756474 queries/join-order-benchmark/2d.sql 0.8251528739929199
+16 16 2023-06-08 12:04:55.674413 queries/join-order-benchmark/9c.sql 0.9177730083465576
+16 17 2023-06-08 12:04:57.545187 queries/join-order-benchmark/28b.sql 1.8705813884735107
+16 18 2023-06-08 12:05:00.304626 queries/join-order-benchmark/8c.sql 2.7592694759368896
+16 19 2023-06-08 12:05:00.717495 queries/join-order-benchmark/6e.sql 0.41275930404663086
+16 20 2023-06-08 12:05:15.336820 queries/join-order-benchmark/29a.sql 14.619213104248047
+16 21 2023-06-08 12:05:17.544616 queries/join-order-benchmark/31c.sql 2.2076070308685303
+16 22 2023-06-08 12:05:19.526728 queries/join-order-benchmark/25a.sql 1.9820008277893066
+16 23 2023-06-08 12:05:20.043165 queries/join-order-benchmark/5a.sql 0.5162777900695801
+16 24 2023-06-08 12:05:20.776022 queries/join-order-benchmark/26b.sql 0.7326743602752686
+==========================================================================================
+Iteration over chunk 18/19...
+[2023-06-08 12:05:20.776174]	[18/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.050986569530020155
+Epoch 15 training loss: 0.0027384714514482765
+Epoch 30 training loss: 0.00163630233243263
+Stopped training from convergence condition at epoch 40
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 12:05:51.150358]	[18/19]	Retraining done.
+17 0 2023-06-08 12:05:53.014136 queries/join-order-benchmark/6f.sql 1.863537073135376
+17 1 2023-06-08 12:05:54.863105 queries/join-order-benchmark/33a.sql 1.8487894535064697
+17 2 2023-06-08 12:05:55.444675 queries/join-order-benchmark/23b.sql 0.5813918113708496
+17 3 2023-06-08 12:05:57.501945 queries/join-order-benchmark/17e.sql 2.0571186542510986
+17 4 2023-06-08 12:06:02.300088 queries/join-order-benchmark/17c.sql 4.798023223876953
+17 5 2023-06-08 12:06:03.008566 queries/join-order-benchmark/2a.sql 0.7083146572113037
+17 6 2023-06-08 12:06:04.412873 queries/join-order-benchmark/33c.sql 1.4041407108306885
+17 7 2023-06-08 12:06:05.865620 queries/join-order-benchmark/25b.sql 1.4525654315948486
+17 8 2023-06-08 12:06:20.763905 queries/join-order-benchmark/29b.sql 14.898119688034058
+17 9 2023-06-08 12:06:23.101707 queries/join-order-benchmark/18a.sql 2.3375444412231445
+17 10 2023-06-08 12:06:23.570630 queries/join-order-benchmark/12b.sql 0.4687070846557617
+17 11 2023-06-08 12:06:24.121809 queries/join-order-benchmark/18b.sql 0.5509588718414307
+17 12 2023-06-08 12:06:26.502287 queries/join-order-benchmark/17f.sql 2.380249261856079
+17 13 2023-06-08 12:06:28.986849 queries/join-order-benchmark/19c.sql 2.4843640327453613
+17 14 2023-06-08 12:06:30.505552 queries/join-order-benchmark/26b.sql 1.5185623168945312
+17 15 2023-06-08 12:06:31.143075 queries/join-order-benchmark/14b.sql 0.6373443603515625
+17 16 2023-06-08 12:06:35.172623 queries/join-order-benchmark/17b.sql 4.0293707847595215
+17 17 2023-06-08 12:06:37.768029 queries/join-order-benchmark/30c.sql 2.5951733589172363
+17 18 2023-06-08 12:06:39.685238 queries/join-order-benchmark/31a.sql 1.9169790744781494
+17 19 2023-06-08 12:06:40.213454 queries/join-order-benchmark/12a.sql 0.5280158519744873
+17 20 2023-06-08 12:06:40.793504 queries/join-order-benchmark/21b.sql 0.5798869132995605
+17 21 2023-06-08 12:06:41.499740 queries/join-order-benchmark/26b.sql 0.7060794830322266
+17 22 2023-06-08 12:06:41.981037 queries/join-order-benchmark/21b.sql 0.48113441467285156
+17 23 2023-06-08 12:06:43.364956 queries/join-order-benchmark/16c.sql 1.3837175369262695
+17 24 2023-06-08 12:06:43.864493 queries/join-order-benchmark/21c.sql 0.4993300437927246
+==========================================================================================
+Iteration over chunk 19/19...
+[2023-06-08 12:06:43.864640]	[19/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.04612750459279193
+Epoch 15 training loss: 0.0039819430036958856
+Epoch 30 training loss: 0.0016025474894272743
+Stopped training from convergence condition at epoch 34
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 12:07:12.618127]	[19/19]	Retraining done.
+18 0 2023-06-08 12:07:13.388174 queries/join-order-benchmark/7a.sql 0.7697758674621582
+18 1 2023-06-08 12:07:15.306891 queries/join-order-benchmark/28a.sql 1.9185538291931152
+18 2 2023-06-08 12:07:17.429757 queries/join-order-benchmark/30c.sql 2.122696876525879
+18 3 2023-06-08 12:07:18.215074 queries/join-order-benchmark/6a.sql 0.7850897312164307
+18 4 2023-06-08 12:07:19.651341 queries/join-order-benchmark/33c.sql 1.436110019683838
+18 5 2023-06-08 12:07:21.306049 queries/join-order-benchmark/20a.sql 1.654557704925537
+18 6 2023-06-08 12:07:22.275382 queries/join-order-benchmark/10a.sql 0.9691684246063232
+18 7 2023-06-08 12:07:22.692541 queries/join-order-benchmark/1b.sql 0.4169931411743164
+18 8 2023-06-08 12:07:24.453635 queries/join-order-benchmark/33b.sql 1.7609364986419678
+18 9 2023-06-08 12:07:24.867263 queries/join-order-benchmark/6a.sql 0.4134860038757324
+18 10 2023-06-08 12:07:27.519951 queries/join-order-benchmark/8c.sql 2.6525251865386963
+18 11 2023-06-08 12:07:28.022906 queries/join-order-benchmark/21c.sql 0.5027298927307129
+18 12 2023-06-08 12:07:29.909447 queries/join-order-benchmark/33a.sql 1.8863651752471924
+18 13 2023-06-08 12:07:30.630615 queries/join-order-benchmark/26b.sql 0.7210009098052979
+18 14 2023-06-08 12:07:32.752104 queries/join-order-benchmark/28c.sql 2.1213300228118896
+18 15 2023-06-08 12:07:34.056068 queries/join-order-benchmark/16d.sql 1.3037824630737305
+18 16 2023-06-08 12:07:35.282140 queries/join-order-benchmark/16d.sql 1.2258925437927246
+18 17 2023-06-08 12:07:35.969375 queries/join-order-benchmark/22b.sql 0.687079668045044
+18 18 2023-06-08 12:07:36.430192 queries/join-order-benchmark/11a.sql 0.46065759658813477
+18 19 2023-06-08 12:07:39.653235 queries/join-order-benchmark/19d.sql 3.2228870391845703
+18 20 2023-06-08 12:07:42.881662 queries/join-order-benchmark/30a.sql 3.2281887531280518
+18 21 2023-06-08 12:07:43.366065 queries/join-order-benchmark/21a.sql 0.4842109680175781
+18 22 2023-06-08 12:07:43.850121 queries/join-order-benchmark/15b.sql 0.4838845729827881
+18 23 2023-06-08 12:07:44.863932 queries/join-order-benchmark/23a.sql 1.0136547088623047
+18 24 2023-06-08 12:07:45.470466 queries/join-order-benchmark/14a.sql 0.6064226627349854

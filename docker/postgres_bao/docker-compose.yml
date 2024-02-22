@@ -1,0 +1,49 @@
+version: '3'
+
+services:
+    postgres:
+        image: pg_bao_img
+        volumes: 
+            - ./../../bao:/app/bao
+            - ./../../data/imdb:/data/imdbload
+            - ./../../data/imdb/imdb.dump:/app/imdb.dump
+            - ./../../data/stack:/data/stack
+            - ./../../conf/bao-postgresql.conf:/app/postgresql.conf
+            - ./pgdata:/pgdata
+        ports:
+            - "5432:5432"
+        environment:
+            - PGDATA=/pgdata
+            - POSTGRES_DB=imdbload
+            - POSTGRES_USER=postgres
+            - POSTGRES_PASSWORD=postgres
+        container_name: pg_bao
+        networks:
+            network:
+                ipv4_address: 10.5.0.5
+        shm_size: 32gb
+    bao:
+        image: bao_server_img
+        volumes: 
+            - ./../../bao:/app/bao
+            - ./install_python_env.sh:/docker-entrypoint-initdb.d/install_python_env.sh
+        ports:
+            - "9381:9381"
+        environment:
+            - POSTGRES_DB=imdbload
+            - POSTGRES_USER=postgres
+            - POSTGRES_PASSWORD=postgres
+        container_name: bao_server
+        tty: true
+        networks:
+            network:
+                ipv4_address: 10.5.0.6
+        shm_size: 2gb
+networks:
+    network:
+        driver: bridge
+        ipam:
+            config:
+                - subnet: 10.5.0.0/16
+                  gateway: 10.5.0.1
+

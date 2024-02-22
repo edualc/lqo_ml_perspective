@@ -1,0 +1,723 @@
+Using connection:	 dbname=imdbload3 user=postgres password=postgres host=pg_bao
+Read 94 queries.
+Using Bao: True
+Executing queries using PG optimizer for initial training
+x x 2023-06-08 13:46:08.839003 queries/job_rand_base_split__train/29a.sql 4.202663898468018 PG
+x x 2023-06-08 13:46:12.370648 queries/job_rand_base_split__train/10c.sql 3.5313637256622314 PG
+x x 2023-06-08 13:46:18.419334 queries/job_rand_base_split__train/17e.sql 6.048559188842773 PG
+x x 2023-06-08 13:46:19.700769 queries/job_rand_base_split__train/16d.sql 1.2812724113464355 PG
+x x 2023-06-08 13:46:20.454227 queries/job_rand_base_split__train/33b.sql 0.7532651424407959 PG
+x x 2023-06-08 13:46:22.394420 queries/job_rand_base_split__train/30a.sql 1.9400336742401123 PG
+x x 2023-06-08 13:46:25.390798 queries/job_rand_base_split__train/6d.sql 2.996145009994507 PG
+x x 2023-06-08 13:46:25.819703 queries/job_rand_base_split__train/12b.sql 0.42875170707702637 PG
+x x 2023-06-08 13:46:26.945598 queries/job_rand_base_split__train/20b.sql 1.1257264614105225 PG
+x x 2023-06-08 13:46:30.256535 queries/job_rand_base_split__train/10c.sql 3.3107829093933105 PG
+x x 2023-06-08 13:46:31.402928 queries/job_rand_base_split__train/16d.sql 1.146240234375 PG
+x x 2023-06-08 13:46:32.529785 queries/job_rand_base_split__train/22d.sql 1.1267049312591553 PG
+x x 2023-06-08 13:46:35.871361 queries/job_rand_base_split__train/10c.sql 3.3414361476898193 PG
+x x 2023-06-08 13:46:45.905398 queries/job_rand_base_split__train/16b.sql 10.033946990966797 PG
+x x 2023-06-08 13:46:49.865016 queries/job_rand_base_split__train/29b.sql 3.959472417831421 PG
+x x 2023-06-08 13:46:51.287314 queries/job_rand_base_split__train/26a.sql 1.4220764636993408 PG
+x x 2023-06-08 13:46:52.487545 queries/job_rand_base_split__train/16d.sql 1.200049877166748 PG
+x x 2023-06-08 13:46:52.966919 queries/job_rand_base_split__train/27b.sql 0.4792134761810303 PG
+x x 2023-06-08 13:46:53.511977 queries/job_rand_base_split__train/4c.sql 0.5448532104492188 PG
+x x 2023-06-08 13:46:54.167157 queries/job_rand_base_split__train/10a.sql 0.6550140380859375 PG
+x x 2023-06-08 13:46:54.639871 queries/job_rand_base_split__train/4b.sql 0.4725472927093506 PG
+x x 2023-06-08 13:46:56.715020 queries/job_rand_base_split__train/30c.sql 2.0749704837799072 PG
+x x 2023-06-08 13:46:57.240182 queries/job_rand_base_split__train/19b.sql 0.5249814987182617 PG
+x x 2023-06-08 13:46:57.861396 queries/job_rand_base_split__train/14a.sql 0.6210100650787354 PG
+x x 2023-06-08 13:46:59.572244 queries/job_rand_base_split__train/8d.sql 1.710479974746704 PG
+==========================================================================================
+Iteration over chunk 1/19...
+[2023-06-08 13:46:59.572663]	[1/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.047312131273345305
+Epoch 15 training loss: 0.0026227169011970265
+Epoch 30 training loss: 0.002485128565995882
+Stopped training from convergence condition at epoch 33
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 13:47:27.103493]	[1/19]	Retraining done.
+0 0 2023-06-08 13:47:27.697277 queries/job_rand_base_split__train/19b.sql 0.5935361385345459
+0 1 2023-06-08 13:47:28.186348 queries/job_rand_base_split__train/12b.sql 0.4888885021209717
+0 2 2023-06-08 13:47:29.165899 queries/job_rand_base_split__train/12c.sql 0.9793777465820312
+0 3 2023-06-08 13:47:29.680692 queries/job_rand_base_split__train/5c.sql 0.5146255493164062
+0 4 2023-06-08 13:47:30.447003 queries/job_rand_base_split__train/27c.sql 0.7661173343658447
+0 5 2023-06-08 13:47:30.906979 queries/job_rand_base_split__train/4b.sql 0.45984840393066406
+0 6 2023-06-08 13:47:32.731553 queries/job_rand_base_split__train/33a.sql 1.8244211673736572
+0 7 2023-06-08 13:47:33.653491 queries/job_rand_base_split__train/23c.sql 0.9217727184295654
+0 8 2023-06-08 13:47:34.750564 queries/job_rand_base_split__train/9b.sql 1.0968713760375977
+0 9 2023-06-08 13:47:35.181213 queries/job_rand_base_split__train/1b.sql 0.43048715591430664
+0 10 2023-06-08 13:47:36.624238 queries/job_rand_base_split__train/26a.sql 1.4428727626800537
+0 11 2023-06-08 13:47:37.108372 queries/job_rand_base_split__train/5a.sql 0.48389363288879395
+0 12 2023-06-08 13:47:38.904193 queries/job_rand_base_split__train/28b.sql 1.7956392765045166
+0 13 2023-06-08 13:47:39.470588 queries/job_rand_base_split__train/6b.sql 0.5662376880645752
+0 14 2023-06-08 13:47:40.224504 queries/job_rand_base_split__train/27a.sql 0.7537539005279541
+0 15 2023-06-08 13:47:40.627426 queries/job_rand_base_split__train/32a.sql 0.4027690887451172
+0 16 2023-06-08 13:47:41.066525 queries/job_rand_base_split__train/11b.sql 0.43895602226257324
+0 17 2023-06-08 13:47:42.800282 queries/job_rand_base_split__train/17a.sql 1.733597755432129
+0 18 2023-06-08 13:47:45.027471 queries/job_rand_base_split__train/18a.sql 2.2269721031188965
+0 19 2023-06-08 13:47:45.580436 queries/job_rand_base_split__train/12a.sql 0.5527975559234619
+0 20 2023-06-08 13:47:47.304756 queries/job_rand_base_split__train/17a.sql 1.7242023944854736
+0 21 2023-06-08 13:47:48.213200 queries/job_rand_base_split__train/12c.sql 0.9080171585083008
+0 22 2023-06-08 13:47:50.510348 queries/job_rand_base_split__train/17f.sql 2.297050714492798
+0 23 2023-06-08 13:47:52.641765 queries/job_rand_base_split__train/28c.sql 2.1313071250915527
+0 24 2023-06-08 13:47:53.088643 queries/job_rand_base_split__train/1a.sql 0.44669318199157715
+==========================================================================================
+Iteration over chunk 2/19...
+[2023-06-08 13:47:53.088786]	[2/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.07799563147692067
+Epoch 15 training loss: 0.0032353242709315523
+Epoch 30 training loss: 0.001964216610014608
+Stopped training from convergence condition at epoch 34
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 13:48:21.289922]	[2/19]	Retraining done.
+1 0 2023-06-08 13:48:21.746582 queries/job_rand_base_split__train/1a.sql 0.4563610553741455
+1 1 2023-06-08 13:48:23.124792 queries/job_rand_base_split__train/16c.sql 1.378035068511963
+1 2 2023-06-08 13:48:25.411991 queries/job_rand_base_split__train/17e.sql 2.2869930267333984
+1 3 2023-06-08 13:48:28.161549 queries/job_rand_base_split__train/8c.sql 2.7494056224823
+1 4 2023-06-08 13:48:43.220811 queries/job_rand_base_split__train/29a.sql 15.0591139793396
+1 5 2023-06-08 13:48:45.352462 queries/job_rand_base_split__train/28a.sql 2.1314010620117188
+1 6 2023-06-08 13:48:46.270538 queries/job_rand_base_split__train/14c.sql 0.9179160594940186
+1 7 2023-06-08 13:48:48.082121 queries/job_rand_base_split__train/33a.sql 1.811417818069458
+1 8 2023-06-08 13:48:48.618446 queries/job_rand_base_split__train/14b.sql 0.5361099243164062
+1 9 2023-06-08 13:48:49.048656 queries/job_rand_base_split__train/1b.sql 0.43001270294189453
+1 10 2023-06-08 13:48:51.394639 queries/job_rand_base_split__train/9d.sql 2.3457694053649902
+1 11 2023-06-08 13:49:06.250173 queries/job_rand_base_split__train/29a.sql 14.855303525924683
+1 12 2023-06-08 13:49:06.996329 queries/job_rand_base_split__train/26b.sql 0.7459464073181152
+1 13 2023-06-08 13:49:07.893446 queries/job_rand_base_split__train/30b.sql 0.8969590663909912
+1 14 2023-06-08 13:49:08.395432 queries/job_rand_base_split__train/5c.sql 0.5018215179443359
+1 15 2023-06-08 13:49:08.867815 queries/job_rand_base_split__train/3b.sql 0.4722251892089844
+1 16 2023-06-08 13:49:10.611382 queries/job_rand_base_split__train/17a.sql 1.7434048652648926
+1 17 2023-06-08 13:49:11.099240 queries/job_rand_base_split__train/11a.sql 0.4876871109008789
+1 18 2023-06-08 13:49:13.848877 queries/job_rand_base_split__train/18c.sql 2.7494637966156006
+1 19 2023-06-08 13:49:16.024978 queries/job_rand_base_split__train/17e.sql 2.1758759021759033
+1 20 2023-06-08 13:49:17.385396 queries/job_rand_base_split__train/16c.sql 1.3601863384246826
+1 21 2023-06-08 13:49:20.091779 queries/job_rand_base_split__train/8c.sql 2.706221580505371
+1 22 2023-06-08 13:49:20.490609 queries/job_rand_base_split__train/6c.sql 0.39865660667419434
+1 23 2023-06-08 13:49:23.294076 queries/job_rand_base_split__train/18c.sql 2.8033251762390137
+1 24 2023-06-08 13:49:38.183524 queries/job_rand_base_split__train/29b.sql 14.889254570007324
+==========================================================================================
+Iteration over chunk 3/19...
+[2023-06-08 13:49:38.183693]	[3/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.0425967402783606
+Epoch 15 training loss: 0.0020718222166418426
+Stopped training from convergence condition at epoch 28
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 13:50:02.449327]	[3/19]	Retraining done.
+2 0 2023-06-08 13:50:02.893505 queries/job_rand_base_split__train/1d.sql 0.4439091682434082
+2 1 2023-06-08 13:50:04.794299 queries/job_rand_base_split__train/6f.sql 1.9006297588348389
+2 2 2023-06-08 13:50:05.277971 queries/job_rand_base_split__train/21c.sql 0.48352766036987305
+2 3 2023-06-08 13:50:07.157837 queries/job_rand_base_split__train/17d.sql 1.8796920776367188
+2 4 2023-06-08 13:50:08.871142 queries/job_rand_base_split__train/17c.sql 1.7131545543670654
+2 5 2023-06-08 13:50:09.625230 queries/job_rand_base_split__train/26b.sql 0.753903865814209
+2 6 2023-06-08 13:50:11.490751 queries/job_rand_base_split__train/17d.sql 1.8653576374053955
+2 7 2023-06-08 13:50:12.272169 queries/job_rand_base_split__train/27a.sql 0.7812776565551758
+2 8 2023-06-08 13:50:12.753999 queries/job_rand_base_split__train/6e.sql 0.4816625118255615
+2 9 2023-06-08 13:50:13.241251 queries/job_rand_base_split__train/1d.sql 0.48708629608154297
+2 10 2023-06-08 13:50:14.494941 queries/job_rand_base_split__train/16d.sql 1.2534947395324707
+2 11 2023-06-08 13:50:16.644709 queries/job_rand_base_split__train/9d.sql 2.1495819091796875
+2 12 2023-06-08 13:50:17.850941 queries/job_rand_base_split__train/22d.sql 1.2060487270355225
+2 13 2023-06-08 13:50:18.349920 queries/job_rand_base_split__train/12b.sql 0.4988059997558594
+2 14 2023-06-08 13:50:18.819142 queries/job_rand_base_split__train/11b.sql 0.46904540061950684
+2 15 2023-06-08 13:50:20.101300 queries/job_rand_base_split__train/13a.sql 1.281968355178833
+2 16 2023-06-08 13:50:22.009884 queries/job_rand_base_split__train/28b.sql 1.9081594944000244
+2 17 2023-06-08 13:50:22.508235 queries/job_rand_base_split__train/4a.sql 0.4981541633605957
+2 18 2023-06-08 13:50:23.820052 queries/job_rand_base_split__train/20b.sql 1.311645269393921
+2 19 2023-06-08 13:50:24.364777 queries/job_rand_base_split__train/11c.sql 0.5445590019226074
+2 20 2023-06-08 13:50:24.817554 queries/job_rand_base_split__train/1b.sql 0.4526078701019287
+2 21 2023-06-08 13:50:27.270544 queries/job_rand_base_split__train/9d.sql 2.4528157711029053
+2 22 2023-06-08 13:50:27.855804 queries/job_rand_base_split__train/23b.sql 0.5850753784179688
+2 23 2023-06-08 13:50:28.996103 queries/job_rand_base_split__train/9b.sql 1.1401264667510986
+2 24 2023-06-08 13:50:29.407171 queries/job_rand_base_split__train/6a.sql 0.4108617305755615
+==========================================================================================
+Iteration over chunk 4/19...
+[2023-06-08 13:50:29.407361]	[4/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.04898819723503961
+Epoch 15 training loss: 0.0023679092485943565
+Epoch 30 training loss: 0.0013859962033904226
+Stopped training from convergence condition at epoch 33
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 13:50:59.555969]	[4/19]	Retraining done.
+3 0 2023-06-08 13:51:00.186447 queries/job_rand_base_split__train/10b.sql 0.6302192211151123
+3 1 2023-06-08 13:51:00.679544 queries/job_rand_base_split__train/32b.sql 0.4929337501525879
+3 2 2023-06-08 13:51:01.638487 queries/job_rand_base_split__train/30b.sql 0.9587771892547607
+3 3 2023-06-08 13:51:02.578557 queries/job_rand_base_split__train/23c.sql 0.9398708343505859
+3 4 2023-06-08 13:51:04.911723 queries/job_rand_base_split__train/17e.sql 2.3329546451568604
+3 5 2023-06-08 13:51:20.123639 queries/job_rand_base_split__train/29a.sql 15.211721658706665
+3 6 2023-06-08 13:51:21.412974 queries/job_rand_base_split__train/13a.sql 1.289048194885254
+3 7 2023-06-08 13:51:22.676365 queries/job_rand_base_split__train/20c.sql 1.2631678581237793
+3 8 2023-06-08 13:51:23.207184 queries/job_rand_base_split__train/21b.sql 0.5306134223937988
+3 9 2023-06-08 13:51:24.874210 queries/job_rand_base_split__train/8d.sql 1.6668281555175781
+3 10 2023-06-08 13:51:25.270260 queries/job_rand_base_split__train/6c.sql 0.3958570957183838
+3 11 2023-06-08 13:51:27.227465 queries/job_rand_base_split__train/17d.sql 1.9570081233978271
+3 12 2023-06-08 13:51:28.439297 queries/job_rand_base_split__train/22d.sql 1.2116472721099854
+3 13 2023-06-08 13:51:29.282059 queries/job_rand_base_split__train/14c.sql 0.8425846099853516
+3 14 2023-06-08 13:51:32.321274 queries/job_rand_base_split__train/6f.sql 3.0390710830688477
+3 15 2023-06-08 13:51:32.890003 queries/job_rand_base_split__train/6b.sql 0.5685362815856934
+3 16 2023-06-08 13:51:33.460711 queries/job_rand_base_split__train/18b.sql 0.5705230236053467
+3 17 2023-06-08 13:51:48.563006 queries/job_rand_base_split__train/29a.sql 15.102099418640137
+3 18 2023-06-08 13:51:50.677500 queries/job_rand_base_split__train/28a.sql 2.114089012145996
+3 19 2023-06-08 13:51:51.331368 queries/job_rand_base_split__train/14a.sql 0.6536402702331543
+3 20 2023-06-08 13:51:51.862430 queries/job_rand_base_split__train/3a.sql 0.530888557434082
+3 21 2023-06-08 13:51:52.868659 queries/job_rand_base_split__train/23c.sql 1.0060632228851318
+3 22 2023-06-08 13:51:53.481150 queries/job_rand_base_split__train/3c.sql 0.6122303009033203
+3 23 2023-06-08 13:51:54.093494 queries/job_rand_base_split__train/23b.sql 0.6121580600738525
+3 24 2023-06-08 13:51:54.792426 queries/job_rand_base_split__train/10a.sql 0.698767900466919
+==========================================================================================
+Iteration over chunk 5/19...
+[2023-06-08 13:51:54.792583]	[5/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.04906799784586043
+Epoch 15 training loss: 0.002022139941634033
+Epoch 30 training loss: 0.0015075662676294164
+Stopped training from convergence condition at epoch 38
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 13:52:29.874313]	[5/19]	Retraining done.
+4 0 2023-06-08 13:52:30.601401 queries/job_rand_base_split__train/19a.sql 0.7268445491790771
+4 1 2023-06-08 13:52:31.144909 queries/job_rand_base_split__train/10b.sql 0.5433297157287598
+4 2 2023-06-08 13:52:31.650482 queries/job_rand_base_split__train/8b.sql 0.5053722858428955
+4 3 2023-06-08 13:52:32.047108 queries/job_rand_base_split__train/6c.sql 0.3964998722076416
+4 4 2023-06-08 13:52:32.537535 queries/job_rand_base_split__train/5b.sql 0.4902656078338623
+4 5 2023-06-08 13:52:33.080709 queries/job_rand_base_split__train/18b.sql 0.5430080890655518
+4 6 2023-06-08 13:52:33.641532 queries/job_rand_base_split__train/11c.sql 0.5606434345245361
+4 7 2023-06-08 13:52:34.042156 queries/job_rand_base_split__train/6c.sql 0.40046262741088867
+4 8 2023-06-08 13:52:35.657864 queries/job_rand_base_split__train/8d.sql 1.6155455112457275
+4 9 2023-06-08 13:52:36.105276 queries/job_rand_base_split__train/12b.sql 0.4472339153289795
+4 10 2023-06-08 13:52:36.777219 queries/job_rand_base_split__train/22b.sql 0.6717567443847656
+4 11 2023-06-08 13:52:37.275773 queries/job_rand_base_split__train/11d.sql 0.49834465980529785
+4 12 2023-06-08 13:52:37.795363 queries/job_rand_base_split__train/3a.sql 0.5194330215454102
+4 13 2023-06-08 13:52:38.307514 queries/job_rand_base_split__train/3a.sql 0.5119976997375488
+4 14 2023-06-08 13:52:39.039972 queries/job_rand_base_split__train/13c.sql 0.7323014736175537
+4 15 2023-06-08 13:52:39.835247 queries/job_rand_base_split__train/22a.sql 0.7951104640960693
+4 16 2023-06-08 13:52:41.308845 queries/job_rand_base_split__train/26a.sql 1.4734513759613037
+4 17 2023-06-08 13:52:43.110161 queries/job_rand_base_split__train/17d.sql 1.8011548519134521
+4 18 2023-06-08 13:52:43.510884 queries/job_rand_base_split__train/6c.sql 0.4005622863769531
+4 19 2023-06-08 13:52:44.698475 queries/job_rand_base_split__train/20b.sql 1.1874260902404785
+4 20 2023-06-08 13:52:46.077514 queries/job_rand_base_split__train/16c.sql 1.3788645267486572
+4 21 2023-06-08 13:52:46.991733 queries/job_rand_base_split__train/23c.sql 0.9140608310699463
+4 22 2023-06-08 13:52:48.844762 queries/job_rand_base_split__train/33a.sql 1.8529012203216553
+4 23 2023-06-08 13:52:51.597941 queries/job_rand_base_split__train/16b.sql 2.7530179023742676
+4 24 2023-06-08 13:52:54.492434 queries/job_rand_base_split__train/18c.sql 2.894322633743286
+==========================================================================================
+Iteration over chunk 6/19...
+[2023-06-08 13:52:54.492584]	[6/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.04953965790466302
+Epoch 15 training loss: 0.0022781852526855394
+Stopped training from convergence condition at epoch 22
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 13:53:15.909320]	[6/19]	Retraining done.
+5 0 2023-06-08 13:53:18.048310 queries/job_rand_base_split__train/9d.sql 2.1387486457824707
+5 1 2023-06-08 13:53:32.971737 queries/job_rand_base_split__train/29b.sql 14.923231363296509
+5 2 2023-06-08 13:53:33.490914 queries/job_rand_base_split__train/21a.sql 0.5187637805938721
+5 3 2023-06-08 13:53:34.343344 queries/job_rand_base_split__train/23a.sql 0.8522739410400391
+5 4 2023-06-08 13:53:35.199063 queries/job_rand_base_split__train/13b.sql 0.8552687168121338
+5 5 2023-06-08 13:53:36.831795 queries/job_rand_base_split__train/17a.sql 1.6325688362121582
+5 6 2023-06-08 13:53:37.410494 queries/job_rand_base_split__train/19b.sql 0.5785410404205322
+5 7 2023-06-08 13:53:38.205484 queries/job_rand_base_split__train/27b.sql 0.7948694229125977
+5 8 2023-06-08 13:53:39.871698 queries/job_rand_base_split__train/17a.sql 1.6660170555114746
+5 9 2023-06-08 13:53:41.172130 queries/job_rand_base_split__train/16d.sql 1.300231695175171
+5 10 2023-06-08 13:53:41.687588 queries/job_rand_base_split__train/11d.sql 0.5153224468231201
+5 11 2023-06-08 13:53:43.916667 queries/job_rand_base_split__train/28c.sql 2.2288830280303955
+5 12 2023-06-08 13:53:45.664990 queries/job_rand_base_split__train/17a.sql 1.7481532096862793
+5 13 2023-06-08 13:53:48.644696 queries/job_rand_base_split__train/6f.sql 2.9794602394104004
+5 14 2023-06-08 13:53:49.056624 queries/job_rand_base_split__train/6a.sql 0.4117448329925537
+5 15 2023-06-08 13:53:49.581116 queries/job_rand_base_split__train/11d.sql 0.5243291854858398
+5 16 2023-06-08 13:53:52.651617 queries/job_rand_base_split__train/17b.sql 3.0703232288360596
+5 17 2023-06-08 13:54:09.627410 queries/job_rand_base_split__train/29c.sql 16.97559118270874
+5 18 2023-06-08 13:54:10.978560 queries/job_rand_base_split__train/16d.sql 1.3509469032287598
+5 19 2023-06-08 13:54:11.823153 queries/job_rand_base_split__train/13c.sql 0.8444085121154785
+5 20 2023-06-08 13:54:12.337363 queries/job_rand_base_split__train/8b.sql 0.5140173435211182
+5 21 2023-06-08 13:54:15.463259 queries/job_rand_base_split__train/26c.sql 3.1257119178771973
+5 22 2023-06-08 13:54:16.293101 queries/job_rand_base_split__train/22a.sql 0.8296103477478027
+5 23 2023-06-08 13:54:16.965767 queries/job_rand_base_split__train/3c.sql 0.6724700927734375
+5 24 2023-06-08 13:54:17.443871 queries/job_rand_base_split__train/4b.sql 0.4778738021850586
+==========================================================================================
+Iteration over chunk 7/19...
+[2023-06-08 13:54:17.444047]	[7/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.08478537203139953
+Epoch 15 training loss: 0.002137513570503231
+Stopped training from convergence condition at epoch 28
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 13:54:45.586527]	[7/19]	Retraining done.
+6 0 2023-06-08 13:54:46.235066 queries/job_rand_base_split__train/16a.sql 0.6482663154602051
+6 1 2023-06-08 13:54:47.256877 queries/job_rand_base_split__train/12c.sql 1.0216023921966553
+6 2 2023-06-08 13:54:48.513475 queries/job_rand_base_split__train/20c.sql 1.2564094066619873
+6 3 2023-06-08 13:54:49.812245 queries/job_rand_base_split__train/20b.sql 1.2985444068908691
+6 4 2023-06-08 13:54:50.322183 queries/job_rand_base_split__train/21c.sql 0.5097448825836182
+6 5 2023-06-08 13:54:52.251749 queries/job_rand_base_split__train/33a.sql 1.9293677806854248
+6 6 2023-06-08 13:54:54.517320 queries/job_rand_base_split__train/30a.sql 2.2653565406799316
+6 7 2023-06-08 13:54:57.306155 queries/job_rand_base_split__train/9c.sql 2.788628578186035
+6 8 2023-06-08 13:54:58.225850 queries/job_rand_base_split__train/12c.sql 0.9194314479827881
+6 9 2023-06-08 13:54:58.661266 queries/job_rand_base_split__train/1d.sql 0.4352285861968994
+6 10 2023-06-08 13:54:59.239837 queries/job_rand_base_split__train/19b.sql 0.5783810615539551
+6 11 2023-06-08 13:54:59.726387 queries/job_rand_base_split__train/6a.sql 0.48639750480651855
+6 12 2023-06-08 13:55:01.485013 queries/job_rand_base_split__train/17c.sql 1.7584521770477295
+6 13 2023-06-08 13:55:02.066852 queries/job_rand_base_split__train/16a.sql 0.5816900730133057
+6 14 2023-06-08 13:55:02.591058 queries/job_rand_base_split__train/21b.sql 0.5240302085876465
+6 15 2023-06-08 13:55:03.880335 queries/job_rand_base_split__train/20b.sql 1.2890996932983398
+6 16 2023-06-08 13:55:06.283000 queries/job_rand_base_split__train/17f.sql 2.4024946689605713
+6 17 2023-06-08 13:55:08.104011 queries/job_rand_base_split__train/17c.sql 1.820805311203003
+6 18 2023-06-08 13:55:09.231665 queries/job_rand_base_split__train/8a.sql 1.1274843215942383
+6 19 2023-06-08 13:55:09.821905 queries/job_rand_base_split__train/21a.sql 0.5900964736938477
+6 20 2023-06-08 13:55:10.311622 queries/job_rand_base_split__train/6a.sql 0.4895327091217041
+6 21 2023-06-08 13:55:11.822636 queries/job_rand_base_split__train/26a.sql 1.510826587677002
+6 22 2023-06-08 13:55:12.394092 queries/job_rand_base_split__train/11b.sql 0.5712780952453613
+6 23 2023-06-08 13:55:14.644649 queries/job_rand_base_split__train/9d.sql 2.250332832336426
+6 24 2023-06-08 13:55:15.146712 queries/job_rand_base_split__train/5b.sql 0.5018951892852783
+==========================================================================================
+Iteration over chunk 8/19...
+[2023-06-08 13:55:15.146880]	[8/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.04373841461462067
+Epoch 15 training loss: 0.002349768642345321
+Epoch 30 training loss: 0.0016293756002835977
+Stopped training from convergence condition at epoch 38
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 13:55:49.300094]	[8/19]	Retraining done.
+7 0 2023-06-08 13:55:50.395021 queries/job_rand_base_split__train/9b.sql 1.094674825668335
+7 1 2023-06-08 13:55:50.971100 queries/job_rand_base_split__train/8b.sql 0.575873851776123
+7 2 2023-06-08 13:55:51.573283 queries/job_rand_base_split__train/5c.sql 0.6019508838653564
+7 3 2023-06-08 13:55:52.146480 queries/job_rand_base_split__train/14b.sql 0.5730495452880859
+7 4 2023-06-08 13:55:52.845469 queries/job_rand_base_split__train/22b.sql 0.6988139152526855
+7 5 2023-06-08 13:55:54.043586 queries/job_rand_base_split__train/16d.sql 1.197904348373413
+7 6 2023-06-08 13:55:54.500515 queries/job_rand_base_split__train/1d.sql 0.45674943923950195
+7 7 2023-06-08 13:55:55.017398 queries/job_rand_base_split__train/11c.sql 0.5167105197906494
+7 8 2023-06-08 13:55:55.460859 queries/job_rand_base_split__train/1b.sql 0.44328999519348145
+7 9 2023-06-08 13:55:58.425794 queries/job_rand_base_split__train/9c.sql 2.964709997177124
+7 10 2023-06-08 13:56:00.442133 queries/job_rand_base_split__train/17d.sql 2.0161187648773193
+7 11 2023-06-08 13:56:01.100210 queries/job_rand_base_split__train/3c.sql 0.6578860282897949
+7 12 2023-06-08 13:56:01.596994 queries/job_rand_base_split__train/21b.sql 0.49660658836364746
+7 13 2023-06-08 13:56:02.784803 queries/job_rand_base_split__train/20b.sql 1.1875896453857422
+7 14 2023-06-08 13:56:04.520916 queries/job_rand_base_split__train/8d.sql 1.7359275817871094
+7 15 2023-06-08 13:56:06.548974 queries/job_rand_base_split__train/9d.sql 2.027829170227051
+7 16 2023-06-08 13:56:07.326727 queries/job_rand_base_split__train/26b.sql 0.7775421142578125
+7 17 2023-06-08 13:56:07.821148 queries/job_rand_base_split__train/32b.sql 0.49425220489501953
+7 18 2023-06-08 13:56:08.694826 queries/job_rand_base_split__train/14a.sql 0.8734984397888184
+7 19 2023-06-08 13:56:11.030852 queries/job_rand_base_split__train/18a.sql 2.3358583450317383
+7 20 2023-06-08 13:56:12.190260 queries/job_rand_base_split__train/9b.sql 1.1592073440551758
+7 21 2023-06-08 13:56:12.983390 queries/job_rand_base_split__train/27a.sql 0.7929613590240479
+7 22 2023-06-08 13:56:13.976875 queries/job_rand_base_split__train/23c.sql 0.9933426380157471
+7 23 2023-06-08 13:56:15.300367 queries/job_rand_base_split__train/33c.sql 1.3233139514923096
+7 24 2023-06-08 13:56:15.869226 queries/job_rand_base_split__train/11c.sql 0.5686991214752197
+==========================================================================================
+Iteration over chunk 9/19...
+[2023-06-08 13:56:15.869373]	[9/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.03863019892921696
+Epoch 15 training loss: 0.002172056339112679
+Epoch 30 training loss: 0.0015031999221234884
+Stopped training from convergence condition at epoch 36
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 13:56:51.071365]	[9/19]	Retraining done.
+8 0 2023-06-08 13:56:51.845133 queries/job_rand_base_split__train/27a.sql 0.7733645439147949
+8 1 2023-06-08 13:56:53.157588 queries/job_rand_base_split__train/22d.sql 1.3122928142547607
+8 2 2023-06-08 13:56:53.570464 queries/job_rand_base_split__train/6a.sql 0.4126856327056885
+8 3 2023-06-08 13:56:54.198225 queries/job_rand_base_split__train/14a.sql 0.627561092376709
+8 4 2023-06-08 13:56:54.887186 queries/job_rand_base_split__train/9a.sql 0.6887376308441162
+8 5 2023-06-08 13:56:55.455662 queries/job_rand_base_split__train/12a.sql 0.5682952404022217
+8 6 2023-06-08 13:56:56.040046 queries/job_rand_base_split__train/16a.sql 0.5841965675354004
+8 7 2023-06-08 13:56:56.903637 queries/job_rand_base_split__train/27b.sql 0.8634052276611328
+8 8 2023-06-08 13:56:59.342303 queries/job_rand_base_split__train/30a.sql 2.438511610031128
+8 9 2023-06-08 13:57:02.428768 queries/job_rand_base_split__train/17b.sql 3.086294651031494
+8 10 2023-06-08 13:57:03.276777 queries/job_rand_base_split__train/13b.sql 0.8478081226348877
+8 11 2023-06-08 13:57:04.936423 queries/job_rand_base_split__train/6d.sql 1.6594552993774414
+8 12 2023-06-08 13:57:06.649135 queries/job_rand_base_split__train/17c.sql 1.7125353813171387
+8 13 2023-06-08 13:57:07.398635 queries/job_rand_base_split__train/27b.sql 0.7493228912353516
+8 14 2023-06-08 13:57:09.256236 queries/job_rand_base_split__train/28b.sql 1.857414960861206
+8 15 2023-06-08 13:57:10.408187 queries/job_rand_base_split__train/20b.sql 1.1517760753631592
+8 16 2023-06-08 13:57:11.179144 queries/job_rand_base_split__train/27a.sql 0.7707650661468506
+8 17 2023-06-08 13:57:11.760118 queries/job_rand_base_split__train/23b.sql 0.5808453559875488
+8 18 2023-06-08 13:57:12.308837 queries/job_rand_base_split__train/8b.sql 0.5486009120941162
+8 19 2023-06-08 13:57:13.727366 queries/job_rand_base_split__train/16c.sql 1.4181280136108398
+8 20 2023-06-08 13:57:14.251207 queries/job_rand_base_split__train/32b.sql 0.523646354675293
+8 21 2023-06-08 13:57:17.154369 queries/job_rand_base_split__train/17b.sql 2.9029934406280518
+8 22 2023-06-08 13:57:17.605323 queries/job_rand_base_split__train/1d.sql 0.4507730007171631
+8 23 2023-06-08 13:57:19.753412 queries/job_rand_base_split__train/30a.sql 2.1479218006134033
+8 24 2023-06-08 13:57:20.360683 queries/job_rand_base_split__train/18b.sql 0.6071145534515381
+==========================================================================================
+Iteration over chunk 10/19...
+[2023-06-08 13:57:20.360781]	[10/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.054245369753482035
+Epoch 15 training loss: 0.0026103827344913836
+Stopped training from convergence condition at epoch 27
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 13:57:46.969661]	[10/19]	Retraining done.
+9 0 2023-06-08 13:57:49.884923 queries/job_rand_base_split__train/18c.sql 2.915025472640991
+9 1 2023-06-08 13:57:51.337291 queries/job_rand_base_split__train/33c.sql 1.4522504806518555
+9 2 2023-06-08 13:57:51.900896 queries/job_rand_base_split__train/11d.sql 0.5634350776672363
+9 3 2023-06-08 13:57:52.427410 queries/job_rand_base_split__train/21c.sql 0.526294469833374
+9 4 2023-06-08 13:57:55.583727 queries/job_rand_base_split__train/9d.sql 3.1561357975006104
+9 5 2023-06-08 13:57:58.778675 queries/job_rand_base_split__train/9d.sql 3.1947741508483887
+9 6 2023-06-08 13:57:59.290819 queries/job_rand_base_split__train/11d.sql 0.5120205879211426
+9 7 2023-06-08 13:58:00.572817 queries/job_rand_base_split__train/16d.sql 1.2818024158477783
+9 8 2023-06-08 13:58:02.542103 queries/job_rand_base_split__train/17d.sql 1.9691145420074463
+9 9 2023-06-08 13:58:03.060003 queries/job_rand_base_split__train/8b.sql 0.517725944519043
+9 10 2023-06-08 13:58:03.433878 queries/job_rand_base_split__train/6c.sql 0.3737599849700928
+9 11 2023-06-08 13:58:03.860871 queries/job_rand_base_split__train/6c.sql 0.426821231842041
+9 12 2023-06-08 13:58:04.319109 queries/job_rand_base_split__train/1a.sql 0.45805907249450684
+9 13 2023-06-08 13:58:04.963149 queries/job_rand_base_split__train/14a.sql 0.6439251899719238
+9 14 2023-06-08 13:58:05.459083 queries/job_rand_base_split__train/5b.sql 0.49576354026794434
+9 15 2023-06-08 13:58:05.839973 queries/job_rand_base_split__train/32a.sql 0.3807260990142822
+9 16 2023-06-08 13:58:07.916819 queries/job_rand_base_split__train/28a.sql 2.076685905456543
+9 17 2023-06-08 13:58:10.701252 queries/job_rand_base_split__train/9c.sql 2.78422474861145
+9 18 2023-06-08 13:58:25.624363 queries/job_rand_base_split__train/29b.sql 14.922932863235474
+9 19 2023-06-08 13:58:26.302270 queries/job_rand_base_split__train/10a.sql 0.6777100563049316
+9 20 2023-06-08 13:58:26.786407 queries/job_rand_base_split__train/4c.sql 0.4839518070220947
+9 21 2023-06-08 13:58:27.342979 queries/job_rand_base_split__train/18b.sql 0.5563552379608154
+9 22 2023-06-08 13:58:43.828076 queries/job_rand_base_split__train/29c.sql 16.484907388687134
+9 23 2023-06-08 13:58:46.475166 queries/job_rand_base_split__train/8c.sql 2.64689302444458
+9 24 2023-06-08 13:58:47.223931 queries/job_rand_base_split__train/13c.sql 0.7485747337341309
+==========================================================================================
+Iteration over chunk 11/19...
+[2023-06-08 13:58:47.224091]	[11/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.03585576294863131
+Epoch 15 training loss: 0.0029972276926855555
+Stopped training from convergence condition at epoch 27
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 13:59:15.765186]	[11/19]	Retraining done.
+10 0 2023-06-08 13:59:17.054256 queries/job_rand_base_split__train/13a.sql 1.2887578010559082
+10 1 2023-06-08 13:59:18.311885 queries/job_rand_base_split__train/13a.sql 1.2574563026428223
+10 2 2023-06-08 13:59:19.147645 queries/job_rand_base_split__train/26b.sql 0.8355169296264648
+10 3 2023-06-08 13:59:21.305742 queries/job_rand_base_split__train/17e.sql 2.157914876937866
+10 4 2023-06-08 13:59:22.049427 queries/job_rand_base_split__train/27c.sql 0.7435116767883301
+10 5 2023-06-08 13:59:22.521476 queries/job_rand_base_split__train/32b.sql 0.4719057083129883
+10 6 2023-06-08 13:59:23.868859 queries/job_rand_base_split__train/16c.sql 1.347212314605713
+10 7 2023-06-08 13:59:26.176868 queries/job_rand_base_split__train/28c.sql 2.3077216148376465
+10 8 2023-06-08 13:59:28.194131 queries/job_rand_base_split__train/17d.sql 2.0170745849609375
+10 9 2023-06-08 13:59:28.896957 queries/job_rand_base_split__train/22b.sql 0.7026419639587402
+10 10 2023-06-08 13:59:30.914467 queries/job_rand_base_split__train/6f.sql 2.0172781944274902
+10 11 2023-06-08 13:59:31.442845 queries/job_rand_base_split__train/5c.sql 0.5282163619995117
+10 12 2023-06-08 13:59:31.905167 queries/job_rand_base_split__train/12b.sql 0.46218109130859375
+10 13 2023-06-08 13:59:33.134376 queries/job_rand_base_split__train/20b.sql 1.2290537357330322
+10 14 2023-06-08 13:59:35.652123 queries/job_rand_base_split__train/17f.sql 2.5175833702087402
+10 15 2023-06-08 13:59:36.344165 queries/job_rand_base_split__train/10a.sql 0.6918702125549316
+10 16 2023-06-08 13:59:36.844974 queries/job_rand_base_split__train/3b.sql 0.5006792545318604
+10 17 2023-06-08 13:59:39.134246 queries/job_rand_base_split__train/28c.sql 2.289015531539917
+10 18 2023-06-08 13:59:41.085928 queries/job_rand_base_split__train/17d.sql 1.95149564743042
+10 19 2023-06-08 13:59:42.896992 queries/job_rand_base_split__train/33b.sql 1.8109056949615479
+10 20 2023-06-08 13:59:44.357968 queries/job_rand_base_split__train/26a.sql 1.4607417583465576
+10 21 2023-06-08 13:59:45.480667 queries/job_rand_base_split__train/20c.sql 1.1225199699401855
+10 22 2023-06-08 13:59:46.116355 queries/job_rand_base_split__train/10a.sql 0.6355240345001221
+10 23 2023-06-08 13:59:46.661656 queries/job_rand_base_split__train/12a.sql 0.5451252460479736
+10 24 2023-06-08 13:59:48.293402 queries/job_rand_base_split__train/6d.sql 1.6315927505493164
+==========================================================================================
+Iteration over chunk 12/19...
+[2023-06-08 13:59:48.293551]	[12/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.0507709282086935
+Epoch 15 training loss: 0.002636843014553916
+Epoch 30 training loss: 0.0015785049067855608
+Stopped training from convergence condition at epoch 34
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 14:00:23.459019]	[12/19]	Retraining done.
+11 0 2023-06-08 14:00:23.873653 queries/job_rand_base_split__train/6e.sql 0.41434550285339355
+11 1 2023-06-08 14:00:25.332734 queries/job_rand_base_split__train/26a.sql 1.4588582515716553
+11 2 2023-06-08 14:00:25.843689 queries/job_rand_base_split__train/5b.sql 0.5107696056365967
+11 3 2023-06-08 14:00:26.600313 queries/job_rand_base_split__train/27a.sql 0.7564241886138916
+11 4 2023-06-08 14:00:28.214872 queries/job_rand_base_split__train/13d.sql 1.6143734455108643
+11 5 2023-06-08 14:00:29.036294 queries/job_rand_base_split__train/13b.sql 0.8210225105285645
+11 6 2023-06-08 14:00:29.599888 queries/job_rand_base_split__train/18b.sql 0.5634047985076904
+11 7 2023-06-08 14:00:30.008566 queries/job_rand_base_split__train/6e.sql 0.4084763526916504
+11 8 2023-06-08 14:00:30.514742 queries/job_rand_base_split__train/4a.sql 0.5059459209442139
+11 9 2023-06-08 14:00:30.927401 queries/job_rand_base_split__train/6a.sql 0.41244077682495117
+11 10 2023-06-08 14:00:31.329703 queries/job_rand_base_split__train/6e.sql 0.4021172523498535
+11 11 2023-06-08 14:00:32.677513 queries/job_rand_base_split__train/16c.sql 1.3476433753967285
+11 12 2023-06-08 14:00:34.331834 queries/job_rand_base_split__train/17c.sql 1.6541364192962646
+11 13 2023-06-08 14:00:35.220553 queries/job_rand_base_split__train/12c.sql 0.8885288238525391
+11 14 2023-06-08 14:00:35.809464 queries/job_rand_base_split__train/3c.sql 0.5887355804443359
+11 15 2023-06-08 14:00:37.368165 queries/job_rand_base_split__train/6d.sql 1.5585334300994873
+11 16 2023-06-08 14:00:39.142050 queries/job_rand_base_split__train/20a.sql 1.7736620903015137
+11 17 2023-06-08 14:00:40.954995 queries/job_rand_base_split__train/28b.sql 1.8127696514129639
+11 18 2023-06-08 14:00:41.562591 queries/job_rand_base_split__train/14a.sql 0.6074302196502686
+11 19 2023-06-08 14:00:42.063619 queries/job_rand_base_split__train/8b.sql 0.5008716583251953
+11 20 2023-06-08 14:00:42.615789 queries/job_rand_base_split__train/6b.sql 0.5520117282867432
+11 21 2023-06-08 14:00:43.735029 queries/job_rand_base_split__train/9b.sql 1.119075059890747
+11 22 2023-06-08 14:00:44.238040 queries/job_rand_base_split__train/4c.sql 0.5028877258300781
+11 23 2023-06-08 14:00:44.642938 queries/job_rand_base_split__train/6c.sql 0.40474367141723633
+11 24 2023-06-08 14:00:46.426008 queries/job_rand_base_split__train/10c.sql 1.7829086780548096
+==========================================================================================
+Iteration over chunk 13/19...
+[2023-06-08 14:00:46.426180]	[13/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.03465253673493862
+Epoch 15 training loss: 0.002052043446799718
+Epoch 30 training loss: 0.0014932802930917501
+Stopped training from convergence condition at epoch 35
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 14:01:22.583791]	[13/19]	Retraining done.
+12 0 2023-06-08 14:01:24.355283 queries/job_rand_base_split__train/33b.sql 1.7712390422821045
+12 1 2023-06-08 14:01:24.922559 queries/job_rand_base_split__train/19b.sql 0.5670750141143799
+12 2 2023-06-08 14:01:25.466899 queries/job_rand_base_split__train/8b.sql 0.544175386428833
+12 3 2023-06-08 14:01:25.966123 queries/job_rand_base_split__train/4b.sql 0.49906134605407715
+12 4 2023-06-08 14:01:26.501786 queries/job_rand_base_split__train/6b.sql 0.5354824066162109
+12 5 2023-06-08 14:01:27.000952 queries/job_rand_base_split__train/4c.sql 0.49901342391967773
+12 6 2023-06-08 14:01:29.297621 queries/job_rand_base_split__train/17e.sql 2.2965192794799805
+12 7 2023-06-08 14:01:29.797324 queries/job_rand_base_split__train/4a.sql 0.4995405673980713
+12 8 2023-06-08 14:01:31.003518 queries/job_rand_base_split__train/13a.sql 1.206037998199463
+12 9 2023-06-08 14:01:31.550435 queries/job_rand_base_split__train/6b.sql 0.546766996383667
+12 10 2023-06-08 14:01:31.954885 queries/job_rand_base_split__train/6a.sql 0.4042849540710449
+12 11 2023-06-08 14:01:33.225413 queries/job_rand_base_split__train/16d.sql 1.270369291305542
+12 12 2023-06-08 14:01:33.721307 queries/job_rand_base_split__train/4c.sql 0.4957313537597656
+12 13 2023-06-08 14:01:34.215470 queries/job_rand_base_split__train/21c.sql 0.4939737319946289
+12 14 2023-06-08 14:01:34.766672 queries/job_rand_base_split__train/18b.sql 0.5510540008544922
+12 15 2023-06-08 14:01:35.251112 queries/job_rand_base_split__train/4a.sql 0.48430776596069336
+12 16 2023-06-08 14:01:36.990873 queries/job_rand_base_split__train/17a.sql 1.7395992279052734
+12 17 2023-06-08 14:01:38.812645 queries/job_rand_base_split__train/10c.sql 1.8216030597686768
+12 18 2023-06-08 14:01:41.610414 queries/job_rand_base_split__train/16b.sql 2.79752779006958
+12 19 2023-06-08 14:01:42.324083 queries/job_rand_base_split__train/19a.sql 0.7135250568389893
+12 20 2023-06-08 14:01:42.873032 queries/job_rand_base_split__train/6b.sql 0.5487878322601318
+12 21 2023-06-08 14:01:43.580104 queries/job_rand_base_split__train/9a.sql 0.7068607807159424
+12 22 2023-06-08 14:01:45.994067 queries/job_rand_base_split__train/17f.sql 2.4137399196624756
+12 23 2023-06-08 14:02:01.100308 queries/job_rand_base_split__train/29a.sql 15.10596776008606
+12 24 2023-06-08 14:02:01.545174 queries/job_rand_base_split__train/1d.sql 0.4446706771850586
+==========================================================================================
+Iteration over chunk 14/19...
+[2023-06-08 14:02:01.545313]	[14/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.037992109796580145
+Epoch 15 training loss: 0.001930748945211663
+Epoch 30 training loss: 0.001301748215337284
+Stopped training from convergence condition at epoch 38
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 14:02:40.762242]	[14/19]	Retraining done.
+13 0 2023-06-08 14:02:43.865764 queries/job_rand_base_split__train/9c.sql 3.1032321453094482
+13 1 2023-06-08 14:02:44.860848 queries/job_rand_base_split__train/23c.sql 0.9949181079864502
+13 2 2023-06-08 14:02:47.588627 queries/job_rand_base_split__train/8c.sql 2.7276134490966797
+13 3 2023-06-08 14:02:48.859350 queries/job_rand_base_split__train/13a.sql 1.2705538272857666
+13 4 2023-06-08 14:02:50.019911 queries/job_rand_base_split__train/9b.sql 1.160369634628296
+13 5 2023-06-08 14:02:50.896245 queries/job_rand_base_split__train/14c.sql 0.8762161731719971
+13 6 2023-06-08 14:02:51.584844 queries/job_rand_base_split__train/9a.sql 0.6884233951568604
+13 7 2023-06-08 14:02:53.539103 queries/job_rand_base_split__train/17d.sql 1.954071283340454
+13 8 2023-06-08 14:02:54.817083 queries/job_rand_base_split__train/13a.sql 1.2777631282806396
+13 9 2023-06-08 14:02:56.037295 queries/job_rand_base_split__train/20c.sql 1.2200450897216797
+13 10 2023-06-08 14:02:57.954149 queries/job_rand_base_split__train/33a.sql 1.916658878326416
+13 11 2023-06-08 14:03:00.883049 queries/job_rand_base_split__train/18c.sql 2.9287333488464355
+13 12 2023-06-08 14:03:01.661425 queries/job_rand_base_split__train/27c.sql 0.7782227993011475
+13 13 2023-06-08 14:03:02.475154 queries/job_rand_base_split__train/23a.sql 0.8136162757873535
+13 14 2023-06-08 14:03:02.904259 queries/job_rand_base_split__train/1c.sql 0.42896366119384766
+13 15 2023-06-08 14:03:03.673540 queries/job_rand_base_split__train/27a.sql 0.7691283226013184
+13 16 2023-06-08 14:03:05.479962 queries/job_rand_base_split__train/17c.sql 1.8062608242034912
+13 17 2023-06-08 14:03:05.883770 queries/job_rand_base_split__train/32a.sql 0.40363502502441406
+13 18 2023-06-08 14:03:06.593796 queries/job_rand_base_split__train/10a.sql 0.7098503112792969
+13 19 2023-06-08 14:03:07.114523 queries/job_rand_base_split__train/8b.sql 0.5205531120300293
+13 20 2023-06-08 14:03:08.094926 queries/job_rand_base_split__train/23c.sql 0.9802396297454834
+13 21 2023-06-08 14:03:08.609284 queries/job_rand_base_split__train/32b.sql 0.5141928195953369
+13 22 2023-06-08 14:03:10.456310 queries/job_rand_base_split__train/33b.sql 1.8468241691589355
+13 23 2023-06-08 14:03:12.939706 queries/job_rand_base_split__train/30a.sql 2.483234405517578
+13 24 2023-06-08 14:03:13.395277 queries/job_rand_base_split__train/1a.sql 0.4554116725921631
+==========================================================================================
+Iteration over chunk 15/19...
+[2023-06-08 14:03:13.395418]	[15/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.08596473832636378
+Epoch 15 training loss: 0.002328380971448496
+Epoch 30 training loss: 0.0015399759519590759
+Stopped training from convergence condition at epoch 35
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 14:03:53.744667]	[15/19]	Retraining done.
+14 0 2023-06-08 14:03:54.266270 queries/job_rand_base_split__train/11d.sql 0.5213718414306641
+14 1 2023-06-08 14:04:10.669443 queries/job_rand_base_split__train/29c.sql 16.403051614761353
+14 2 2023-06-08 14:04:11.287505 queries/job_rand_base_split__train/19b.sql 0.6178169250488281
+14 3 2023-06-08 14:04:13.992790 queries/job_rand_base_split__train/18c.sql 2.705124616622925
+14 4 2023-06-08 14:04:14.515766 queries/job_rand_base_split__train/5c.sql 0.5227510929107666
+14 5 2023-06-08 14:04:14.984063 queries/job_rand_base_split__train/32b.sql 0.46813011169433594
+14 6 2023-06-08 14:04:15.534847 queries/job_rand_base_split__train/18b.sql 0.5506095886230469
+14 7 2023-06-08 14:04:18.189008 queries/job_rand_base_split__train/18c.sql 2.653989553451538
+14 8 2023-06-08 14:04:19.916296 queries/job_rand_base_split__train/20a.sql 1.727104663848877
+14 9 2023-06-08 14:04:20.355831 queries/job_rand_base_split__train/1d.sql 0.4393751621246338
+14 10 2023-06-08 14:04:22.599331 queries/job_rand_base_split__train/18a.sql 2.2434043884277344
+14 11 2023-06-08 14:04:23.362324 queries/job_rand_base_split__train/13b.sql 0.7628722190856934
+14 12 2023-06-08 14:04:24.505274 queries/job_rand_base_split__train/20b.sql 1.1427853107452393
+14 13 2023-06-08 14:04:27.154464 queries/job_rand_base_split__train/8c.sql 2.6490306854248047
+14 14 2023-06-08 14:04:29.564422 queries/job_rand_base_split__train/30a.sql 2.409738779067993
+14 15 2023-06-08 14:04:29.981831 queries/job_rand_base_split__train/6e.sql 0.4172399044036865
+14 16 2023-06-08 14:04:32.063464 queries/job_rand_base_split__train/28a.sql 2.0814762115478516
+14 17 2023-06-08 14:04:32.643560 queries/job_rand_base_split__train/18b.sql 0.5799267292022705
+14 18 2023-06-08 14:04:34.109100 queries/job_rand_base_split__train/26a.sql 1.4653375148773193
+14 19 2023-06-08 14:04:34.780028 queries/job_rand_base_split__train/10a.sql 0.6707713603973389
+14 20 2023-06-08 14:04:37.210146 queries/job_rand_base_split__train/17f.sql 2.4299514293670654
+14 21 2023-06-08 14:04:38.349997 queries/job_rand_base_split__train/20c.sql 1.1396901607513428
+14 22 2023-06-08 14:04:39.131746 queries/job_rand_base_split__train/27a.sql 0.7815985679626465
+14 23 2023-06-08 14:04:54.166709 queries/job_rand_base_split__train/29b.sql 15.03484582901001
+14 24 2023-06-08 14:04:54.699650 queries/job_rand_base_split__train/21c.sql 0.532745361328125
+==========================================================================================
+Iteration over chunk 16/19...
+[2023-06-08 14:04:54.699857]	[16/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.046404412111521444
+Epoch 15 training loss: 0.0031492177010725504
+Stopped training from convergence condition at epoch 28
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 14:05:26.588766]	[16/19]	Retraining done.
+15 0 2023-06-08 14:05:27.101403 queries/job_rand_base_split__train/21a.sql 0.5123984813690186
+15 1 2023-06-08 14:05:28.347003 queries/job_rand_base_split__train/16d.sql 1.2454438209533691
+15 2 2023-06-08 14:05:29.161147 queries/job_rand_base_split__train/22a.sql 0.8139855861663818
+15 3 2023-06-08 14:05:29.579506 queries/job_rand_base_split__train/6e.sql 0.41819310188293457
+15 4 2023-06-08 14:05:30.059400 queries/job_rand_base_split__train/4a.sql 0.47970080375671387
+15 5 2023-06-08 14:05:30.593373 queries/job_rand_base_split__train/14b.sql 0.5338523387908936
+15 6 2023-06-08 14:05:31.156038 queries/job_rand_base_split__train/12a.sql 0.5625045299530029
+15 7 2023-06-08 14:05:31.999473 queries/job_rand_base_split__train/23a.sql 0.8432621955871582
+15 8 2023-06-08 14:05:34.146175 queries/job_rand_base_split__train/28c.sql 2.1465260982513428
+15 9 2023-06-08 14:05:34.706908 queries/job_rand_base_split__train/19b.sql 0.5605664253234863
+15 10 2023-06-08 14:05:35.229395 queries/job_rand_base_split__train/4c.sql 0.5223705768585205
+15 11 2023-06-08 14:05:36.646682 queries/job_rand_base_split__train/33c.sql 1.4171161651611328
+15 12 2023-06-08 14:05:38.917956 queries/job_rand_base_split__train/30a.sql 2.271115779876709
+15 13 2023-06-08 14:05:40.647290 queries/job_rand_base_split__train/17a.sql 1.7291829586029053
+15 14 2023-06-08 14:05:43.154728 queries/job_rand_base_split__train/16b.sql 2.5073318481445312
+15 15 2023-06-08 14:05:44.911889 queries/job_rand_base_split__train/10c.sql 1.757033109664917
+15 16 2023-06-08 14:05:46.705892 queries/job_rand_base_split__train/17c.sql 1.7938368320465088
+15 17 2023-06-08 14:05:47.513871 queries/job_rand_base_split__train/22a.sql 0.8078346252441406
+15 18 2023-06-08 14:05:48.020563 queries/job_rand_base_split__train/5c.sql 0.5065093040466309
+15 19 2023-06-08 14:05:48.531592 queries/job_rand_base_split__train/11d.sql 0.5108399391174316
+15 20 2023-06-08 14:05:50.306666 queries/job_rand_base_split__train/20a.sql 1.774916410446167
+15 21 2023-06-08 14:05:52.445616 queries/job_rand_base_split__train/28c.sql 2.1387929916381836
+15 22 2023-06-08 14:05:55.181949 queries/job_rand_base_split__train/16b.sql 2.7361679077148438
+15 23 2023-06-08 14:05:57.457757 queries/job_rand_base_split__train/30c.sql 2.275642156600952
+15 24 2023-06-08 14:05:59.234198 queries/job_rand_base_split__train/22c.sql 1.7762722969055176
+==========================================================================================
+Iteration over chunk 17/19...
+[2023-06-08 14:05:59.234362]	[17/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.03445285343461567
+Epoch 15 training loss: 0.00218155217783836
+Stopped training from convergence condition at epoch 28
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 14:06:31.220240]	[17/19]	Retraining done.
+16 0 2023-06-08 14:06:34.470628 queries/job_rand_base_split__train/17b.sql 3.2501654624938965
+16 1 2023-06-08 14:06:49.860986 queries/job_rand_base_split__train/29b.sql 15.390002250671387
+16 2 2023-06-08 14:06:50.519594 queries/job_rand_base_split__train/10a.sql 0.658327579498291
+16 3 2023-06-08 14:06:51.821678 queries/job_rand_base_split__train/33c.sql 1.3019821643829346
+16 4 2023-06-08 14:06:52.286250 queries/job_rand_base_split__train/3b.sql 0.46445775032043457
+16 5 2023-06-08 14:06:53.516857 queries/job_rand_base_split__train/13a.sql 1.230515480041504
+16 6 2023-06-08 14:06:54.689394 queries/job_rand_base_split__train/20b.sql 1.1724205017089844
+16 7 2023-06-08 14:06:55.544318 queries/job_rand_base_split__train/14c.sql 0.8547677993774414
+16 8 2023-06-08 14:06:56.207341 queries/job_rand_base_split__train/9a.sql 0.6628603935241699
+16 9 2023-06-08 14:06:57.052247 queries/job_rand_base_split__train/23a.sql 0.8447420597076416
+16 10 2023-06-08 14:06:57.496442 queries/job_rand_base_split__train/11b.sql 0.4440336227416992
+16 11 2023-06-08 14:06:59.202862 queries/job_rand_base_split__train/17c.sql 1.7062578201293945
+16 12 2023-06-08 14:06:59.702205 queries/job_rand_base_split__train/5c.sql 0.4991605281829834
+16 13 2023-06-08 14:07:00.206802 queries/job_rand_base_split__train/21b.sql 0.5044345855712891
+16 14 2023-06-08 14:07:00.677809 queries/job_rand_base_split__train/4b.sql 0.47072815895080566
+16 15 2023-06-08 14:07:17.078858 queries/job_rand_base_split__train/29c.sql 16.400874376296997
+16 16 2023-06-08 14:07:20.008648 queries/job_rand_base_split__train/9c.sql 2.9295711517333984
+16 17 2023-06-08 14:07:20.803586 queries/job_rand_base_split__train/27b.sql 0.7947547435760498
+16 18 2023-06-08 14:07:22.528004 queries/job_rand_base_split__train/8d.sql 1.7242710590362549
+16 19 2023-06-08 14:07:24.130887 queries/job_rand_base_split__train/6d.sql 1.6027064323425293
+16 20 2023-06-08 14:07:26.186181 queries/job_rand_base_split__train/28a.sql 2.055079698562622
+16 21 2023-06-08 14:07:26.715801 queries/job_rand_base_split__train/32b.sql 0.5294036865234375
+16 22 2023-06-08 14:07:27.900386 queries/job_rand_base_split__train/22d.sql 1.184375286102295
+16 23 2023-06-08 14:07:28.398537 queries/job_rand_base_split__train/5b.sql 0.49794936180114746
+16 24 2023-06-08 14:07:29.885683 queries/job_rand_base_split__train/26a.sql 1.486980676651001
+==========================================================================================
+Iteration over chunk 18/19...
+[2023-06-08 14:07:29.885830]	[18/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.0244124372704671
+Epoch 15 training loss: 0.00162951611167915
+Stopped training from convergence condition at epoch 27
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 14:08:03.454248]	[18/19]	Retraining done.
+17 0 2023-06-08 14:08:03.886793 queries/job_rand_base_split__train/6e.sql 0.43228864669799805
+17 1 2023-06-08 14:08:05.813705 queries/job_rand_base_split__train/33b.sql 1.9267282485961914
+17 2 2023-06-08 14:08:06.628693 queries/job_rand_base_split__train/22a.sql 0.8148038387298584
+17 3 2023-06-08 14:08:10.936260 queries/job_rand_base_split__train/17d.sql 4.307378768920898
+17 4 2023-06-08 14:08:14.683386 queries/job_rand_base_split__train/17c.sql 3.7469329833984375
+17 5 2023-06-08 14:08:16.940372 queries/job_rand_base_split__train/28c.sql 2.2567715644836426
+17 6 2023-06-08 14:08:17.473383 queries/job_rand_base_split__train/3a.sql 0.532806396484375
+17 7 2023-06-08 14:08:18.074551 queries/job_rand_base_split__train/23b.sql 0.6010088920593262
+17 8 2023-06-08 14:08:19.910783 queries/job_rand_base_split__train/28b.sql 1.8360800743103027
+17 9 2023-06-08 14:08:22.065809 queries/job_rand_base_split__train/17e.sql 2.1549062728881836
+17 10 2023-06-08 14:08:22.614326 queries/job_rand_base_split__train/12a.sql 0.5484027862548828
+17 11 2023-06-08 14:08:25.046524 queries/job_rand_base_split__train/17f.sql 2.4320359230041504
+17 12 2023-06-08 14:08:27.339575 queries/job_rand_base_split__train/17e.sql 2.292860269546509
+17 13 2023-06-08 14:08:28.058458 queries/job_rand_base_split__train/19a.sql 0.7187602519989014
+17 14 2023-06-08 14:08:29.032389 queries/job_rand_base_split__train/23c.sql 0.9737398624420166
+17 15 2023-06-08 14:08:30.652888 queries/job_rand_base_split__train/13d.sql 1.6203012466430664
+17 16 2023-06-08 14:08:32.427658 queries/job_rand_base_split__train/17a.sql 1.7745540142059326
+17 17 2023-06-08 14:08:34.684016 queries/job_rand_base_split__train/30c.sql 2.256175994873047
+17 18 2023-06-08 14:08:35.119852 queries/job_rand_base_split__train/32a.sql 0.4357178211212158
+17 19 2023-06-08 14:08:35.653953 queries/job_rand_base_split__train/11d.sql 0.5339739322662354
+17 20 2023-06-08 14:08:37.635874 queries/job_rand_base_split__train/20a.sql 1.98175048828125
+17 21 2023-06-08 14:08:39.103512 queries/job_rand_base_split__train/26a.sql 1.4674537181854248
+17 22 2023-06-08 14:08:40.296140 queries/job_rand_base_split__train/20b.sql 1.1924548149108887
+17 23 2023-06-08 14:08:41.704145 queries/job_rand_base_split__train/16c.sql 1.4078238010406494
+17 24 2023-06-08 14:08:42.872416 queries/job_rand_base_split__train/20b.sql 1.168091058731079
+==========================================================================================
+Iteration over chunk 19/19...
+[2023-06-08 14:08:42.872556]	[19/19]	Retraining Bao...
+Initial input channels: 10
+Epoch 0 training loss: 0.031059191882690435
+Epoch 15 training loss: 0.0018373031966558468
+Stopped training from convergence condition at epoch 27
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+[2023-06-08 14:09:14.519321]	[19/19]	Retraining done.
+18 0 2023-06-08 14:09:17.714610 queries/job_rand_base_split__train/6f.sql 3.1950223445892334
+18 1 2023-06-08 14:09:18.485430 queries/job_rand_base_split__train/27a.sql 0.7705755233764648
+18 2 2023-06-08 14:09:20.642104 queries/job_rand_base_split__train/30c.sql 2.1565322875976562
+18 3 2023-06-08 14:09:21.108611 queries/job_rand_base_split__train/6a.sql 0.46629810333251953
+18 4 2023-06-08 14:09:21.651145 queries/job_rand_base_split__train/3a.sql 0.5423681735992432
+18 5 2023-06-08 14:09:22.095582 queries/job_rand_base_split__train/1b.sql 0.44432735443115234
+18 6 2023-06-08 14:09:22.744696 queries/job_rand_base_split__train/10a.sql 0.6489081382751465
+18 7 2023-06-08 14:09:26.109435 queries/job_rand_base_split__train/19d.sql 3.3645713329315186
+18 8 2023-06-08 14:09:27.464064 queries/job_rand_base_split__train/33c.sql 1.3544127941131592
+18 9 2023-06-08 14:09:27.887590 queries/job_rand_base_split__train/6a.sql 0.4232301712036133
+18 10 2023-06-08 14:09:29.485546 queries/job_rand_base_split__train/8d.sql 1.597782850265503
+18 11 2023-06-08 14:09:30.701562 queries/job_rand_base_split__train/20b.sql 1.2158424854278564
+18 12 2023-06-08 14:09:32.041167 queries/job_rand_base_split__train/33c.sql 1.3394320011138916
+18 13 2023-06-08 14:09:33.476397 queries/job_rand_base_split__train/26a.sql 1.4350721836090088
+18 14 2023-06-08 14:09:34.242966 queries/job_rand_base_split__train/27c.sql 0.7664175033569336
+18 15 2023-06-08 14:09:35.454391 queries/job_rand_base_split__train/16d.sql 1.2112884521484375
+18 16 2023-06-08 14:09:36.628893 queries/job_rand_base_split__train/16d.sql 1.1742725372314453
+18 17 2023-06-08 14:09:37.732118 queries/job_rand_base_split__train/20c.sql 1.1030762195587158
+18 18 2023-06-08 14:09:39.397267 queries/job_rand_base_split__train/10c.sql 1.6649458408355713
+18 19 2023-06-08 14:09:39.949461 queries/job_rand_base_split__train/19b.sql 0.5520150661468506
+18 20 2023-06-08 14:09:42.182432 queries/job_rand_base_split__train/30a.sql 2.2327957153320312
+18 21 2023-06-08 14:09:43.978744 queries/job_rand_base_split__train/20a.sql 1.7960929870605469
+18 22 2023-06-08 14:09:44.513342 queries/job_rand_base_split__train/14b.sql 0.534421443939209
+18 23 2023-06-08 14:09:45.008596 queries/job_rand_base_split__train/21c.sql 0.49513673782348633
+18 24 2023-06-08 14:09:45.858744 queries/job_rand_base_split__train/13b.sql 0.8499741554260254

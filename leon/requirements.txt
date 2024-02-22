@@ -1,0 +1,13 @@
+pandas
+torch==1.13
+psycopg2-binary
+numpy
+networkx
+ipdb
+Pillow
+scikit-learn
+scipy
+sqlparse
+google-api-python-client
+tqdm
+wandb

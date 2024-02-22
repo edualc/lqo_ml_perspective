@@ -1,0 +1,336 @@
+(no hint), 0, 2023-11-09 08:50:38.236869, queries/stack/q11__0ea8bacde0e13a4314466435cf49c8e685b39fb1.sql, 517.36, 79.498, Bao
+(no hint), 1, 2023-11-09 08:50:38.237117, queries/stack/q11__0ea8bacde0e13a4314466435cf49c8e685b39fb1.sql, 419.857, 66.707, Bao
+(no hint), 2, 2023-11-09 08:50:38.237175, queries/stack/q11__0ea8bacde0e13a4314466435cf49c8e685b39fb1.sql, 418.291, 65.918, Bao
+(no hint), 0, 2023-11-09 08:50:42.432612, queries/stack/q11__33e1caf220e5bea2e592c82eede1c0427e2c2570.sql, 498.383, 60.396, Bao
+(no hint), 1, 2023-11-09 08:50:42.432746, queries/stack/q11__33e1caf220e5bea2e592c82eede1c0427e2c2570.sql, 426.744, 47.666, Bao
+(no hint), 2, 2023-11-09 08:50:42.432787, queries/stack/q11__33e1caf220e5bea2e592c82eede1c0427e2c2570.sql, 429.763, 44.847, Bao
+(no hint), 0, 2023-11-09 08:50:46.856902, queries/stack/q11__6c5cba419c5b7b02d431aeb5e766d775d812967a.sql, 509.281, 83.245, Bao
+(no hint), 1, 2023-11-09 08:50:46.858541, queries/stack/q11__6c5cba419c5b7b02d431aeb5e766d775d812967a.sql, 426.848, 81.297, Bao
+(no hint), 2, 2023-11-09 08:50:46.858594, queries/stack/q11__6c5cba419c5b7b02d431aeb5e766d775d812967a.sql, 421.94, 98.913, Bao
+(no hint), 0, 2023-11-09 08:50:52.075427, queries/stack/q11__87c4bd0930b02a3361ac2e86c453db1fec60dc6b.sql, 512.028, 579.323, Bao
+(no hint), 1, 2023-11-09 08:50:52.075800, queries/stack/q11__87c4bd0930b02a3361ac2e86c453db1fec60dc6b.sql, 421.288, 297.007, Bao
+(no hint), 2, 2023-11-09 08:50:52.075946, queries/stack/q11__87c4bd0930b02a3361ac2e86c453db1fec60dc6b.sql, 423.815, 275.795, Bao
+(no hint), 0, 2023-11-09 08:50:56.349581, queries/stack/q11__9389f58853715321e2a60ad743f99fc365f040cb.sql, 511.44, 51.587, Bao
+(no hint), 1, 2023-11-09 08:50:56.349939, queries/stack/q11__9389f58853715321e2a60ad743f99fc365f040cb.sql, 423.412, 39.24, Bao
+(no hint), 2, 2023-11-09 08:50:56.350105, queries/stack/q11__9389f58853715321e2a60ad743f99fc365f040cb.sql, 450.894, 59.165, Bao
+(no hint), 0, 2023-11-09 08:51:00.563392, queries/stack/q11__aa96c8d7abbf8a5b6d29473c1b9447a84f8b4f52.sql, 536.292, 53.775, Bao
+(no hint), 1, 2023-11-09 08:51:00.563575, queries/stack/q11__aa96c8d7abbf8a5b6d29473c1b9447a84f8b4f52.sql, 415.521, 43.095, Bao
+(no hint), 2, 2023-11-09 08:51:00.563644, queries/stack/q11__aa96c8d7abbf8a5b6d29473c1b9447a84f8b4f52.sql, 416.95, 43.085, Bao
+(no hint), 0, 2023-11-09 08:51:10.967820, queries/stack/q11__c1ae2a992cde4ea2c4922d852df22043254b4f84.sql, 517.53, 2647.092, Bao
+(no hint), 1, 2023-11-09 08:51:10.968133, queries/stack/q11__c1ae2a992cde4ea2c4922d852df22043254b4f84.sql, 412.271, 1915.412, Bao
+(no hint), 2, 2023-11-09 08:51:10.968266, queries/stack/q11__c1ae2a992cde4ea2c4922d852df22043254b4f84.sql, 419.222, 1828.161, Bao
+(no hint), 0, 2023-11-09 08:51:15.211420, queries/stack/q11__e4ca35591923cf4efc89e64b17fb4d330c0b34df.sql, 571.7, 59.034, Bao
+(no hint), 1, 2023-11-09 08:51:15.211630, queries/stack/q11__e4ca35591923cf4efc89e64b17fb4d330c0b34df.sql, 416.354, 66.45, Bao
+(no hint), 2, 2023-11-09 08:51:15.211752, queries/stack/q11__e4ca35591923cf4efc89e64b17fb4d330c0b34df.sql, 424.772, 47.171, Bao
+(no hint), 0, 2023-11-09 08:51:19.645518, queries/stack/q12__06c8d6886a03d4d92837f38ff395b888de007d33.sql, 521.728, 121.97, Bao
+(no hint), 1, 2023-11-09 08:51:19.647064, queries/stack/q12__06c8d6886a03d4d92837f38ff395b888de007d33.sql, 443.123, 77.977, Bao
+(no hint), 2, 2023-11-09 08:51:19.647113, queries/stack/q12__06c8d6886a03d4d92837f38ff395b888de007d33.sql, 431.684, 76.612, Bao
+(no hint), 0, 2023-11-09 08:51:24.153895, queries/stack/q12__0700720596313f7fa30c0dd3d4a3001c896ba760.sql, 523.47, 141.745, Bao
+(no hint), 1, 2023-11-09 08:51:24.154158, queries/stack/q12__0700720596313f7fa30c0dd3d4a3001c896ba760.sql, 433.735, 145.512, Bao
+(no hint), 2, 2023-11-09 08:51:24.154277, queries/stack/q12__0700720596313f7fa30c0dd3d4a3001c896ba760.sql, 432.291, 131.595, Bao
+(no hint), 0, 2023-11-09 08:51:28.416990, queries/stack/q12__547c6bf1994c9b2ba82a7ae32f4b051beabf46fd.sql, 529.044, 56.29, Bao
+(no hint), 1, 2023-11-09 08:51:28.417286, queries/stack/q12__547c6bf1994c9b2ba82a7ae32f4b051beabf46fd.sql, 434.117, 52.326, Bao
+(no hint), 2, 2023-11-09 08:51:28.417992, queries/stack/q12__547c6bf1994c9b2ba82a7ae32f4b051beabf46fd.sql, 452.161, 49.656, Bao
+(no hint), 0, 2023-11-09 08:51:35.010546, queries/stack/q12__55de941e8497cfeeb93d3f8f2d7a18489e0e6c32.sql, 536.432, 818.189, Bao
+(no hint), 1, 2023-11-09 08:51:35.010851, queries/stack/q12__55de941e8497cfeeb93d3f8f2d7a18489e0e6c32.sql, 433.707, 652.69, Bao
+(no hint), 2, 2023-11-09 08:51:35.011003, queries/stack/q12__55de941e8497cfeeb93d3f8f2d7a18489e0e6c32.sql, 432.935, 979.162, Bao
+(no hint), 0, 2023-11-09 08:51:39.401657, queries/stack/q12__5a5ff9bd9de9e748708116727803117e453e30da.sql, 535.936, 90.014, Bao
+(no hint), 1, 2023-11-09 08:51:39.402025, queries/stack/q12__5a5ff9bd9de9e748708116727803117e453e30da.sql, 450.318, 76.966, Bao
+(no hint), 2, 2023-11-09 08:51:39.402592, queries/stack/q12__5a5ff9bd9de9e748708116727803117e453e30da.sql, 440.944, 91.317, Bao
+(no hint), 0, 2023-11-09 08:51:44.657782, queries/stack/q12__76a47868a09eec9f95bacb2cf21492d353698eb7.sql, 547.56, 364.273, Bao
+(no hint), 1, 2023-11-09 08:51:44.657943, queries/stack/q12__76a47868a09eec9f95bacb2cf21492d353698eb7.sql, 447.534, 358.056, Bao
+(no hint), 2, 2023-11-09 08:51:44.657989, queries/stack/q12__76a47868a09eec9f95bacb2cf21492d353698eb7.sql, 473.374, 273.967, Bao
+(no hint), 0, 2023-11-09 08:51:50.762318, queries/stack/q12__812a3effb91cb789490fc2e12af772b1a35f8552.sql, 524.274, 648.976, Bao
+(no hint), 1, 2023-11-09 08:51:50.762537, queries/stack/q12__812a3effb91cb789490fc2e12af772b1a35f8552.sql, 437.433, 612.43, Bao
+(no hint), 2, 2023-11-09 08:51:50.762627, queries/stack/q12__812a3effb91cb789490fc2e12af772b1a35f8552.sql, 463.291, 695.581, Bao
+(no hint), 0, 2023-11-09 08:51:55.009818, queries/stack/q12__bde6c0cf5e67ddae4ec0dbb787291da703e406d5.sql, 524.589, 71.564, Bao
+(no hint), 1, 2023-11-09 08:51:55.010119, queries/stack/q12__bde6c0cf5e67ddae4ec0dbb787291da703e406d5.sql, 433.571, 56.825, Bao
+(no hint), 2, 2023-11-09 08:51:55.010261, queries/stack/q12__bde6c0cf5e67ddae4ec0dbb787291da703e406d5.sql, 433.11, 56.528, Bao
+SET enable_mergejoin TO off; , 0, 2023-11-09 08:52:01.419399, queries/stack/q13__13ad1b8c6bea4fda1892b9fa82cc1ceb9ceb85fc.sql, 748.6, 367.828, Bao
+SET enable_mergejoin TO off; , 1, 2023-11-09 08:52:01.419721, queries/stack/q13__13ad1b8c6bea4fda1892b9fa82cc1ceb9ceb85fc.sql, 621.472, 329.644, Bao
+SET enable_mergejoin TO off; , 2, 2023-11-09 08:52:01.420278, queries/stack/q13__13ad1b8c6bea4fda1892b9fa82cc1ceb9ceb85fc.sql, 622.529, 322.846, Bao
+(no hint), 0, 2023-11-09 08:52:08.814274, queries/stack/q13__1ddcc8650e17b292bc7344902baffc90c5ae5761.sql, 722.567, 994.948, Bao
+(no hint), 1, 2023-11-09 08:52:08.814486, queries/stack/q13__1ddcc8650e17b292bc7344902baffc90c5ae5761.sql, 607.601, 610.191, Bao
+(no hint), 2, 2023-11-09 08:52:08.814559, queries/stack/q13__1ddcc8650e17b292bc7344902baffc90c5ae5761.sql, 596.513, 602.415, Bao
+(no hint), 0, 2023-11-09 08:52:24.720032, queries/stack/q13__935e2051bf80eeafe91aeb6eb719b6b64b9592c2.sql, 721.864, 4382.402, Bao
+(no hint), 1, 2023-11-09 08:52:24.720389, queries/stack/q13__935e2051bf80eeafe91aeb6eb719b6b64b9592c2.sql, 604.839, 3307.205, Bao
+(no hint), 2, 2023-11-09 08:52:24.720531, queries/stack/q13__935e2051bf80eeafe91aeb6eb719b6b64b9592c2.sql, 652.25, 2931.075, Bao
+(no hint), 0, 2023-11-09 08:52:30.438070, queries/stack/q13__a091adce62743b65c04532e98e8ff3d7e546ea77.sql, 730.132, 150.481, Bao
+(no hint), 1, 2023-11-09 08:52:30.438353, queries/stack/q13__a091adce62743b65c04532e98e8ff3d7e546ea77.sql, 607.423, 136.238, Bao
+(no hint), 2, 2023-11-09 08:52:30.438482, queries/stack/q13__a091adce62743b65c04532e98e8ff3d7e546ea77.sql, 614.193, 139.813, Bao
+(no hint), 0, 2023-11-09 08:52:38.592306, queries/stack/q13__a3d03772d880754fc4e150d82908757477ae2186.sql, 713.285, 976.408, Bao
+(no hint), 1, 2023-11-09 08:52:38.592597, queries/stack/q13__a3d03772d880754fc4e150d82908757477ae2186.sql, 626.022, 1107.152, Bao
+(no hint), 2, 2023-11-09 08:52:38.592728, queries/stack/q13__a3d03772d880754fc4e150d82908757477ae2186.sql, 609.483, 877.581, Bao
+(no hint), 0, 2023-11-09 08:52:45.773122, queries/stack/q13__add0df9dccb2790c14508e19c9e0deb79fad6ea2.sql, 719.229, 772.825, Bao
+(no hint), 1, 2023-11-09 08:52:45.773429, queries/stack/q13__add0df9dccb2790c14508e19c9e0deb79fad6ea2.sql, 600.951, 756.414, Bao
+(no hint), 2, 2023-11-09 08:52:45.773563, queries/stack/q13__add0df9dccb2790c14508e19c9e0deb79fad6ea2.sql, 588.924, 493.5, Bao
+(no hint), 0, 2023-11-09 08:52:51.231947, queries/stack/q13__d383cd5b4aee7d3f73508e2a1fe5f6d0f7dd42a2.sql, 720.584, 130.47, Bao
+(no hint), 1, 2023-11-09 08:52:51.232239, queries/stack/q13__d383cd5b4aee7d3f73508e2a1fe5f6d0f7dd42a2.sql, 600.512, 84.072, Bao
+(no hint), 2, 2023-11-09 08:52:51.232372, queries/stack/q13__d383cd5b4aee7d3f73508e2a1fe5f6d0f7dd42a2.sql, 587.367, 84.116, Bao
+(no hint), 0, 2023-11-09 08:52:57.384488, queries/stack/q13__d4707be2adfdbc842f42acb1fc16e3a43faf7474.sql, 738.628, 308.495, Bao
+(no hint), 1, 2023-11-09 08:52:57.384661, queries/stack/q13__d4707be2adfdbc842f42acb1fc16e3a43faf7474.sql, 607.123, 224.924, Bao
+(no hint), 2, 2023-11-09 08:52:57.384713, queries/stack/q13__d4707be2adfdbc842f42acb1fc16e3a43faf7474.sql, 613.317, 373.195, Bao
+(no hint), 0, 2023-11-09 08:53:03.285581, queries/stack/q14__4063b6cbbd1c0f2a902a647aafe24174a75f53cd.sql, 646.158, 398.259, Bao
+(no hint), 1, 2023-11-09 08:53:03.285893, queries/stack/q14__4063b6cbbd1c0f2a902a647aafe24174a75f53cd.sql, 522.741, 322.795, Bao
+(no hint), 2, 2023-11-09 08:53:03.286027, queries/stack/q14__4063b6cbbd1c0f2a902a647aafe24174a75f53cd.sql, 513.722, 352.518, Bao
+(no hint), 0, 2023-11-09 08:53:18.603996, queries/stack/q14__5dbc1d1f1a0467ad0086e6cb337144387a37533a.sql, 643.952, 3891.571, Bao
+(no hint), 1, 2023-11-09 08:53:18.604291, queries/stack/q14__5dbc1d1f1a0467ad0086e6cb337144387a37533a.sql, 516.311, 3774.188, Bao
+(no hint), 2, 2023-11-09 08:53:18.604423, queries/stack/q14__5dbc1d1f1a0467ad0086e6cb337144387a37533a.sql, 518.583, 2963.151, Bao
+(no hint), 0, 2023-11-09 08:53:23.722777, queries/stack/q14__5e4835cd72aaa2d7be15b2a5ffa2e66156b3656f.sql, 642.753, 137.868, Bao
+(no hint), 1, 2023-11-09 08:53:23.723063, queries/stack/q14__5e4835cd72aaa2d7be15b2a5ffa2e66156b3656f.sql, 525.766, 111.097, Bao
+(no hint), 2, 2023-11-09 08:53:23.723194, queries/stack/q14__5e4835cd72aaa2d7be15b2a5ffa2e66156b3656f.sql, 524.521, 106.549, Bao
+(no hint), 0, 2023-11-09 08:53:28.580247, queries/stack/q14__63c0776f1727638316b966fe748df7cc585a335b.sql, 633.772, 62.172, Bao
+(no hint), 1, 2023-11-09 08:53:28.580405, queries/stack/q14__63c0776f1727638316b966fe748df7cc585a335b.sql, 522.096, 76.163, Bao
+(no hint), 2, 2023-11-09 08:53:28.580454, queries/stack/q14__63c0776f1727638316b966fe748df7cc585a335b.sql, 519.033, 50.172, Bao
+(no hint), 0, 2023-11-09 08:53:34.594109, queries/stack/q14__719e692d411868ae7a93909757872d264f6bbf73.sql, 634.333, 409.894, Bao
+(no hint), 1, 2023-11-09 08:53:34.594416, queries/stack/q14__719e692d411868ae7a93909757872d264f6bbf73.sql, 546.054, 523.322, Bao
+(no hint), 2, 2023-11-09 08:53:34.594573, queries/stack/q14__719e692d411868ae7a93909757872d264f6bbf73.sql, 527.632, 323.923, Bao
+(no hint), 0, 2023-11-09 08:53:51.704614, queries/stack/q14__74fd1af68d23f0690e3d0fc80bd9b42fa90a7e94.sql, 621.079, 4171.913, Bao
+(no hint), 1, 2023-11-09 08:53:51.707797, queries/stack/q14__74fd1af68d23f0690e3d0fc80bd9b42fa90a7e94.sql, 515.965, 4664.955, Bao
+(no hint), 2, 2023-11-09 08:53:51.707969, queries/stack/q14__74fd1af68d23f0690e3d0fc80bd9b42fa90a7e94.sql, 514.556, 3435.414, Bao
+(no hint), 0, 2023-11-09 08:54:09.601574, queries/stack/q14__97e68ad5c2ced4c182366b3118a1f5f69b423fa6.sql, 627.24, 4907.218, Bao
+(no hint), 1, 2023-11-09 08:54:09.601804, queries/stack/q14__97e68ad5c2ced4c182366b3118a1f5f69b423fa6.sql, 513.881, 4957.891, Bao
+(no hint), 2, 2023-11-09 08:54:09.601883, queries/stack/q14__97e68ad5c2ced4c182366b3118a1f5f69b423fa6.sql, 514.967, 3322.253, Bao
+(no hint), 0, 2023-11-09 08:54:14.768242, queries/stack/q14__b49361f85785200ed6ec1f2eec357b7598c9e564.sql, 644.659, 192.856, Bao
+(no hint), 1, 2023-11-09 08:54:14.768615, queries/stack/q14__b49361f85785200ed6ec1f2eec357b7598c9e564.sql, 512.332, 118.817, Bao
+(no hint), 2, 2023-11-09 08:54:14.769156, queries/stack/q14__b49361f85785200ed6ec1f2eec357b7598c9e564.sql, 537.042, 139.202, Bao
+(no hint), 0, 2023-11-09 08:54:19.731964, queries/stack/q15__21e4988a3f47be288de5891d69acf91928ed94eb.sql, 641.836, 184.136, Bao
+(no hint), 1, 2023-11-09 08:54:19.732241, queries/stack/q15__21e4988a3f47be288de5891d69acf91928ed94eb.sql, 472.522, 148.351, Bao
+(no hint), 2, 2023-11-09 08:54:19.732373, queries/stack/q15__21e4988a3f47be288de5891d69acf91928ed94eb.sql, 507.955, 174.488, Bao
+(no hint), 0, 2023-11-09 08:54:25.450863, queries/stack/q15__3e37e62655ceaebc14e79edad518e5710752f51d.sql, 561.386, 468.709, Bao
+(no hint), 1, 2023-11-09 08:54:25.451161, queries/stack/q15__3e37e62655ceaebc14e79edad518e5710752f51d.sql, 485.933, 411.983, Bao
+(no hint), 2, 2023-11-09 08:54:25.451292, queries/stack/q15__3e37e62655ceaebc14e79edad518e5710752f51d.sql, 472.093, 443.279, Bao
+(no hint), 0, 2023-11-09 08:54:30.587664, queries/stack/q15__543ab3f730e494a69e3d15e59675f491544cb15d.sql, 563.856, 312.683, Bao
+(no hint), 1, 2023-11-09 08:54:30.587998, queries/stack/q15__543ab3f730e494a69e3d15e59675f491544cb15d.sql, 463.75, 240.882, Bao
+(no hint), 2, 2023-11-09 08:54:30.588551, queries/stack/q15__543ab3f730e494a69e3d15e59675f491544cb15d.sql, 467.334, 227.273, Bao
+(no hint), 0, 2023-11-09 08:54:35.863867, queries/stack/q15__78995a5fc0536aa53b99be32ce84dcbf40e826f3.sql, 563.355, 314.191, Bao
+(no hint), 1, 2023-11-09 08:54:35.864066, queries/stack/q15__78995a5fc0536aa53b99be32ce84dcbf40e826f3.sql, 472.408, 392.482, Bao
+(no hint), 2, 2023-11-09 08:54:35.864640, queries/stack/q15__78995a5fc0536aa53b99be32ce84dcbf40e826f3.sql, 462.809, 254.867, Bao
+(no hint), 0, 2023-11-09 08:54:41.586212, queries/stack/q15__b2ee2c788d30655058aeb992811e9a54f17f2998.sql, 562.216, 442.249, Bao
+(no hint), 1, 2023-11-09 08:54:41.586584, queries/stack/q15__b2ee2c788d30655058aeb992811e9a54f17f2998.sql, 463.471, 530.248, Bao
+(no hint), 2, 2023-11-09 08:54:41.586725, queries/stack/q15__b2ee2c788d30655058aeb992811e9a54f17f2998.sql, 465.308, 446.989, Bao
+(no hint), 0, 2023-11-09 08:54:47.231333, queries/stack/q15__b8ddf65b0c0c7867a9b560e571d457fec410715c.sql, 570.379, 446.53, Bao
+(no hint), 1, 2023-11-09 08:54:47.231659, queries/stack/q15__b8ddf65b0c0c7867a9b560e571d457fec410715c.sql, 476.298, 430.334, Bao
+(no hint), 2, 2023-11-09 08:54:47.232320, queries/stack/q15__b8ddf65b0c0c7867a9b560e571d457fec410715c.sql, 466.791, 428.038, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 0, 2023-11-09 08:54:52.952011, queries/stack/q15__c9619ad44302bada330d337c174f9dab77538622.sql, 564.417, 483.799, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 1, 2023-11-09 08:54:52.952306, queries/stack/q15__c9619ad44302bada330d337c174f9dab77538622.sql, 475.489, 420.31, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 2, 2023-11-09 08:54:52.952441, queries/stack/q15__c9619ad44302bada330d337c174f9dab77538622.sql, 496.795, 423.259, Bao
+(no hint), 0, 2023-11-09 08:54:57.773779, queries/stack/q15__d5546c01928a687eb1f54e9f8eb4e1aff68fc381.sql, 557.56, 194.278, Bao
+(no hint), 1, 2023-11-09 08:54:57.774064, queries/stack/q15__d5546c01928a687eb1f54e9f8eb4e1aff68fc381.sql, 462.64, 166.762, Bao
+(no hint), 2, 2023-11-09 08:54:57.774193, queries/stack/q15__d5546c01928a687eb1f54e9f8eb4e1aff68fc381.sql, 461.466, 162.053, Bao
+(no hint), 0, 2023-11-09 08:55:16.695528, queries/stack/q16__1e863562a79ca1f7754c759ebab6a2addda0bde8.sql, 562.315, 5818.809, Bao
+(no hint), 1, 2023-11-09 08:55:16.695884, queries/stack/q16__1e863562a79ca1f7754c759ebab6a2addda0bde8.sql, 446.877, 4376.99, Bao
+(no hint), 2, 2023-11-09 08:55:16.696023, queries/stack/q16__1e863562a79ca1f7754c759ebab6a2addda0bde8.sql, 453.825, 4406.7, Bao
+(no hint), 0, 2023-11-09 08:55:41.788553, queries/stack/q16__374e3e4c9eefc294fa4c46220953336298df3622.sql, 562.334, 7597.518, Bao
+(no hint), 1, 2023-11-09 08:55:41.788905, queries/stack/q16__374e3e4c9eefc294fa4c46220953336298df3622.sql, 447.478, 6629.118, Bao
+(no hint), 2, 2023-11-09 08:55:41.789050, queries/stack/q16__374e3e4c9eefc294fa4c46220953336298df3622.sql, 451.141, 6610.443, Bao
+(no hint), 0, 2023-11-09 08:55:48.079247, queries/stack/q16__b1a96cd48ba297dd93bce73c27b491069ad7449f.sql, 545.39, 819.959, Bao
+(no hint), 1, 2023-11-09 08:55:48.079665, queries/stack/q16__b1a96cd48ba297dd93bce73c27b491069ad7449f.sql, 451.246, 581.197, Bao
+(no hint), 2, 2023-11-09 08:55:48.079869, queries/stack/q16__b1a96cd48ba297dd93bce73c27b491069ad7449f.sql, 496.433, 602.032, Bao
+(no hint), 0, 2023-11-09 08:55:52.885848, queries/stack/q16__d5290889129fb8e625f2b36fa106e30d6c4b243b.sql, 551.617, 186.418, Bao
+(no hint), 1, 2023-11-09 08:55:52.886212, queries/stack/q16__d5290889129fb8e625f2b36fa106e30d6c4b243b.sql, 453.29, 115.453, Bao
+(no hint), 2, 2023-11-09 08:55:52.886353, queries/stack/q16__d5290889129fb8e625f2b36fa106e30d6c4b243b.sql, 454.743, 125.202, Bao
+(no hint), 0, 2023-11-09 08:55:58.234437, queries/stack/q16__ea9efde510227beb8d624b8c4a6941b9d5e6e637.sql, 547.463, 297.278, Bao
+(no hint), 1, 2023-11-09 08:55:58.234606, queries/stack/q16__ea9efde510227beb8d624b8c4a6941b9d5e6e637.sql, 447.578, 387.095, Bao
+(no hint), 2, 2023-11-09 08:55:58.234657, queries/stack/q16__ea9efde510227beb8d624b8c4a6941b9d5e6e637.sql, 447.443, 352.521, Bao
+(no hint), 0, 2023-11-09 08:56:07.023789, queries/stack/q16__ed2ffeaefcf5ad8bbadc713ccc766541e12080aa.sql, 544.584, 1496.363, Bao
+(no hint), 1, 2023-11-09 08:56:07.023957, queries/stack/q16__ed2ffeaefcf5ad8bbadc713ccc766541e12080aa.sql, 458.934, 1432.813, Bao
+(no hint), 2, 2023-11-09 08:56:07.024009, queries/stack/q16__ed2ffeaefcf5ad8bbadc713ccc766541e12080aa.sql, 471.191, 1577.01, Bao
+(no hint), 0, 2023-11-09 08:56:12.081062, queries/stack/q16__f67cec3d635586efb847c832072be83b42cc45b7.sql, 655.595, 151.408, Bao
+(no hint), 1, 2023-11-09 08:56:12.081236, queries/stack/q16__f67cec3d635586efb847c832072be83b42cc45b7.sql, 489.745, 328.931, Bao
+(no hint), 2, 2023-11-09 08:56:12.081293, queries/stack/q16__f67cec3d635586efb847c832072be83b42cc45b7.sql, 455.661, 133.368, Bao
+(no hint), 0, 2023-11-09 08:56:30.586963, queries/stack/q16__fbe34e8fdf672a34fd82cbbd6d9a81fd02ce17d1.sql, 562.385, 4224.314, Bao
+(no hint), 1, 2023-11-09 08:56:30.587123, queries/stack/q16__fbe34e8fdf672a34fd82cbbd6d9a81fd02ce17d1.sql, 525.822, 4998.707, Bao
+(no hint), 2, 2023-11-09 08:56:30.587168, queries/stack/q16__fbe34e8fdf672a34fd82cbbd6d9a81fd02ce17d1.sql, 452.707, 4872.705, Bao
+(no hint), 0, 2023-11-09 08:56:34.790334, queries/stack/q1__q1-009.sql, 511.835, 19.077, Bao
+(no hint), 1, 2023-11-09 08:56:34.790605, queries/stack/q1__q1-009.sql, 419.612, 14.842, Bao
+(no hint), 2, 2023-11-09 08:56:34.790734, queries/stack/q1__q1-009.sql, 416.095, 14.552, Bao
+(no hint), 0, 2023-11-09 08:56:38.783969, queries/stack/q1__q1-031.sql, 497.411, 17.992, Bao
+(no hint), 1, 2023-11-09 08:56:38.784249, queries/stack/q1__q1-031.sql, 409.028, 14.41, Bao
+(no hint), 2, 2023-11-09 08:56:38.784382, queries/stack/q1__q1-031.sql, 408.696, 14.537, Bao
+(no hint), 0, 2023-11-09 08:56:42.803616, queries/stack/q1__q1-035.sql, 503.943, 18.799, Bao
+(no hint), 1, 2023-11-09 08:56:42.803993, queries/stack/q1__q1-035.sql, 414.331, 14.366, Bao
+(no hint), 2, 2023-11-09 08:56:42.804195, queries/stack/q1__q1-035.sql, 413.548, 14.575, Bao
+(no hint), 0, 2023-11-09 08:56:47.009943, queries/stack/q1__q1-067.sql, 528.968, 95.869, Bao
+(no hint), 1, 2023-11-09 08:56:47.010272, queries/stack/q1__q1-067.sql, 412.262, 43.35, Bao
+(no hint), 2, 2023-11-09 08:56:47.010882, queries/stack/q1__q1-067.sql, 410.793, 43.539, Bao
+(no hint), 0, 2023-11-09 08:56:51.210556, queries/stack/q1__q1-075.sql, 500.65, 125.387, Bao
+(no hint), 1, 2023-11-09 08:56:51.210898, queries/stack/q1__q1-075.sql, 412.199, 60.112, Bao
+(no hint), 2, 2023-11-09 08:56:51.211086, queries/stack/q1__q1-075.sql, 414.881, 60.03, Bao
+(no hint), 0, 2023-11-09 08:57:03.026964, queries/stack/q1__q1-098.sql, 499.089, 3023.016, Bao
+(no hint), 1, 2023-11-09 08:57:03.027318, queries/stack/q1__q1-098.sql, 412.896, 2414.902, Bao
+(no hint), 2, 2023-11-09 08:57:03.027470, queries/stack/q1__q1-098.sql, 414.984, 2429.57, Bao
+(no hint), 0, 2023-11-09 08:57:13.440388, queries/stack/q1__q1-099.sql, 504.635, 2607.195, Bao
+(no hint), 1, 2023-11-09 08:57:13.440794, queries/stack/q1__q1-099.sql, 422.903, 1913.491, Bao
+(no hint), 2, 2023-11-09 08:57:13.441486, queries/stack/q1__q1-099.sql, 410.97, 1908.371, Bao
+(no hint), 0, 2023-11-09 08:57:24.558837, queries/stack/q1__q1-100.sql, 502.791, 2812.397, Bao
+(no hint), 1, 2023-11-09 08:57:24.559180, queries/stack/q1__q1-100.sql, 413.603, 2134.794, Bao
+(no hint), 2, 2023-11-09 08:57:24.559331, queries/stack/q1__q1-100.sql, 414.955, 2180.553, Bao
+(no hint), 0, 2023-11-09 08:57:31.936103, queries/stack/q2__q2-001.sql, 871.53, 478.56, Bao
+(no hint), 1, 2023-11-09 08:57:31.936280, queries/stack/q2__q2-001.sql, 682.761, 556.948, Bao
+(no hint), 2, 2023-11-09 08:57:31.936334, queries/stack/q2__q2-001.sql, 687.359, 555.396, Bao
+(no hint), 0, 2023-11-09 08:57:38.967320, queries/stack/q2__q2-012.sql, 828.894, 545.944, Bao
+(no hint), 1, 2023-11-09 08:57:38.967615, queries/stack/q2__q2-012.sql, 676.546, 440.597, Bao
+(no hint), 2, 2023-11-09 08:57:38.967799, queries/stack/q2__q2-012.sql, 688.304, 302.039, Bao
+(no hint), 0, 2023-11-09 08:57:45.891801, queries/stack/q2__q2-032.sql, 844.553, 393.166, Bao
+(no hint), 1, 2023-11-09 08:57:45.891966, queries/stack/q2__q2-032.sql, 678.952, 417.799, Bao
+(no hint), 2, 2023-11-09 08:57:45.892016, queries/stack/q2__q2-032.sql, 679.968, 369.566, Bao
+(no hint), 0, 2023-11-09 08:57:53.246730, queries/stack/q2__q2-035.sql, 824.311, 541.652, Bao
+(no hint), 1, 2023-11-09 08:57:53.247089, queries/stack/q2__q2-035.sql, 703.062, 534.718, Bao
+(no hint), 2, 2023-11-09 08:57:53.247225, queries/stack/q2__q2-035.sql, 680.713, 531.797, Bao
+(no hint), 0, 2023-11-09 08:57:59.781360, queries/stack/q2__q2-050.sql, 828.298, 345.698, Bao
+(no hint), 1, 2023-11-09 08:57:59.781726, queries/stack/q2__q2-050.sql, 682.196, 282.846, Bao
+(no hint), 2, 2023-11-09 08:57:59.781860, queries/stack/q2__q2-050.sql, 684.55, 187.188, Bao
+(no hint), 0, 2023-11-09 08:58:06.545595, queries/stack/q2__q2-081.sql, 835.582, 394.818, Bao
+(no hint), 1, 2023-11-09 08:58:06.545767, queries/stack/q2__q2-081.sql, 683.237, 299.745, Bao
+(no hint), 2, 2023-11-09 08:58:06.545821, queries/stack/q2__q2-081.sql, 675.864, 362.216, Bao
+(no hint), 0, 2023-11-09 08:58:13.508856, queries/stack/q2__q2-094.sql, 826.708, 397.309, Bao
+(no hint), 1, 2023-11-09 08:58:13.509150, queries/stack/q2__q2-094.sql, 700.488, 396.223, Bao
+(no hint), 2, 2023-11-09 08:58:13.509282, queries/stack/q2__q2-094.sql, 676.534, 409.371, Bao
+(no hint), 0, 2023-11-09 08:58:39.978458, queries/stack/q2__q2-098.sql, 811.291, 7101.198, Bao
+(no hint), 1, 2023-11-09 08:58:39.978812, queries/stack/q2__q2-098.sql, 674.774, 6770.233, Bao
+(no hint), 2, 2023-11-09 08:58:39.978958, queries/stack/q2__q2-098.sql, 683.85, 6922.109, Bao
+SET enable_mergejoin TO off; , 0, 2023-11-09 08:58:49.196451, queries/stack/q3__q3-018.sql, 895.327, 1160.48, Bao
+SET enable_mergejoin TO off; , 1, 2023-11-09 08:58:49.196835, queries/stack/q3__q3-018.sql, 779.386, 945.435, Bao
+SET enable_mergejoin TO off; , 2, 2023-11-09 08:58:49.197468, queries/stack/q3__q3-018.sql, 774.34, 944.393, Bao
+SET enable_mergejoin TO off; , 0, 2023-11-09 08:59:01.438962, queries/stack/q3__q3-040.sql, 857.453, 2251.551, Bao
+SET enable_mergejoin TO off; , 1, 2023-11-09 08:59:01.439343, queries/stack/q3__q3-040.sql, 767.752, 1921.908, Bao
+SET enable_mergejoin TO off; , 2, 2023-11-09 08:59:01.439502, queries/stack/q3__q3-040.sql, 768.499, 1971.689, Bao
+SET enable_mergejoin TO off; , 0, 2023-11-09 08:59:13.711978, queries/stack/q3__q3-043.sql, 860.294, 2194.967, Bao
+SET enable_mergejoin TO off; , 1, 2023-11-09 08:59:13.712326, queries/stack/q3__q3-043.sql, 766.749, 1962.547, Bao
+SET enable_mergejoin TO off; , 2, 2023-11-09 08:59:13.712460, queries/stack/q3__q3-043.sql, 810.441, 1928.999, Bao
+SET enable_mergejoin TO off; , 0, 2023-11-09 08:59:26.454222, queries/stack/q3__q3-046.sql, 862.344, 2492.583, Bao
+SET enable_mergejoin TO off; , 1, 2023-11-09 08:59:26.454560, queries/stack/q3__q3-046.sql, 768.466, 2006.549, Bao
+SET enable_mergejoin TO off; , 2, 2023-11-09 08:59:26.454694, queries/stack/q3__q3-046.sql, 775.828, 2094.27, Bao
+SET enable_mergejoin TO off; , 0, 2023-11-09 08:59:35.505252, queries/stack/q3__q3-066.sql, 856.876, 1117.607, Bao
+SET enable_mergejoin TO off; , 1, 2023-11-09 08:59:35.505653, queries/stack/q3__q3-066.sql, 766.874, 915.185, Bao
+SET enable_mergejoin TO off; , 2, 2023-11-09 08:59:35.505798, queries/stack/q3__q3-066.sql, 774.277, 909.311, Bao
+SET enable_mergejoin TO off; , 0, 2023-11-09 08:59:45.752732, queries/stack/q3__q3-068.sql, 852.116, 1478.939, Bao
+SET enable_mergejoin TO off; , 1, 2023-11-09 08:59:45.753091, queries/stack/q3__q3-068.sql, 764.937, 1318.904, Bao
+SET enable_mergejoin TO off; , 2, 2023-11-09 08:59:45.753229, queries/stack/q3__q3-068.sql, 771.888, 1340.81, Bao
+SET enable_mergejoin TO off; , 0, 2023-11-09 08:59:55.039467, queries/stack/q3__q3-086.sql, 858.114, 1248.656, Bao
+SET enable_mergejoin TO off; , 1, 2023-11-09 08:59:55.039893, queries/stack/q3__q3-086.sql, 769.206, 979.355, Bao
+SET enable_mergejoin TO off; , 2, 2023-11-09 08:59:55.040503, queries/stack/q3__q3-086.sql, 761.955, 967.062, Bao
+(no hint), 0, 2023-11-09 09:00:04.102027, queries/stack/q3__q3-099.sql, 852.643, 1011.438, Bao
+(no hint), 1, 2023-11-09 09:00:04.102414, queries/stack/q3__q3-099.sql, 783.505, 919.907, Bao
+(no hint), 2, 2023-11-09 09:00:04.102554, queries/stack/q3__q3-099.sql, 792.126, 927.428, Bao
+(no hint), 0, 2023-11-09 09:00:08.494484, queries/stack/q4__q4-002.sql, 549.156, 100.097, Bao
+(no hint), 1, 2023-11-09 09:00:08.494892, queries/stack/q4__q4-002.sql, 447.847, 56.394, Bao
+(no hint), 2, 2023-11-09 09:00:08.495056, queries/stack/q4__q4-002.sql, 441.713, 57.886, Bao
+(no hint), 0, 2023-11-09 09:00:12.848642, queries/stack/q4__q4-026.sql, 537.625, 69.758, Bao
+(no hint), 1, 2023-11-09 09:00:12.849046, queries/stack/q4__q4-026.sql, 443.928, 45.946, Bao
+(no hint), 2, 2023-11-09 09:00:12.849702, queries/stack/q4__q4-026.sql, 461.949, 45.135, Bao
+(no hint), 0, 2023-11-09 09:00:17.350924, queries/stack/q4__q4-041.sql, 541.877, 143.326, Bao
+(no hint), 1, 2023-11-09 09:00:17.351331, queries/stack/q4__q4-041.sql, 444.809, 100.726, Bao
+(no hint), 2, 2023-11-09 09:00:17.351602, queries/stack/q4__q4-041.sql, 441.641, 100.327, Bao
+(no hint), 0, 2023-11-09 09:00:21.688874, queries/stack/q4__q4-042.sql, 544.444, 64.121, Bao
+(no hint), 1, 2023-11-09 09:00:21.689383, queries/stack/q4__q4-042.sql, 450.823, 40.11, Bao
+(no hint), 2, 2023-11-09 09:00:21.689737, queries/stack/q4__q4-042.sql, 452.026, 40.5, Bao
+(no hint), 0, 2023-11-09 09:00:25.992721, queries/stack/q4__q4-064.sql, 539.765, 56.51, Bao
+(no hint), 1, 2023-11-09 09:00:25.993258, queries/stack/q4__q4-064.sql, 449.572, 40.714, Bao
+(no hint), 2, 2023-11-09 09:00:25.993596, queries/stack/q4__q4-064.sql, 445.17, 38.247, Bao
+(no hint), 0, 2023-11-09 09:00:30.486945, queries/stack/q4__q4-074.sql, 595.309, 136.038, Bao
+(no hint), 1, 2023-11-09 09:00:30.487444, queries/stack/q4__q4-074.sql, 440.16, 84.099, Bao
+(no hint), 2, 2023-11-09 09:00:30.487794, queries/stack/q4__q4-074.sql, 442.736, 79.847, Bao
+(no hint), 0, 2023-11-09 09:00:34.878164, queries/stack/q4__q4-086.sql, 546.761, 103.904, Bao
+(no hint), 1, 2023-11-09 09:00:34.878563, queries/stack/q4__q4-086.sql, 448.02, 74.027, Bao
+(no hint), 2, 2023-11-09 09:00:34.879111, queries/stack/q4__q4-086.sql, 442.092, 74.133, Bao
+(no hint), 0, 2023-11-09 09:00:39.282853, queries/stack/q4__q4-089.sql, 537.069, 115.558, Bao
+(no hint), 1, 2023-11-09 09:00:39.283260, queries/stack/q4__q4-089.sql, 443.121, 82.207, Bao
+(no hint), 2, 2023-11-09 09:00:39.283529, queries/stack/q4__q4-089.sql, 443.633, 80.537, Bao
+(no hint), 0, 2023-11-09 09:00:43.480267, queries/stack/q5__q5-015.sql, 534.114, 25.862, Bao
+(no hint), 1, 2023-11-09 09:00:43.480672, queries/stack/q5__q5-015.sql, 441.087, 20.939, Bao
+(no hint), 2, 2023-11-09 09:00:43.480921, queries/stack/q5__q5-015.sql, 439.221, 20.309, Bao
+SET enable_mergejoin TO off; , 0, 2023-11-09 09:00:47.721783, queries/stack/q5__q5-032.sql, 537.921, 33.385, Bao
+SET enable_mergejoin TO off; , 1, 2023-11-09 09:00:47.722049, queries/stack/q5__q5-032.sql, 456.082, 26.569, Bao
+SET enable_mergejoin TO off; , 2, 2023-11-09 09:00:47.722189, queries/stack/q5__q5-032.sql, 444.755, 27.463, Bao
+SET enable_mergejoin TO off; , 0, 2023-11-09 09:00:51.974061, queries/stack/q5__q5-041.sql, 526.478, 59.481, Bao
+SET enable_mergejoin TO off; , 1, 2023-11-09 09:00:51.974593, queries/stack/q5__q5-041.sql, 439.206, 56.014, Bao
+SET enable_mergejoin TO off; , 2, 2023-11-09 09:00:51.975063, queries/stack/q5__q5-041.sql, 436.356, 36.146, Bao
+(no hint), 0, 2023-11-09 09:00:56.169872, queries/stack/q5__q5-052.sql, 543.323, 27.329, Bao
+(no hint), 1, 2023-11-09 09:00:56.170342, queries/stack/q5__q5-052.sql, 439.719, 21.035, Bao
+(no hint), 2, 2023-11-09 09:00:56.170619, queries/stack/q5__q5-052.sql, 435.15, 21.466, Bao
+SET enable_mergejoin TO off; , 0, 2023-11-09 09:01:00.442694, queries/stack/q5__q5-059.sql, 541.328, 42.492, Bao
+SET enable_mergejoin TO off; , 1, 2023-11-09 09:01:00.443099, queries/stack/q5__q5-059.sql, 444.997, 38.797, Bao
+SET enable_mergejoin TO off; , 2, 2023-11-09 09:01:00.443373, queries/stack/q5__q5-059.sql, 440.695, 40.163, Bao
+(no hint), 0, 2023-11-09 09:01:04.661952, queries/stack/q5__q5-077.sql, 540.576, 30.592, Bao
+(no hint), 1, 2023-11-09 09:01:04.662368, queries/stack/q5__q5-077.sql, 439.161, 21.61, Bao
+(no hint), 2, 2023-11-09 09:01:04.662638, queries/stack/q5__q5-077.sql, 439.781, 21.661, Bao
+SET enable_mergejoin TO off; , 0, 2023-11-09 09:01:09.071381, queries/stack/q5__q5-079.sql, 547.573, 98.209, Bao
+SET enable_mergejoin TO off; , 1, 2023-11-09 09:01:09.071885, queries/stack/q5__q5-079.sql, 441.194, 82.077, Bao
+SET enable_mergejoin TO off; , 2, 2023-11-09 09:01:09.072544, queries/stack/q5__q5-079.sql, 443.464, 62.272, Bao
+(no hint), 0, 2023-11-09 09:01:13.403406, queries/stack/q5__q5-082.sql, 533.618, 50.798, Bao
+(no hint), 1, 2023-11-09 09:01:13.403687, queries/stack/q5__q5-082.sql, 453.581, 35.238, Bao
+(no hint), 2, 2023-11-09 09:01:13.403850, queries/stack/q5__q5-082.sql, 454.611, 34.131, Bao
+(no hint), 0, 2023-11-09 09:01:17.692600, queries/stack/q6__q6-002.sql, 552.722, 40.233, Bao
+(no hint), 1, 2023-11-09 09:01:17.692964, queries/stack/q6__q6-002.sql, 459.757, 27.318, Bao
+(no hint), 2, 2023-11-09 09:01:17.693107, queries/stack/q6__q6-002.sql, 450.566, 27.382, Bao
+(no hint), 0, 2023-11-09 09:01:21.958458, queries/stack/q6__q6-009.sql, 552.181, 35.622, Bao
+(no hint), 1, 2023-11-09 09:01:21.958734, queries/stack/q6__q6-009.sql, 448.64, 33.045, Bao
+(no hint), 2, 2023-11-09 09:01:21.958877, queries/stack/q6__q6-009.sql, 449.953, 32.609, Bao
+(no hint), 0, 2023-11-09 09:01:26.326455, queries/stack/q6__q6-060.sql, 566.525, 52.971, Bao
+(no hint), 1, 2023-11-09 09:01:26.326749, queries/stack/q6__q6-060.sql, 454.5, 36.875, Bao
+(no hint), 2, 2023-11-09 09:01:26.327341, queries/stack/q6__q6-060.sql, 451.548, 48.49, Bao
+(no hint), 0, 2023-11-09 09:01:30.575964, queries/stack/q6__q6-064.sql, 544.857, 25.59, Bao
+(no hint), 1, 2023-11-09 09:01:30.576241, queries/stack/q6__q6-064.sql, 453.035, 22.436, Bao
+(no hint), 2, 2023-11-09 09:01:30.576377, queries/stack/q6__q6-064.sql, 447.643, 19.956, Bao
+(no hint), 0, 2023-11-09 09:01:34.808591, queries/stack/q6__q6-065.sql, 536.45, 24.723, Bao
+(no hint), 1, 2023-11-09 09:01:34.808840, queries/stack/q6__q6-065.sql, 448.841, 23.204, Bao
+(no hint), 2, 2023-11-09 09:01:34.808962, queries/stack/q6__q6-065.sql, 446.097, 24.157, Bao
+(no hint), 0, 2023-11-09 09:01:39.012946, queries/stack/q6__q6-067.sql, 538.339, 24.356, Bao
+(no hint), 1, 2023-11-09 09:01:39.013123, queries/stack/q6__q6-067.sql, 447.757, 19.717, Bao
+(no hint), 2, 2023-11-09 09:01:39.013199, queries/stack/q6__q6-067.sql, 447.095, 19.125, Bao
+(no hint), 0, 2023-11-09 09:01:43.240617, queries/stack/q6__q6-069.sql, 539.131, 24.417, Bao
+(no hint), 1, 2023-11-09 09:01:43.241399, queries/stack/q6__q6-069.sql, 448.315, 22.862, Bao
+(no hint), 2, 2023-11-09 09:01:43.241547, queries/stack/q6__q6-069.sql, 447.442, 24.233, Bao
+(no hint), 0, 2023-11-09 09:01:47.478040, queries/stack/q6__q6-085.sql, 536.331, 22.585, Bao
+(no hint), 1, 2023-11-09 09:01:47.478247, queries/stack/q6__q6-085.sql, 446.999, 20.163, Bao
+(no hint), 2, 2023-11-09 09:01:47.478321, queries/stack/q6__q6-085.sql, 448.088, 20.963, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 0, 2023-11-09 09:01:54.119304, queries/stack/q7__q7-034.sql, 498.535, 960.182, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 1, 2023-11-09 09:01:54.119485, queries/stack/q7__q7-034.sql, 416.012, 869.816, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 2, 2023-11-09 09:01:54.119542, queries/stack/q7__q7-034.sql, 417.16, 841.575, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 0, 2023-11-09 09:02:00.670008, queries/stack/q7__q7-036.sql, 496.144, 906.597, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 1, 2023-11-09 09:02:00.670302, queries/stack/q7__q7-036.sql, 422.309, 840.394, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 2, 2023-11-09 09:02:00.670433, queries/stack/q7__q7-036.sql, 422.929, 826.109, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 0, 2023-11-09 09:02:07.214389, queries/stack/q7__q7-047.sql, 498.841, 912.126, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 1, 2023-11-09 09:02:07.214701, queries/stack/q7__q7-047.sql, 409.794, 853.408, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 2, 2023-11-09 09:02:07.214861, queries/stack/q7__q7-047.sql, 410.632, 851.396, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 0, 2023-11-09 09:02:13.801151, queries/stack/q7__q7-077.sql, 500.675, 888.918, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 1, 2023-11-09 09:02:13.801435, queries/stack/q7__q7-077.sql, 411.352, 838.312, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 2, 2023-11-09 09:02:13.801598, queries/stack/q7__q7-077.sql, 414.447, 897.688, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 0, 2023-11-09 09:02:20.429395, queries/stack/q7__q7-082.sql, 508.921, 929.142, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 1, 2023-11-09 09:02:20.429742, queries/stack/q7__q7-082.sql, 410.919, 876.53, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 2, 2023-11-09 09:02:20.429894, queries/stack/q7__q7-082.sql, 432.786, 849.665, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 0, 2023-11-09 09:02:27.033935, queries/stack/q7__q7-085.sql, 507.223, 924.195, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 1, 2023-11-09 09:02:27.034245, queries/stack/q7__q7-085.sql, 410.48, 874.547, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 2, 2023-11-09 09:02:27.034403, queries/stack/q7__q7-085.sql, 411.11, 873.449, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 0, 2023-11-09 09:02:33.695171, queries/stack/q7__q7-095.sql, 500.197, 915.067, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 1, 2023-11-09 09:02:33.695593, queries/stack/q7__q7-095.sql, 417.369, 890.347, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 2, 2023-11-09 09:02:33.695947, queries/stack/q7__q7-095.sql, 425.728, 849.917, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 0, 2023-11-09 09:02:40.725017, queries/stack/q7__q7-099.sql, 490.159, 1391.541, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 1, 2023-11-09 09:02:40.725467, queries/stack/q7__q7-099.sql, 414.558, 863.141, Bao
+SET enable_mergejoin TO off; SET enable_indexscan TO off; , 2, 2023-11-09 09:02:40.725805, queries/stack/q7__q7-099.sql, 414.115, 847.346, Bao
+(no hint), 0, 2023-11-09 09:02:50.850166, queries/stack/q8__q8-006.sql, 1645.88, 23.147, Bao
+(no hint), 1, 2023-11-09 09:02:50.850491, queries/stack/q8__q8-006.sql, 1345.108, 19.497, Bao
+(no hint), 2, 2023-11-09 09:02:50.850640, queries/stack/q8__q8-006.sql, 1328.321, 19.508, Bao
+SET enable_mergejoin TO off; , 0, 2023-11-09 09:03:00.818318, queries/stack/q8__q8-025.sql, 1617.65, 21.29, Bao
+SET enable_mergejoin TO off; , 1, 2023-11-09 09:03:00.818695, queries/stack/q8__q8-025.sql, 1336.044, 21.778, Bao
+SET enable_mergejoin TO off; , 2, 2023-11-09 09:03:00.818934, queries/stack/q8__q8-025.sql, 1301.781, 20.13, Bao
+SET enable_mergejoin TO off; , 0, 2023-11-09 09:03:10.630476, queries/stack/q8__q8-046.sql, 1606.473, 20.843, Bao
+SET enable_mergejoin TO off; , 1, 2023-11-09 09:03:10.630761, queries/stack/q8__q8-046.sql, 1298.778, 19.992, Bao
+SET enable_mergejoin TO off; , 2, 2023-11-09 09:03:10.630896, queries/stack/q8__q8-046.sql, 1298.584, 20.102, Bao
+SET enable_mergejoin TO off; , 0, 2023-11-09 09:03:20.653947, queries/stack/q8__q8-062.sql, 1627.107, 23.466, Bao
+SET enable_mergejoin TO off; , 1, 2023-11-09 09:03:20.654230, queries/stack/q8__q8-062.sql, 1382.295, 22.567, Bao
+SET enable_mergejoin TO off; , 2, 2023-11-09 09:03:20.654363, queries/stack/q8__q8-062.sql, 1309.564, 20.116, Bao
+(no hint), 0, 2023-11-09 09:03:30.715640, queries/stack/q8__q8-065.sql, 1625.609, 24.465, Bao
+(no hint), 1, 2023-11-09 09:03:30.716045, queries/stack/q8__q8-065.sql, 1351.598, 19.769, Bao
+(no hint), 2, 2023-11-09 09:03:30.716227, queries/stack/q8__q8-065.sql, 1326.525, 19.294, Bao
+SET enable_mergejoin TO off; , 0, 2023-11-09 09:03:40.572527, queries/stack/q8__q8-074.sql, 1602.398, 24.55, Bao
+SET enable_mergejoin TO off; , 1, 2023-11-09 09:03:40.572834, queries/stack/q8__q8-074.sql, 1308.155, 23.572, Bao
+SET enable_mergejoin TO off; , 2, 2023-11-09 09:03:40.572964, queries/stack/q8__q8-074.sql, 1304.234, 22.529, Bao
+(no hint), 0, 2023-11-09 09:03:50.641780, queries/stack/q8__q8-076.sql, 1652.719, 22.759, Bao
+(no hint), 1, 2023-11-09 09:03:50.642123, queries/stack/q8__q8-076.sql, 1322.549, 19.502, Bao
+(no hint), 2, 2023-11-09 09:03:50.642306, queries/stack/q8__q8-076.sql, 1332.26, 19.322, Bao
+(no hint), 0, 2023-11-09 09:04:00.627643, queries/stack/q8__q8-096.sql, 1668.973, 22.781, Bao
+(no hint), 1, 2023-11-09 09:04:00.628044, queries/stack/q8__q8-096.sql, 1316.84, 19.475, Bao
+(no hint), 2, 2023-11-09 09:04:00.628192, queries/stack/q8__q8-096.sql, 1320.837, 19.486, Bao
